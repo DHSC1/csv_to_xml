@@ -2,7 +2,7 @@ name: CSV to XML Converter
 
 on:
   schedule:
-    - cron:  '0 * * * *'  # Spustí každou hodinu
+    - cron: '0 * * * *'  # Spustí každou hodinu
 
 jobs:
   convert:
@@ -19,14 +19,15 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install pandas
+        pip install pandas lxml
 
     - name: Convert CSV to XML
-      run: python your-script.py
+      run: |
+        python csv_to_xml/your_script.py  # Změna cesty podle umístění vašeho skriptu
 
     - name: Upload XML to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./
-        publish_branch: gh-pages  # Branch for GitHub Pages
+        publish_dir: './'  # Tady zůstává, pokud ukládáte soubor v kořeni
+        publish_branch: gh-pages  # Branch pro GitHub Pages
