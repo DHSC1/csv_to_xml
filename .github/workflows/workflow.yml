@@ -24,7 +24,7 @@ jobs:
 
     - name: Convert CSV to XML
       run: |
-        python csv_to_xml.py  # Zde upravena cesta, protože soubor je v kořenovém adresáři
+        python csv_to_xml/csv_to_xml.py  # Zde upravena cesta, protože soubor je v kořenovém adresáři
 
     - name: Upload XML to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
