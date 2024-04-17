@@ -1,0 +1,10 @@
+import pandas as pd
+
+# Načíst CSV data
+data = pd.read_csv('https://app.dotidot.io/data_feed_exports/4921.csv?token=614be287441e92ff')
+# Převést do XML
+xml_data = data.to_xml()
+
+# Uložit XML do souboru (tento krok můžete upravit podle potřeby)
+with open('data.xml', 'w') as file:
+    file.write(xml_data)
