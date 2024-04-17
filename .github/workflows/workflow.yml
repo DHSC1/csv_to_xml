@@ -24,11 +24,11 @@ jobs:
 
     - name: Convert CSV to XML
       run: |
-        python csv_to_xml  # Opravená cesta k souboru, přidána přípona .py pro správné spuštění
+        python csv_to_xml  # Předpokládám, že váš skript se jmenuje csv_to_xml.py
 
-    - name: Upload XML to GitHub Pages  # Tento krok byl špatně zarovnaný, což mohlo způsobit problémy ve vašem workflow
+    - name: Upload XML to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
       with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
+        github_token: ${{ secrets.TUJE_GITHUB_TOKEN }}  # Změna na vaše specifické pojmenování tokenu
         publish_dir: './'
         publish_branch: main
