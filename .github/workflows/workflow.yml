@@ -30,4 +30,4 @@ jobs:
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: './'  # Tady zůstává, pokud ukládáte soubor v kořeni
-        publish_branch: gh-pages  # Branch pro GitHub Pages
+        publish_branch: main  # Branch pro GitHub Pages
