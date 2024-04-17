@@ -24,7 +24,7 @@ jobs:
 
     - name: Convert CSV to XML
       run: |
-        python csv_to_xml.py  # Opravená cesta k souboru, přidána přípona .py pro správné spuštění
+        python csv_to_xml  # Opravená cesta k souboru, přidána přípona .py pro správné spuštění
 
     - name: Upload XML to GitHub Pages  # Tento krok byl špatně zarovnaný, což mohlo způsobit problémy ve vašem workflow
       uses: peaceiris/actions-gh-pages@v3
