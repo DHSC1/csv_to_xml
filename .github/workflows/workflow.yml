@@ -24,13 +24,11 @@ jobs:
 
     - name: Convert CSV to XML
       run: |
-        python csv_to_xml  # Zde upravena cesta, protože soubor je v kořenovém adresáři
+        python csv_to_xml.py  # Opravená cesta k souboru, přidána přípona .py pro správné spuštění
 
-
-        - name: Upload XML to GitHub Pages
-  uses: peaceiris/actions-gh-pages@v3
-  with:
-    github_token: ${{ secrets.MY_GITHUB_PAT }}
-    publish_dir: './'
-    publish_branch: main
-
+    - name: Upload XML to GitHub Pages  # Tento krok byl špatně zarovnaný, což mohlo způsobit problémy ve vašem workflow
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.MY_GITHUB_PAT }}
+        publish_dir: './'
+        publish_branch: main
