@@ -24,11 +24,11 @@ jobs:
 
     - name: Convert CSV to XML
       run: |
-        python csv_to_xml.py  # Změna cesty podle umístění vašeho skriptu
+        python csv_to_xml.py  # Zde upravena cesta, protože soubor je v kořenovém adresáři
 
     - name: Upload XML to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: './'  # Tady zůstává, pokud ukládáte soubor v kořeni
+        publish_dir: './'
         publish_branch: main  # Branch pro GitHub Pages
