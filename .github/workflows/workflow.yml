@@ -29,6 +29,6 @@ jobs:
     - name: Upload XML to GitHub Pages  # Tento krok byl špatně zarovnaný, což mohlo způsobit problémy ve vašem workflow
       uses: peaceiris/actions-gh-pages@v3
       with:
-        github_token: ${{ secrets.MY_GITHUB_PAT }}
+        github_token: ${{ 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 }}
         publish_dir: './'
         publish_branch: main
