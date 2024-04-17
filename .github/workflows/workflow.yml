@@ -1,6 +1,7 @@
 name: CSV to XML Converter
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: '0 * * * *'  # Spustí každou hodinu
 
