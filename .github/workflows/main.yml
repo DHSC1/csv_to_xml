@@ -1,0 +1,32 @@
+name: CSV to XML Converter
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '*/10 * * * *'  # Spustí každých 10 minut
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install pandas lxml
+    - name: Convert CSV to XML
+      run: |
+        python csv_to_xml  # Zajistěte, že název souboru je správný
+    - name: Upload XML to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.TUJE_GITHUB_TOKEN }}
+        publish_dir: './'
+        publish_branch: gh-pages
