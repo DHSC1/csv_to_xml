@@ -61602,17 +61602,6 @@
   </row>
   <row>
     <index>5600</index>
-    <ID>APWCBP5181</ID>
-    <Title>AlzaPower Patch CAT5E UTP 0.5m oranžový</Title>
-    <Cena>75.0</Cena>
-    <Dostupnost>on way</Dostupnost>
-    <EAN>8595691024722</EAN>
-    <PN>APW-CBP5EU0005O</PN>
-    <URL>https://www.alza.cz//alzapower-patch-cat5e-utp?dq=6592166</URL>
-    <img>https://cdn.alza.cz/foto/f3/AP/APWCBP5181.jpg</img>
-  </row>
-  <row>
-    <index>5601</index>
     <ID>APWCBP5192</ID>
     <Title>AlzaPower Patch CAT5E UTP 1m bílý</Title>
     <Cena>79.0</Cena>
@@ -61623,7 +61612,7 @@
     <img>https://cdn.alza.cz/foto/f3/AP/APWCBP5192.jpg</img>
   </row>
   <row>
-    <index>5602</index>
+    <index>5601</index>
     <ID>APWCBP5195</ID>
     <Title>AlzaPower Patch CAT5E UTP 5m bílý</Title>
     <Cena>109.0</Cena>
@@ -61634,7 +61623,7 @@
     <img>https://cdn.alza.cz/foto/f3/AP/APWCBP5195.jpg</img>
   </row>
   <row>
-    <index>5603</index>
+    <index>5602</index>
     <ID>APWCBP5224</ID>
     <Title>AlzaPower Patch CAT5E UTP crossed 5m šedý</Title>
     <Cena>119.0</Cena>
@@ -61645,7 +61634,7 @@
     <img>https://cdn.alza.cz/foto/f3/AP/APWCBP5224.jpg</img>
   </row>
   <row>
-    <index>5604</index>
+    <index>5603</index>
     <ID>APWCBP5226</ID>
     <Title>AlzaPower Patch CAT5E UTP crossed 10m šedý</Title>
     <Cena>169.0</Cena>
@@ -61656,7 +61645,7 @@
     <img>https://cdn.alza.cz/foto/f3/AP/APWCBP5226.jpg</img>
   </row>
   <row>
-    <index>5605</index>
+    <index>5604</index>
     <ID>APWCBP6103</ID>
     <Title>AlzaPower Patch CAT6 FTP Flat 5m šedý</Title>
     <Cena>99.0</Cena>
@@ -61667,18 +61656,7 @@
     <img>https://cdn.alza.cz/foto/f3/AP/APWCBP6103.jpg</img>
   </row>
   <row>
-    <index>5606</index>
-    <ID>APWCBP6141</ID>
-    <Title>AlzaPower Patch CAT6 UTP 7m šedý</Title>
-    <Cena>149.0</Cena>
-    <Dostupnost>on way</Dostupnost>
-    <EAN>8595691024999</EAN>
-    <PN>APW-CBP6U0070Y</PN>
-    <URL>https://www.alza.cz//alzapower-patch-cat6-utp?dq=6592202</URL>
-    <img>https://cdn.alza.cz/foto/f3/AP/APWCBP6141.jpg</img>
-  </row>
-  <row>
-    <index>5607</index>
+    <index>5605</index>
     <ID>APWCBP6143</ID>
     <Title>AlzaPower Patch CAT6 UTP 15m šedý</Title>
     <Cena>249.0</Cena>
@@ -61689,7 +61667,7 @@
     <img>https://cdn.alza.cz/foto/f3/AP/APWCBP6143.jpg</img>
   </row>
   <row>
-    <index>5608</index>
+    <index>5606</index>
     <ID>APWCBP6150</ID>
     <Title>AlzaPower Patch CAT6 UTP 5m černý</Title>
     <Cena>149.0</Cena>
@@ -61700,7 +61678,7 @@
     <img>https://cdn.alza.cz/foto/f3/AP/APWCBP6150.jpg</img>
   </row>
   <row>
-    <index>5609</index>
+    <index>5607</index>
     <ID>APWCBP6170</ID>
     <Title>AlzaPower Patch CAT6 UTP 5m zelený</Title>
     <Cena>149.0</Cena>
@@ -61711,7 +61689,7 @@
     <img>https://cdn.alza.cz/foto/f3/AP/APWCBP6170.jpg</img>
   </row>
   <row>
-    <index>5610</index>
+    <index>5608</index>
     <ID>APWHC55</ID>
     <Title>AlzaPower USB-C Dock Station 3v1 černý</Title>
     <Cena>790.0</Cena>
@@ -61722,7 +61700,7 @@
     <img>https://cdn.alza.cz/foto/f3/AP/APWHC55.jpg</img>
   </row>
   <row>
-    <index>5611</index>
+    <index>5609</index>
     <ID>APWHC57</ID>
     <Title>AlzaPower USB-C Dock Station 6v1 černý</Title>
     <Cena>990.0</Cena>
@@ -61733,7 +61711,7 @@
     <img>https://cdn.alza.cz/foto/f3/AP/APWHC57.jpg</img>
   </row>
   <row>
-    <index>5612</index>
+    <index>5610</index>
     <ID>APWHC59</ID>
     <Title>AlzaPower USB-C Dock Station 7v1 černý</Title>
     <Cena>1290.0</Cena>
@@ -61744,7 +61722,7 @@
     <img>https://cdn.alza.cz/foto/f3/AP/APWHC59.jpg</img>
   </row>
   <row>
-    <index>5613</index>
+    <index>5611</index>
     <ID>SGRT2S1SS</ID>
     <Title>Siguro TO-T11SS-2S Double Slot</Title>
     <Cena>699.0</Cena>
@@ -61755,7 +61733,7 @@
     <img>https://cdn.alza.cz/foto/f3/SG/SGRT2S1SS.jpg</img>
   </row>
   <row>
-    <index>5614</index>
+    <index>5612</index>
     <ID>SPTstorm143</ID>
     <Title>Stormred Competition Kettlebell 10kg</Title>
     <Cena>1079.0</Cena>
@@ -61766,7 +61744,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTstorm143.jpg</img>
   </row>
   <row>
-    <index>5615</index>
+    <index>5613</index>
     <ID>SPTstorm144</ID>
     <Title>Stormred Competition Kettlebell 14kg</Title>
     <Cena>709.0</Cena>
@@ -61777,7 +61755,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTstorm144.jpg</img>
   </row>
   <row>
-    <index>5616</index>
+    <index>5614</index>
     <ID>SPTstorm145</ID>
     <Title>Stormred Competition Kettlebell 18kg</Title>
     <Cena>1349.0</Cena>
@@ -61788,7 +61766,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTstorm145.jpg</img>
   </row>
   <row>
-    <index>5617</index>
+    <index>5615</index>
     <ID>SGRIB12238002</ID>
     <Title>Siguro Essentials Plus, 122×38 cm, černé</Title>
     <Cena>1199.0</Cena>
@@ -61799,7 +61777,7 @@
     <img>https://cdn.alza.cz/foto/f3/SG/SGRIB12238002.jpg</img>
   </row>
   <row>
-    <index>5618</index>
+    <index>5616</index>
     <ID>wowm205LPg</ID>
     <Title>WowME ID205L-P Grey</Title>
     <Cena>690.0</Cena>
@@ -61810,7 +61788,7 @@
     <img>https://cdn.alza.cz/foto/f3/wo/wowm205LPg.jpg</img>
   </row>
   <row>
-    <index>5619</index>
+    <index>5617</index>
     <ID>wowm205LPp</ID>
     <Title>WowME ID205L-P Pink</Title>
     <Cena>659.0</Cena>
@@ -61821,7 +61799,7 @@
     <img>https://cdn.alza.cz/foto/f3/wo/wowm205LPp.jpg</img>
   </row>
   <row>
-    <index>5620</index>
+    <index>5618</index>
     <ID>wowm2061</ID>
     <Title>WowME ID206 Black</Title>
     <Cena>590.0</Cena>
@@ -61832,7 +61810,7 @@
     <img>https://cdn.alza.cz/foto/f3/wo/wowm2061.jpg</img>
   </row>
   <row>
-    <index>5621</index>
+    <index>5619</index>
     <ID>wowm205LPb</ID>
     <Title>WowME ID205L-P Black</Title>
     <Cena>690.0</Cena>
@@ -61843,7 +61821,7 @@
     <img>https://cdn.alza.cz/foto/f3/wo/wowm205LPb.jpg</img>
   </row>
   <row>
-    <index>5622</index>
+    <index>5620</index>
     <ID>wowm2064</ID>
     <Title>WowME ID206 Red</Title>
     <Cena>390.0</Cena>
@@ -61854,7 +61832,7 @@
     <img>https://cdn.alza.cz/foto/f3/wo/wowm2064.jpg</img>
   </row>
   <row>
-    <index>5623</index>
+    <index>5621</index>
     <ID>wowm2066</ID>
     <Title>WowME ID206 Pink</Title>
     <Cena>590.0</Cena>
@@ -61865,7 +61843,7 @@
     <img>https://cdn.alza.cz/foto/f3/wo/wowm2066.jpg</img>
   </row>
   <row>
-    <index>5624</index>
+    <index>5622</index>
     <ID>wowm2068</ID>
     <Title>WowME ID206 Grey</Title>
     <Cena>690.0</Cena>
@@ -61876,7 +61854,7 @@
     <img>https://cdn.alza.cz/foto/f3/wo/wowm2068.jpg</img>
   </row>
   <row>
-    <index>5625</index>
+    <index>5623</index>
     <ID>wowmGT01b</ID>
     <Title>WowME Watch GT01 Black</Title>
     <Cena>649.0</Cena>
@@ -61887,7 +61865,7 @@
     <img>https://cdn.alza.cz/foto/f3/wo/wowmGT01b.jpg</img>
   </row>
   <row>
-    <index>5626</index>
+    <index>5624</index>
     <ID>APWCC301w_openbox</ID>
     <Title>AlzaPower WFA130 PureCharge 3in1 Dock bílá</Title>
     <Cena>1099.0</Cena>
@@ -61898,7 +61876,7 @@
     <img>https://cdn.alza.cz/foto/f3/AP/APWCC301w.jpg</img>
   </row>
   <row>
-    <index>5627</index>
+    <index>5625</index>
     <ID>LPRGT31</ID>
     <Title>LA PROROMANCE Lavice zahradní skládací W180, hnědá 180cm</Title>
     <Cena>1190.0</Cena>
@@ -61909,7 +61887,7 @@
     <img>https://cdn.alza.cz/foto/f3/LP/LPRGT31.jpg</img>
   </row>
   <row>
-    <index>5628</index>
+    <index>5626</index>
     <ID>BLMAM014</ID>
     <Title>BLACKMONT dvoukomorová autochladnička 33l</Title>
     <Cena>10399.0</Cena>
@@ -61920,7 +61898,7 @@
     <img>https://cdn.alza.cz/foto/f3/BL/BLMAM014.jpg</img>
   </row>
   <row>
-    <index>5629</index>
+    <index>5627</index>
     <ID>AGDPWML001Y</ID>
     <Title>AlzaGuard PU Leather Card Wallet Compatible with Magsafe žlutá</Title>
     <Cena>249.0</Cena>
@@ -61931,7 +61909,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPWML001Y.jpg</img>
   </row>
   <row>
-    <index>5630</index>
+    <index>5628</index>
     <ID>SGRIM210</ID>
     <Title>Siguro IM210 Ice Touch</Title>
     <Cena>3999.0</Cena>
@@ -61942,7 +61920,7 @@
     <img>https://cdn.alza.cz/foto/f3/SG/SGRIM210.jpg</img>
   </row>
   <row>
-    <index>5631</index>
+    <index>5629</index>
     <ID>AGDPCT0139_newish</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Samsung Galaxy A32</Title>
     <Cena>84.0</Cena>
@@ -61953,7 +61931,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0139.jpg</img>
   </row>
   <row>
-    <index>5632</index>
+    <index>5630</index>
     <ID>AGDPCS0028_newish</ID>
     <Title>AlzaGuard Shockproof Case pro Samsung Galaxy S20 FE</Title>
     <Cena>169.0</Cena>
@@ -61964,7 +61942,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCS0028.jpg</img>
   </row>
   <row>
-    <index>5633</index>
+    <index>5631</index>
     <ID>AGPCS0004d_openbox</ID>
     <Title>AlzaGuard Premium Liquid Silicone Case pro iPhone X / Xs modré</Title>
     <Cena>279.0</Cena>
@@ -61975,7 +61953,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGPCS0004d.jpg</img>
   </row>
   <row>
-    <index>5634</index>
+    <index>5632</index>
     <ID>AGPCS0006b_openbox</ID>
     <Title>AlzaGuard Premium Liquid Silicone Case pro iPhone 11 červené</Title>
     <Cena>279.0</Cena>
@@ -61986,7 +61964,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGPCS0006b.jpg</img>
   </row>
   <row>
-    <index>5635</index>
+    <index>5633</index>
     <ID>AGDPCT0126_openbox</ID>
     <Title>AlzaGuard Crystal Clear TPU case pro Xiaomi Redmi Note 10 Pro</Title>
     <Cena>94.0</Cena>
@@ -61997,7 +61975,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0126.jpg</img>
   </row>
   <row>
-    <index>5636</index>
+    <index>5634</index>
     <ID>SPTtss0020</ID>
     <Title>Campgo Pooka 5 Blue</Title>
     <Cena>799.0</Cena>
@@ -62008,7 +61986,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTtss0020.jpg</img>
   </row>
   <row>
-    <index>5637</index>
+    <index>5635</index>
     <ID>SPTtss0021</ID>
     <Title>Campgo Satori 5</Title>
     <Cena>799.0</Cena>
@@ -62019,7 +61997,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTtss0021.jpg</img>
   </row>
   <row>
-    <index>5638</index>
+    <index>5636</index>
     <ID>SPTtss0026</ID>
     <Title>Campgo Vanara 5</Title>
     <Cena>849.0</Cena>
@@ -62030,7 +62008,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTtss0026.jpg</img>
   </row>
   <row>
-    <index>5639</index>
+    <index>5637</index>
     <ID>AGDPCT0110_openbox</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Samsung Galaxy A52 / A52 5G / A52s</Title>
     <Cena>169.0</Cena>
@@ -62041,7 +62019,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0110.jpg</img>
   </row>
   <row>
-    <index>5640</index>
+    <index>5638</index>
     <ID>AEY0653b_openbox</ID>
     <Title>AlzaErgo CMT120 černý</Title>
     <Cena>469.0</Cena>
@@ -62052,7 +62030,7 @@
     <img>https://cdn.alza.cz/foto/f3/AE/AEY0653b.jpg</img>
   </row>
   <row>
-    <index>5641</index>
+    <index>5639</index>
     <ID>AGDPCT0053_newish</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Samsung Galaxy A32 5G</Title>
     <Cena>84.0</Cena>
@@ -62063,7 +62041,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0053.jpg</img>
   </row>
   <row>
-    <index>5642</index>
+    <index>5640</index>
     <ID>SPTstorm119</ID>
     <Title>Stormred 16FT-6W-96H - Classic 488 cm</Title>
     <Cena>1099.0</Cena>
@@ -62074,7 +62052,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTstorm119.jpg</img>
   </row>
   <row>
-    <index>5643</index>
+    <index>5641</index>
     <ID>SPTstorm138</ID>
     <Title>Stormred P15FT-6W-96H - Premium 457 cm</Title>
     <Cena>999.0</Cena>
@@ -62085,7 +62063,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTstorm138.jpg</img>
   </row>
   <row>
-    <index>5644</index>
+    <index>5642</index>
     <ID>AGDPCS0020_openbox</ID>
     <Title>AlzaGuard Shockproof Case pro Samsung Galaxy A32 5G</Title>
     <Cena>189.0</Cena>
@@ -62096,7 +62074,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCS0020.jpg</img>
   </row>
   <row>
-    <index>5645</index>
+    <index>5643</index>
     <ID>SPTstorm139</ID>
     <Title>Stormred 15FT-6W-96H - Clasic 457 cm</Title>
     <Cena>999.0</Cena>
@@ -62107,7 +62085,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTstorm139.jpg</img>
   </row>
   <row>
-    <index>5646</index>
+    <index>5644</index>
     <ID>AGPCS0039b_openbox</ID>
     <Title>AlzaGuard Premium Liquid Silicone Case pro Samsung Galaxy S21+ 5G červené</Title>
     <Cena>279.0</Cena>
@@ -62118,7 +62096,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGPCS0039b.jpg</img>
   </row>
   <row>
-    <index>5647</index>
+    <index>5645</index>
     <ID>SPTrat007</ID>
     <Title>Ratikon Jannu 2</Title>
     <Cena>1019.0</Cena>
@@ -62129,7 +62107,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTrat007.jpg</img>
   </row>
   <row>
-    <index>5648</index>
+    <index>5646</index>
     <ID>SPTrat008</ID>
     <Title>Ratikon Makalu 3</Title>
     <Cena>2439.0</Cena>
@@ -62140,7 +62118,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTrat008.jpg</img>
   </row>
   <row>
-    <index>5649</index>
+    <index>5647</index>
     <ID>SPTrat011</ID>
     <Title>Ratikon Trivor 3</Title>
     <Cena>885.0</Cena>
@@ -62151,7 +62129,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTrat011.jpg</img>
   </row>
   <row>
-    <index>5650</index>
+    <index>5648</index>
     <ID>SPTrat012</ID>
     <Title>Ratikon 24 - 28" BIKE plast, černé</Title>
     <Cena>369.0</Cena>
@@ -62162,7 +62140,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTrat012.jpg</img>
   </row>
   <row>
-    <index>5651</index>
+    <index>5649</index>
     <ID>SPTrat013</ID>
     <Title>Ratikon SHOCK na odpruž. vidlici, černý</Title>
     <Cena>329.0</Cena>
@@ -62173,7 +62151,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTrat013.jpg</img>
   </row>
   <row>
-    <index>5652</index>
+    <index>5650</index>
     <ID>AGPCS0003c_openbox</ID>
     <Title>AlzaGuard Premium Liquid Silicone Case pro iPhone 7 / 8 / SE 2020 / SE 2022 růžové</Title>
     <Cena>279.0</Cena>
@@ -62184,7 +62162,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGPCS0003c.jpg</img>
   </row>
   <row>
-    <index>5653</index>
+    <index>5651</index>
     <ID>AGDPCS0007_openbox</ID>
     <Title>AlzaGuard Shockproof Case pro iPhone 12 Pro Max</Title>
     <Cena>189.0</Cena>
@@ -62195,7 +62173,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCS0007.jpg</img>
   </row>
   <row>
-    <index>5654</index>
+    <index>5652</index>
     <ID>APWCOG08a11</ID>
     <Title>AlzaPower VelcroStrap+ Roll 10m bílá</Title>
     <Cena>249.0</Cena>
@@ -62206,7 +62184,7 @@
     <img>https://cdn.alza.cz/foto/f3/AP/APWCOG08a11.jpg</img>
   </row>
   <row>
-    <index>5655</index>
+    <index>5653</index>
     <ID>SGRSCK360</ID>
     <Title>Siguro SC810W Essentials</Title>
     <Cena>249.0</Cena>
@@ -62217,7 +62195,7 @@
     <img>https://cdn.alza.cz/foto/f3/SG/SGRSCK360.jpg</img>
   </row>
   <row>
-    <index>5656</index>
+    <index>5654</index>
     <ID>SGRSCK370</ID>
     <Title>Siguro SC810B Essentials</Title>
     <Cena>249.0</Cena>
@@ -62228,7 +62206,7 @@
     <img>https://cdn.alza.cz/foto/f3/SG/SGRSCK370.jpg</img>
   </row>
   <row>
-    <index>5657</index>
+    <index>5655</index>
     <ID>SGRSCK400</ID>
     <Title>Siguro SC810R Essentials</Title>
     <Cena>249.0</Cena>
@@ -62239,7 +62217,7 @@
     <img>https://cdn.alza.cz/foto/f3/SG/SGRSCK400.jpg</img>
   </row>
   <row>
-    <index>5658</index>
+    <index>5656</index>
     <ID>SGRSCP130</ID>
     <Title>Siguro SC210B Slick</Title>
     <Cena>299.0</Cena>
@@ -62250,7 +62228,7 @@
     <img>https://cdn.alza.cz/foto/f3/SG/SGRSCP130.jpg</img>
   </row>
   <row>
-    <index>5659</index>
+    <index>5657</index>
     <ID>AGDPCT0010_openbox</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro iPhone 12 / 12 Pro</Title>
     <Cena>169.0</Cena>
@@ -62261,7 +62239,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0010.jpg</img>
   </row>
   <row>
-    <index>5660</index>
+    <index>5658</index>
     <ID>AGDPCT0032_openbox</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Samsung Galaxy S10</Title>
     <Cena>169.0</Cena>
@@ -62272,7 +62250,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0032.jpg</img>
   </row>
   <row>
-    <index>5661</index>
+    <index>5659</index>
     <ID>AGDPCT0047_newish</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro iPhone 11 Pro</Title>
     <Cena>149.0</Cena>
@@ -62283,7 +62261,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0047.jpg</img>
   </row>
   <row>
-    <index>5662</index>
+    <index>5660</index>
     <ID>SPTris111</ID>
     <Title>Stormred Balance board 58 black</Title>
     <Cena>1279.0</Cena>
@@ -62294,7 +62272,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTris111.jpg</img>
   </row>
   <row>
-    <index>5663</index>
+    <index>5661</index>
     <ID>SPTris112</ID>
     <Title>Stormred Balance board 58 grey</Title>
     <Cena>1279.0</Cena>
@@ -62305,7 +62283,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTris112.jpg</img>
   </row>
   <row>
-    <index>5664</index>
+    <index>5662</index>
     <ID>SPTris113</ID>
     <Title>Stormred Balance board 58 red</Title>
     <Cena>1279.0</Cena>
@@ -62316,7 +62294,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTris113.jpg</img>
   </row>
   <row>
-    <index>5665</index>
+    <index>5663</index>
     <ID>SPTris114</ID>
     <Title>Stormred Balance board 63 black</Title>
     <Cena>1119.0</Cena>
@@ -62327,7 +62305,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTris114.jpg</img>
   </row>
   <row>
-    <index>5666</index>
+    <index>5664</index>
     <ID>AGDPCT0015</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro iPhone 6 / 6S</Title>
     <Cena>179.0</Cena>
@@ -62338,7 +62316,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0015.jpg</img>
   </row>
   <row>
-    <index>5667</index>
+    <index>5665</index>
     <ID>AGDPCT0051_openbox</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro iPhone X / Xs</Title>
     <Cena>169.0</Cena>
@@ -62349,7 +62327,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0051.jpg</img>
   </row>
   <row>
-    <index>5668</index>
+    <index>5666</index>
     <ID>AEY0944_newish</ID>
     <Title>AlzaErgo M505B Ceiling kloubový 23"-42"</Title>
     <Cena>419.0</Cena>
@@ -62360,7 +62338,7 @@
     <img>https://cdn.alza.cz/foto/f3/AE/AEY0944.jpg</img>
   </row>
   <row>
-    <index>5669</index>
+    <index>5667</index>
     <ID>Eko0016</ID>
     <Title>AlzaEco Aviváž Fresh 3 l (100 praní)</Title>
     <Cena>169.0</Cena>
@@ -62371,7 +62349,7 @@
     <img>https://cdn.alza.cz/foto/f3/Ek/Eko0016.jpg</img>
   </row>
   <row>
-    <index>5670</index>
+    <index>5668</index>
     <ID>AETAW129_openbox</ID>
     <Title>Eternico Elegance Milanese pro Apple Watch 38mm / 40mm / 41mm růžovo zlatý</Title>
     <Cena>359.0</Cena>
@@ -62382,7 +62360,7 @@
     <img>https://cdn.alza.cz/foto/f3/AE/AETAW129.jpg</img>
   </row>
   <row>
-    <index>5671</index>
+    <index>5669</index>
     <ID>AEY0172</ID>
     <Title>AlzaPower G100 mini fast charge černá</Title>
     <Cena>339.0</Cena>
@@ -62393,7 +62371,7 @@
     <img>https://cdn.alza.cz/foto/f3/AE/AEY0172.jpg</img>
   </row>
   <row>
-    <index>5672</index>
+    <index>5670</index>
     <ID>AGDPCT0051</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro iPhone X / Xs</Title>
     <Cena>179.0</Cena>
@@ -62404,7 +62382,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0051.jpg</img>
   </row>
   <row>
-    <index>5673</index>
+    <index>5671</index>
     <ID>SPTstorm008</ID>
     <Title>Stormred Pro 305 cm</Title>
     <Cena>5990.0</Cena>
@@ -62415,7 +62393,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTstorm008.jpg</img>
   </row>
   <row>
-    <index>5674</index>
+    <index>5672</index>
     <ID>SPTstorm009</ID>
     <Title>Stormred Pro 366 cm</Title>
     <Cena>6990.0</Cena>
@@ -62426,7 +62404,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTstorm009.jpg</img>
   </row>
   <row>
-    <index>5675</index>
+    <index>5673</index>
     <ID>SPTstorm012</ID>
     <Title>Stormred Pro 457 cm</Title>
     <Cena>9990.0</Cena>
@@ -62437,7 +62415,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTstorm012.jpg</img>
   </row>
   <row>
-    <index>5676</index>
+    <index>5674</index>
     <ID>AGDPCT0003_newish</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Samsung Galaxy S20 FE</Title>
     <Cena>149.0</Cena>
@@ -62448,7 +62426,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0003.jpg</img>
   </row>
   <row>
-    <index>5677</index>
+    <index>5675</index>
     <ID>AGDPCMT0001_openbox</ID>
     <Title>AlzaGuard Crystal Clear Case Compatible with Magsafe pro iPhone 12 Mini</Title>
     <Cena>329.0</Cena>
@@ -62459,7 +62437,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCMT0001.jpg</img>
   </row>
   <row>
-    <index>5678</index>
+    <index>5676</index>
     <ID>SGR_SC_S451B</ID>
     <Title>Siguro SC-S451B Smart Body Coach</Title>
     <Cena>999.0</Cena>
@@ -62470,7 +62448,7 @@
     <img>https://cdn.alza.cz/foto/f3/SG/SGR_SC_S451B.jpg</img>
   </row>
   <row>
-    <index>5679</index>
+    <index>5677</index>
     <ID>SGR_SC_S450W</ID>
     <Title>Siguro SC-S450W Smart Body Coach</Title>
     <Cena>599.0</Cena>
@@ -62481,7 +62459,7 @@
     <img>https://cdn.alza.cz/foto/f3/SG/SGR_SC_S450W.jpg</img>
   </row>
   <row>
-    <index>5680</index>
+    <index>5678</index>
     <ID>SPTrat069</ID>
     <Title>RATIKON malé 6ks, karbon</Title>
     <Cena>78.0</Cena>
@@ -62492,7 +62470,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTrat069.jpg</img>
   </row>
   <row>
-    <index>5681</index>
+    <index>5679</index>
     <ID>SPTrat068</ID>
     <Title>RATIKON střední, karbon</Title>
     <Cena>109.0</Cena>
@@ -62503,7 +62481,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTrat068.jpg</img>
   </row>
   <row>
-    <index>5682</index>
+    <index>5680</index>
     <ID>SPTiron47</ID>
     <Title>Stormred pogumovaná činka 5 kg</Title>
     <Cena>499.0</Cena>
@@ -62514,7 +62492,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTiron47.jpg</img>
   </row>
   <row>
-    <index>5683</index>
+    <index>5681</index>
     <ID>SPTiron48</ID>
     <Title>Stormred pogumovaná činka 7,5 kg</Title>
     <Cena>599.0</Cena>
@@ -62525,7 +62503,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTiron48.jpg</img>
   </row>
   <row>
-    <index>5684</index>
+    <index>5682</index>
     <ID>SPTiron52</ID>
     <Title>Stormred Cement Dumbbell Set 16 kg</Title>
     <Cena>959.0</Cena>
@@ -62536,7 +62514,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTiron52.jpg</img>
   </row>
   <row>
-    <index>5685</index>
+    <index>5683</index>
     <ID>SPTiron50</ID>
     <Title>Stormred pogumovaná činka 12,5 kg</Title>
     <Cena>1190.0</Cena>
@@ -62547,7 +62525,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTiron50.jpg</img>
   </row>
   <row>
-    <index>5686</index>
+    <index>5684</index>
     <ID>SPTiron51</ID>
     <Title>Stormred pogumovaná činka 15 kg</Title>
     <Cena>1290.0</Cena>
@@ -62558,7 +62536,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTiron51.jpg</img>
   </row>
   <row>
-    <index>5687</index>
+    <index>5685</index>
     <ID>SPTiron41</ID>
     <Title>Stormred Neoprene Kettlebell 8 kg</Title>
     <Cena>699.0</Cena>
@@ -62569,7 +62547,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTiron41.jpg</img>
   </row>
   <row>
-    <index>5688</index>
+    <index>5686</index>
     <ID>SPTiron39</ID>
     <Title>Stormred Neoprene Kettlebell 4 kg</Title>
     <Cena>299.0</Cena>
@@ -62580,7 +62558,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTiron39.jpg</img>
   </row>
   <row>
-    <index>5689</index>
+    <index>5687</index>
     <ID>SPTiron45</ID>
     <Title>Stormred Neoprene Kettlebell 20 kg</Title>
     <Cena>1399.0</Cena>
@@ -62591,7 +62569,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTiron45.jpg</img>
   </row>
   <row>
-    <index>5690</index>
+    <index>5688</index>
     <ID>SPTiron55</ID>
     <Title>Stormred Masážní válec fialový</Title>
     <Cena>299.0</Cena>
@@ -62602,7 +62580,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTiron55.jpg</img>
   </row>
   <row>
-    <index>5691</index>
+    <index>5689</index>
     <ID>SPTiron56</ID>
     <Title>Stormred Masážní válec zelený</Title>
     <Cena>299.0</Cena>
@@ -62613,7 +62591,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTiron56.jpg</img>
   </row>
   <row>
-    <index>5692</index>
+    <index>5690</index>
     <ID>AGDPCT0153_newish</ID>
     <Title>AlzaGuard Crystal Clear TPU case pro Samsung Galaxy A22</Title>
     <Cena>84.0</Cena>
@@ -62624,7 +62602,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0153.jpg</img>
   </row>
   <row>
-    <index>5693</index>
+    <index>5691</index>
     <ID>SPTcamp01</ID>
     <Title>Campgo wagon green</Title>
     <Cena>1699.0</Cena>
@@ -62635,7 +62613,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTcamp01.jpg</img>
   </row>
   <row>
-    <index>5694</index>
+    <index>5692</index>
     <ID>AET004430b</ID>
     <Title>Eternico Wireless 2.4 GHz Ergonomic Mouse MS430 černá</Title>
     <Cena>349.0</Cena>
@@ -62646,7 +62624,7 @@
     <img>https://cdn.alza.cz/foto/f3/AE/AET004430b.jpg</img>
   </row>
   <row>
-    <index>5695</index>
+    <index>5693</index>
     <ID>RPTGM003f</ID>
     <Title>Rapture COBRA červená</Title>
     <Cena>699.0</Cena>
@@ -62657,7 +62635,7 @@
     <img>https://cdn.alza.cz/foto/f3/RP/RPTGM003f.jpg</img>
   </row>
   <row>
-    <index>5696</index>
+    <index>5694</index>
     <ID>RPTGM002e</ID>
     <Title>Rapture PYTHON modrá</Title>
     <Cena>499.0</Cena>
@@ -62668,7 +62646,7 @@
     <img>https://cdn.alza.cz/foto/f3/RP/RPTGM002e.jpg</img>
   </row>
   <row>
-    <index>5697</index>
+    <index>5695</index>
     <ID>RPTGM002g</ID>
     <Title>Rapture PYTHON fialová</Title>
     <Cena>499.0</Cena>
@@ -62679,7 +62657,7 @@
     <img>https://cdn.alza.cz/foto/f3/RP/RPTGM002g.jpg</img>
   </row>
   <row>
-    <index>5698</index>
+    <index>5696</index>
     <ID>RPTMP002f</ID>
     <Title>Rapture RESPAWN M modrá</Title>
     <Cena>149.0</Cena>
@@ -62690,7 +62668,7 @@
     <img>https://cdn.alza.cz/foto/f3/RP/RPTMP002f.jpg</img>
   </row>
   <row>
-    <index>5699</index>
+    <index>5697</index>
     <ID>SGR_AD_C350CW</ID>
     <Title>Siguro AD-C350CW Swallowtail Keramický</Title>
     <Cena>749.0</Cena>
@@ -62701,7 +62679,7 @@
     <img>https://cdn.alza.cz/foto/f3/SG/SGR_AD_C350CW.jpg</img>
   </row>
   <row>
-    <index>5700</index>
+    <index>5698</index>
     <ID>SGR_AD_F232SW</ID>
     <Title>Siguro AD-F232SW Chequered Skipper</Title>
     <Cena>799.0</Cena>
@@ -62712,7 +62690,7 @@
     <img>https://cdn.alza.cz/foto/f3/SG/SGR_AD_F232SW.jpg</img>
   </row>
   <row>
-    <index>5701</index>
+    <index>5699</index>
     <ID>SGR_AP_X002</ID>
     <Title>Siguro AP-X002 Spare Filter</Title>
     <Cena>999.0</Cena>
@@ -62723,7 +62701,7 @@
     <img>https://cdn.alza.cz/foto/f3/SG/SGR_AP_X002.jpg</img>
   </row>
   <row>
-    <index>5702</index>
+    <index>5700</index>
     <ID>AET004138b_openbox</ID>
     <Title>Eternico Wired Vertical Mouse MDV100 černá</Title>
     <Cena>279.0</Cena>
@@ -62734,7 +62712,7 @@
     <img>https://cdn.alza.cz/foto/f3/AE/AET004138b.jpg</img>
   </row>
   <row>
-    <index>5703</index>
+    <index>5701</index>
     <ID>AGDPCT0073_openbox</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Honor 20 / Huawei Nova 5T</Title>
     <Cena>139.0</Cena>
@@ -62745,7 +62723,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0073.jpg</img>
   </row>
   <row>
-    <index>5704</index>
+    <index>5702</index>
     <ID>AGDPCT0003</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Samsung Galaxy S20 FE</Title>
     <Cena>179.0</Cena>
@@ -62756,7 +62734,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0003.jpg</img>
   </row>
   <row>
-    <index>5705</index>
+    <index>5703</index>
     <ID>AGDPCT0010</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro iPhone 12 / 12 Pro</Title>
     <Cena>179.0</Cena>
@@ -62767,7 +62745,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0010.jpg</img>
   </row>
   <row>
-    <index>5706</index>
+    <index>5704</index>
     <ID>AGDPCT0011</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro iPhone 12 Mini</Title>
     <Cena>179.0</Cena>
@@ -62778,7 +62756,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0011.jpg</img>
   </row>
   <row>
-    <index>5707</index>
+    <index>5705</index>
     <ID>AGDPCT0014</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro iPhone 5 / 5S / SE (2015)</Title>
     <Cena>179.0</Cena>
@@ -62789,7 +62767,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0014.jpg</img>
   </row>
   <row>
-    <index>5708</index>
+    <index>5706</index>
     <ID>AGDPCT0033</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Samsung Galaxy S10e</Title>
     <Cena>179.0</Cena>
@@ -62800,7 +62778,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0033.jpg</img>
   </row>
   <row>
-    <index>5709</index>
+    <index>5707</index>
     <ID>AGDPCT0037</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Xiaomi Redmi 9A</Title>
     <Cena>179.0</Cena>
@@ -62811,7 +62789,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0037.jpg</img>
   </row>
   <row>
-    <index>5710</index>
+    <index>5708</index>
     <ID>AGDPCT0038</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Xiaomi Redmi 9C</Title>
     <Cena>179.0</Cena>
@@ -62822,7 +62800,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0038.jpg</img>
   </row>
   <row>
-    <index>5711</index>
+    <index>5709</index>
     <ID>AGDPCT0046</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro iPhone 11</Title>
     <Cena>179.0</Cena>
@@ -62833,7 +62811,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0046.jpg</img>
   </row>
   <row>
-    <index>5712</index>
+    <index>5710</index>
     <ID>AGDPCT0047</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro iPhone 11 Pro</Title>
     <Cena>179.0</Cena>
@@ -62844,7 +62822,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0047.jpg</img>
   </row>
   <row>
-    <index>5713</index>
+    <index>5711</index>
     <ID>AGDPCT0048</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro iPhone 11 Pro Max</Title>
     <Cena>149.0</Cena>
@@ -62855,7 +62833,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0048.jpg</img>
   </row>
   <row>
-    <index>5714</index>
+    <index>5712</index>
     <ID>AGDPCT0049</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro iPhone 7 / 8 / SE (2020) / SE (2022)</Title>
     <Cena>179.0</Cena>
@@ -62866,7 +62844,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0049.jpg</img>
   </row>
   <row>
-    <index>5715</index>
+    <index>5713</index>
     <ID>AGDPCT0050</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro iPhone Xr</Title>
     <Cena>179.0</Cena>
@@ -62877,7 +62855,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0050.jpg</img>
   </row>
   <row>
-    <index>5716</index>
+    <index>5714</index>
     <ID>AEY0172_openbox</ID>
     <Title>AlzaPower G100 mini fast charge černá</Title>
     <Cena>319.0</Cena>
@@ -62888,7 +62866,7 @@
     <img>https://cdn.alza.cz/foto/f3/AE/AEY0172.jpg</img>
   </row>
   <row>
-    <index>5717</index>
+    <index>5715</index>
     <ID>SPTreet001</ID>
     <Title>Stormred Competition Kettlebell 8kg</Title>
     <Cena>1049.0</Cena>
@@ -62899,7 +62877,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTreet001.jpg</img>
   </row>
   <row>
-    <index>5718</index>
+    <index>5716</index>
     <ID>SPTreet002</ID>
     <Title>Stormred Competition Kettlebell 12kg</Title>
     <Cena>1179.0</Cena>
@@ -62910,7 +62888,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTreet002.jpg</img>
   </row>
   <row>
-    <index>5719</index>
+    <index>5717</index>
     <ID>SPTreet003</ID>
     <Title>Stormred Competition Kettlebell 16kg</Title>
     <Cena>1390.0</Cena>
@@ -62921,7 +62899,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTreet003.jpg</img>
   </row>
   <row>
-    <index>5720</index>
+    <index>5718</index>
     <ID>SPTreet004</ID>
     <Title>Stormred Competition Kettlebell 20kg</Title>
     <Cena>1590.0</Cena>
@@ -62932,7 +62910,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTreet004.jpg</img>
   </row>
   <row>
-    <index>5721</index>
+    <index>5719</index>
     <ID>SPTreet005</ID>
     <Title>Stormred Competition Kettlebell 24kg</Title>
     <Cena>1990.0</Cena>
@@ -62943,7 +62921,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTreet005.jpg</img>
   </row>
   <row>
-    <index>5722</index>
+    <index>5720</index>
     <ID>SPTreet008</ID>
     <Title>Stormred Competition Kettlebell 36kg</Title>
     <Cena>2149.0</Cena>
@@ -62954,7 +62932,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTreet008.jpg</img>
   </row>
   <row>
-    <index>5723</index>
+    <index>5721</index>
     <ID>SPTreet009</ID>
     <Title>Stormred Competition Kettlebell 40kg</Title>
     <Cena>3990.0</Cena>
@@ -62965,7 +62943,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTreet009.jpg</img>
   </row>
   <row>
-    <index>5724</index>
+    <index>5722</index>
     <ID>AETS051</ID>
     <Title>Eternico Elegance Milanese Universal Quick Release 20mm stříbrný</Title>
     <Cena>399.0</Cena>
@@ -62976,7 +62954,7 @@
     <img>https://cdn.alza.cz/foto/f3/AE/AETS051.jpg</img>
   </row>
   <row>
-    <index>5725</index>
+    <index>5723</index>
     <ID>AEY0172_newish</ID>
     <Title>AlzaPower G100 mini fast charge černá</Title>
     <Cena>289.0</Cena>
@@ -62987,7 +62965,7 @@
     <img>https://cdn.alza.cz/foto/f3/AE/AEY0172.jpg</img>
   </row>
   <row>
-    <index>5726</index>
+    <index>5724</index>
     <ID>AET004139b</ID>
     <Title>Eternico Wired Vertical Mouse MDV200 černá</Title>
     <Cena>349.0</Cena>
@@ -62998,7 +62976,7 @@
     <img>https://cdn.alza.cz/foto/f3/AE/AET004139b.jpg</img>
   </row>
   <row>
-    <index>5727</index>
+    <index>5725</index>
     <ID>AET004238b</ID>
     <Title>Eternico Wireless 2.4 GHz Vertical Mouse MV100 černá</Title>
     <Cena>399.0</Cena>
@@ -63009,7 +62987,7 @@
     <img>https://cdn.alza.cz/foto/f3/AE/AET004238b.jpg</img>
   </row>
   <row>
-    <index>5728</index>
+    <index>5726</index>
     <ID>AGPCS0009a_newish</ID>
     <Title>AlzaGuard Premium Liquid Silicone Case pro iPhone 12 mini černé</Title>
     <Cena>249.0</Cena>
@@ -63020,7 +62998,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGPCS0009a.jpg</img>
   </row>
   <row>
-    <index>5729</index>
+    <index>5727</index>
     <ID>AGDPCT0053</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Samsung Galaxy A32 5G</Title>
     <Cena>99.0</Cena>
@@ -63031,7 +63009,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0053.jpg</img>
   </row>
   <row>
-    <index>5730</index>
+    <index>5728</index>
     <ID>AGDPCT0058</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Samsung Galaxy A12</Title>
     <Cena>109.0</Cena>
@@ -63042,7 +63020,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0058.jpg</img>
   </row>
   <row>
-    <index>5731</index>
+    <index>5729</index>
     <ID>AGDPCT0073</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Honor 20 / Huawei Nova 5T</Title>
     <Cena>149.0</Cena>
@@ -63053,7 +63031,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0073.jpg</img>
   </row>
   <row>
-    <index>5732</index>
+    <index>5730</index>
     <ID>AGDPCT0110</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Samsung Galaxy A52 / A52 5G / A52s</Title>
     <Cena>179.0</Cena>
@@ -63064,7 +63042,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0110.jpg</img>
   </row>
   <row>
-    <index>5733</index>
+    <index>5731</index>
     <ID>SPTprot01</ID>
     <Title>Campgo TY7053</Title>
     <Cena>699.0</Cena>
@@ -63075,7 +63053,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTprot01.jpg</img>
   </row>
   <row>
-    <index>5734</index>
+    <index>5732</index>
     <ID>SPTprot02</ID>
     <Title>Campgo TY7055</Title>
     <Cena>999.0</Cena>
@@ -63086,7 +63064,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTprot02.jpg</img>
   </row>
   <row>
-    <index>5735</index>
+    <index>5733</index>
     <ID>SPTprot03</ID>
     <Title>Campgo KR8010</Title>
     <Cena>1499.0</Cena>
@@ -63097,7 +63075,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTprot03.jpg</img>
   </row>
   <row>
-    <index>5736</index>
+    <index>5734</index>
     <ID>SPTprot09</ID>
     <Title>Campgo 9880</Title>
     <Cena>1999.0</Cena>
@@ -63108,7 +63086,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTprot09.jpg</img>
   </row>
   <row>
-    <index>5737</index>
+    <index>5735</index>
     <ID>SPTprot10</ID>
     <Title>Campgo CHO1503</Title>
     <Cena>1899.0</Cena>
@@ -63119,7 +63097,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTprot10.jpg</img>
   </row>
   <row>
-    <index>5738</index>
+    <index>5736</index>
     <ID>SPTprot11</ID>
     <Title>Campgo 9060-2</Title>
     <Cena>995.0</Cena>
@@ -63130,7 +63108,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTprot11.jpg</img>
   </row>
   <row>
-    <index>5739</index>
+    <index>5737</index>
     <ID>SPTprot16</ID>
     <Title>Campgo Závěsné křeslo HM022</Title>
     <Cena>349.0</Cena>
@@ -63141,7 +63119,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTprot16.jpg</img>
   </row>
   <row>
-    <index>5740</index>
+    <index>5738</index>
     <ID>SPTprot17</ID>
     <Title>Campgo Hammock webbing ropes</Title>
     <Cena>280.0</Cena>
@@ -63152,7 +63130,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTprot17.jpg</img>
   </row>
   <row>
-    <index>5741</index>
+    <index>5739</index>
     <ID>AEY0741_openbox</ID>
     <Title>AlzaErgo Stand LD120 černý</Title>
     <Cena>849.0</Cena>
@@ -63163,7 +63141,7 @@
     <img>https://cdn.alza.cz/foto/f3/AE/AEY0741.jpg</img>
   </row>
   <row>
-    <index>5742</index>
+    <index>5740</index>
     <ID>AGDPCT0127_openbox</ID>
     <Title>AlzaGuard Crystal Clear TPU case pro Xiaomi Redmi Note 8</Title>
     <Cena>94.0</Cena>
@@ -63174,7 +63152,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0127.jpg</img>
   </row>
   <row>
-    <index>5743</index>
+    <index>5741</index>
     <ID>AGDPCT0127_newish</ID>
     <Title>AlzaGuard Crystal Clear TPU case pro Xiaomi Redmi Note 8</Title>
     <Cena>84.0</Cena>
@@ -63185,7 +63163,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0127.jpg</img>
   </row>
   <row>
-    <index>5744</index>
+    <index>5742</index>
     <ID>MYD446</ID>
     <Title>AlzaEco Biologicky odbouratelné vlhčené ubrousky 56 ks</Title>
     <Cena>39.0</Cena>
@@ -63196,7 +63174,7 @@
     <img>https://cdn.alza.cz/foto/f3/MY/MYD446.jpg</img>
   </row>
   <row>
-    <index>5745</index>
+    <index>5743</index>
     <ID>TOPA231</ID>
     <Title>AlzaEco Biologicky odbouratelný toaletní papír (60 ks)</Title>
     <Cena>39.0</Cena>
@@ -63207,7 +63185,7 @@
     <img>https://cdn.alza.cz/foto/f3/TO/TOPA231.jpg</img>
   </row>
   <row>
-    <index>5746</index>
+    <index>5744</index>
     <ID>AGDPCS0003_openbox</ID>
     <Title>AlzaGuard Shockproof Case pro iPhone 11 Pro</Title>
     <Cena>209.0</Cena>
@@ -63218,7 +63196,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCS0003.jpg</img>
   </row>
   <row>
-    <index>5747</index>
+    <index>5745</index>
     <ID>AGDPCS0041_openbox</ID>
     <Title>AlzaGuard Shockproof Case pro iPhone 13</Title>
     <Cena>189.0</Cena>
@@ -63229,7 +63207,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCS0041.jpg</img>
   </row>
   <row>
-    <index>5748</index>
+    <index>5746</index>
     <ID>SGR_SK_R160W</ID>
     <Title>Siguro SK-R160W Pure Beauty 2in1</Title>
     <Cena>399.0</Cena>
@@ -63240,7 +63218,7 @@
     <img>https://cdn.alza.cz/foto/f3/SG/SGR_SK_R160W.jpg</img>
   </row>
   <row>
-    <index>5749</index>
+    <index>5747</index>
     <ID>SGR_SK_R420W</ID>
     <Title>Siguro SK-R420P Pure Beauty Mask</Title>
     <Cena>999.0</Cena>
@@ -63251,7 +63229,7 @@
     <img>https://cdn.alza.cz/foto/f3/SG/SGR_SK_R420W.jpg</img>
   </row>
   <row>
-    <index>5750</index>
+    <index>5748</index>
     <ID>SGR_SK_S430P</ID>
     <Title>Siguro SK-S430P Pure Beauty</Title>
     <Cena>599.0</Cena>
@@ -63262,7 +63240,7 @@
     <img>https://cdn.alza.cz/foto/f3/SG/SGR_SK_S430P.jpg</img>
   </row>
   <row>
-    <index>5751</index>
+    <index>5749</index>
     <ID>SGR_SK_U530W</ID>
     <Title>Siguro SK-U530W Pure Beauty</Title>
     <Cena>1299.0</Cena>
@@ -63273,7 +63251,7 @@
     <img>https://cdn.alza.cz/foto/f3/SG/SGR_SK_U530W.jpg</img>
   </row>
   <row>
-    <index>5752</index>
+    <index>5750</index>
     <ID>SGR_SK_V640W</ID>
     <Title>Siguro SK-V640W Pure Beauty Vacupore</Title>
     <Cena>499.0</Cena>
@@ -63284,7 +63262,7 @@
     <img>https://cdn.alza.cz/foto/f3/SG/SGR_SK_V640W.jpg</img>
   </row>
   <row>
-    <index>5753</index>
+    <index>5751</index>
     <ID>wowmKW66bk</ID>
     <Title>WowME KW66 černé</Title>
     <Cena>490.0</Cena>
@@ -63295,7 +63273,7 @@
     <img>https://cdn.alza.cz/foto/f3/wo/wowmKW66bk.jpg</img>
   </row>
   <row>
-    <index>5754</index>
+    <index>5752</index>
     <ID>wowmKW66pk</ID>
     <Title>WowME KW66 růžové</Title>
     <Cena>990.0</Cena>
@@ -63306,7 +63284,7 @@
     <img>https://cdn.alza.cz/foto/f3/wo/wowmKW66pk.jpg</img>
   </row>
   <row>
-    <index>5755</index>
+    <index>5753</index>
     <ID>wowmKW66sgn</ID>
     <Title>WowME KW66 stříbrné/zelené</Title>
     <Cena>490.0</Cena>
@@ -63317,7 +63295,7 @@
     <img>https://cdn.alza.cz/foto/f3/wo/wowmKW66sgn.jpg</img>
   </row>
   <row>
-    <index>5756</index>
+    <index>5754</index>
     <ID>wowmKW66sgy</ID>
     <Title>WowME KW66 stříbrné/bílé</Title>
     <Cena>590.0</Cena>
@@ -63328,7 +63306,7 @@
     <img>https://cdn.alza.cz/foto/f3/wo/wowmKW66sgy.jpg</img>
   </row>
   <row>
-    <index>5757</index>
+    <index>5755</index>
     <ID>AGDPCS0047_openbox</ID>
     <Title>AlzaGuard Shockproof Case pro Samsung Galaxy A22</Title>
     <Cena>189.0</Cena>
@@ -63339,7 +63317,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCS0047.jpg</img>
   </row>
   <row>
-    <index>5758</index>
+    <index>5756</index>
     <ID>wowmSWbl_openbox</ID>
     <Title>WowME Senior Watch černé kožené</Title>
     <Cena>2369.0</Cena>
@@ -63350,7 +63328,7 @@
     <img>https://cdn.alza.cz/foto/f3/wo/wowmSWbl.jpg</img>
   </row>
   <row>
-    <index>5759</index>
+    <index>5757</index>
     <ID>AGDPCS0048_openbox</ID>
     <Title>AlzaGuard Shockproof Case pro Samsung Galaxy A22 5G</Title>
     <Cena>189.0</Cena>
@@ -63361,7 +63339,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCS0048.jpg</img>
   </row>
   <row>
-    <index>5760</index>
+    <index>5758</index>
     <ID>wowmK4bk_openbox</ID>
     <Title>WowME Kids 4G black</Title>
     <Cena>1519.0</Cena>
@@ -63372,7 +63350,7 @@
     <img>https://cdn.alza.cz/foto/f3/wo/wowmK4bk.jpg</img>
   </row>
   <row>
-    <index>5761</index>
+    <index>5759</index>
     <ID>AGDPCS0028_openbox</ID>
     <Title>AlzaGuard Shockproof Case pro Samsung Galaxy S20 FE</Title>
     <Cena>189.0</Cena>
@@ -63383,7 +63361,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCS0028.jpg</img>
   </row>
   <row>
-    <index>5762</index>
+    <index>5760</index>
     <ID>SGR_EM_K420SS</ID>
     <Title>Siguro EM-K420SS Barista</Title>
     <Cena>3199.0</Cena>
@@ -63394,7 +63372,7 @@
     <img>https://cdn.alza.cz/foto/f3/SG/SGR_EM_K420SS.jpg</img>
   </row>
   <row>
-    <index>5763</index>
+    <index>5761</index>
     <ID>SPTratK04</ID>
     <Title>Campgo Titanium Sierra Cup with Folding Handle</Title>
     <Cena>379.0</Cena>
@@ -63405,7 +63383,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTratK04.jpg</img>
   </row>
   <row>
-    <index>5764</index>
+    <index>5762</index>
     <ID>AGDTGW038</ID>
     <Title>AlzaGuard FlexGlass pro Fitbit Luxe</Title>
     <Cena>69.0</Cena>
@@ -63416,7 +63394,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDTGW038.jpg</img>
   </row>
   <row>
-    <index>5765</index>
+    <index>5763</index>
     <ID>AGDPCS0058</ID>
     <Title>AlzaGuard Shockproof Case pro Xiaomi Redmi 10 / 10 (2022)</Title>
     <Cena>199.0</Cena>
@@ -63427,7 +63405,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCS0058.jpg</img>
   </row>
   <row>
-    <index>5766</index>
+    <index>5764</index>
     <ID>AGDPCT0181</ID>
     <Title>AlzaGuard Crystal Clear TPU case pro Xiaomi Redmi 10 (2022)</Title>
     <Cena>99.0</Cena>
@@ -63438,7 +63416,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0181.jpg</img>
   </row>
   <row>
-    <index>5767</index>
+    <index>5765</index>
     <ID>AGDPCT0187</ID>
     <Title>AlzaGuard Crystal Clear TPU case pro Motorola Moto E20</Title>
     <Cena>59.0</Cena>
@@ -63449,7 +63427,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0187.jpg</img>
   </row>
   <row>
-    <index>5768</index>
+    <index>5766</index>
     <ID>AGDTCF0023</ID>
     <Title>AlzaGuard Protective Flip Cover pro iPad Mini 2021</Title>
     <Cena>399.0</Cena>
@@ -63460,7 +63438,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDTCF0023.jpg</img>
   </row>
   <row>
-    <index>5769</index>
+    <index>5767</index>
     <ID>AGPCS0074a</ID>
     <Title>AlzaGuard Premium Liquid Silicone Case pro Xiaomi Redmi 10 / 10 (2022) černé</Title>
     <Cena>199.0</Cena>
@@ -63471,7 +63449,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGPCS0074a.jpg</img>
   </row>
   <row>
-    <index>5770</index>
+    <index>5768</index>
     <ID>AGPCSS0025a</ID>
     <Title>AlzaGuard Liquid Silicone Case with Stand pro iPhone 13 Mini černé</Title>
     <Cena>349.0</Cena>
@@ -63482,7 +63460,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGPCSS0025a.jpg</img>
   </row>
   <row>
-    <index>5771</index>
+    <index>5769</index>
     <ID>AGPCSS0025e</ID>
     <Title>AlzaGuard Liquid Silicon Case with Stand pro iPhone 13 Mini žluté</Title>
     <Cena>349.0</Cena>
@@ -63493,7 +63471,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGPCSS0025e.jpg</img>
   </row>
   <row>
-    <index>5772</index>
+    <index>5770</index>
     <ID>AGDPCT0316_openbox</ID>
     <Title>AlzaGuard Crystal Clear TPU case pro Motorola Moto G73 5G</Title>
     <Cena>65.0</Cena>
@@ -63504,7 +63482,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0316.jpg</img>
   </row>
   <row>
-    <index>5773</index>
+    <index>5771</index>
     <ID>AGDMFMS0004a_openbox</ID>
     <Title>AlzaGuard Magsafe Silicone Case pro iPhone 14 černé</Title>
     <Cena>569.0</Cena>
@@ -63515,7 +63493,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDMFMS0004a.jpg</img>
   </row>
   <row>
-    <index>5774</index>
+    <index>5772</index>
     <ID>AET004420d_newish</ID>
     <Title>Eternico Wireless 2.4 GHz &amp; Double Bluetooth Mouse MSB500 bílá</Title>
     <Cena>509.0</Cena>
@@ -63526,7 +63504,7 @@
     <img>https://cdn.alza.cz/foto/f3/AE/AET004420d.jpg</img>
   </row>
   <row>
-    <index>5775</index>
+    <index>5773</index>
     <ID>AGDPCMM43a_openbox</ID>
     <Title>AlzaGuard Matte Case Compatible with MagSafe pro iPhone 14 černý</Title>
     <Cena>329.0</Cena>
@@ -63537,7 +63515,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCMM43a.jpg</img>
   </row>
   <row>
-    <index>5776</index>
+    <index>5774</index>
     <ID>AGDPCMM32b_openbox</ID>
     <Title>AlzaGuard Matte Case Compatible with MagSafe pro iPhone 13 Mini zelený</Title>
     <Cena>329.0</Cena>
@@ -63548,7 +63526,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCMM32b.jpg</img>
   </row>
   <row>
-    <index>5777</index>
+    <index>5775</index>
     <ID>AGDMFMS0006d_openbox</ID>
     <Title>AlzaGuard Magsafe Silicone Case pro iPhone 14 Pro růžové</Title>
     <Cena>569.0</Cena>
@@ -63559,7 +63537,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDMFMS0006d.jpg</img>
   </row>
   <row>
-    <index>5778</index>
+    <index>5776</index>
     <ID>AGDPCT0305_openbox</ID>
     <Title>AlzaGuard Crystal Clear TPU case pro Xiaomi 13</Title>
     <Cena>169.0</Cena>
@@ -63570,7 +63548,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0305.jpg</img>
   </row>
   <row>
-    <index>5779</index>
+    <index>5777</index>
     <ID>APWLED-0007</ID>
     <Title>AlzaPower LED 18-115W, E27, 2700K, set 2ks</Title>
     <Cena>199.0</Cena>
@@ -63581,7 +63559,7 @@
     <img>https://cdn.alza.cz/foto/f3/AP/APWLED-0007.jpg</img>
   </row>
   <row>
-    <index>5780</index>
+    <index>5778</index>
     <ID>APWLED-0004</ID>
     <Title>AlzaPower LED 12-80W, E27, 2700K, set 3ks</Title>
     <Cena>159.0</Cena>
@@ -63592,7 +63570,7 @@
     <img>https://cdn.alza.cz/foto/f3/AP/APWLED-0004.jpg</img>
   </row>
   <row>
-    <index>5781</index>
+    <index>5779</index>
     <ID>APWLED-0008</ID>
     <Title>AlzaPower LED 8-55W, E14, 2700K, set 2ks</Title>
     <Cena>99.0</Cena>
@@ -63603,7 +63581,7 @@
     <img>https://cdn.alza.cz/foto/f3/AP/APWLED-0008.jpg</img>
   </row>
   <row>
-    <index>5782</index>
+    <index>5780</index>
     <ID>APWLED-0014</ID>
     <Title>Alza Power LED 1.8-25W, G4, 2700K, set 2ks</Title>
     <Cena>149.0</Cena>
@@ -63614,7 +63592,7 @@
     <img>https://cdn.alza.cz/foto/f3/AP/APWLED-0014.jpg</img>
   </row>
   <row>
-    <index>5783</index>
+    <index>5781</index>
     <ID>APWLED-0015</ID>
     <Title>AlzaPower LED 4.2-40W, G9, 2700K, set 2ks</Title>
     <Cena>149.0</Cena>
@@ -63625,7 +63603,7 @@
     <img>https://cdn.alza.cz/foto/f3/AP/APWLED-0015.jpg</img>
   </row>
   <row>
-    <index>5784</index>
+    <index>5782</index>
     <ID>APWLED-0002</ID>
     <Title>AlzaPower LED 9-60W, E27, 4000K, set 3ks</Title>
     <Cena>139.0</Cena>
@@ -63636,7 +63614,7 @@
     <img>https://cdn.alza.cz/foto/f3/AP/APWLED-0002.jpg</img>
   </row>
   <row>
-    <index>5785</index>
+    <index>5783</index>
     <ID>APWLED-0003</ID>
     <Title>AlzaPower LED 9-60W, E27, 2700K, set 6ks</Title>
     <Cena>199.0</Cena>
@@ -63647,7 +63625,7 @@
     <img>https://cdn.alza.cz/foto/f3/AP/APWLED-0003.jpg</img>
   </row>
   <row>
-    <index>5786</index>
+    <index>5784</index>
     <ID>AGPCS0126a_openbox</ID>
     <Title>AlzaGuard Premium Liquid Silicone Case pro Samsung Galaxy A34 5G černé</Title>
     <Cena>279.0</Cena>
@@ -63658,7 +63636,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGPCS0126a.jpg</img>
   </row>
   <row>
-    <index>5787</index>
+    <index>5785</index>
     <ID>AGDPCT0266_openbox</ID>
     <Title>AlzaGuard Crystal Clear TPU case pro iPhone 14 Plus</Title>
     <Cena>169.0</Cena>
@@ -63669,7 +63647,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0266.jpg</img>
   </row>
   <row>
-    <index>5788</index>
+    <index>5786</index>
     <ID>APWLED-0009</ID>
     <Title>AlzaPower LED 8-55W, E14, 4000K, set 2ks</Title>
     <Cena>99.0</Cena>
@@ -63680,7 +63658,7 @@
     <img>https://cdn.alza.cz/foto/f3/AP/APWLED-0009.jpg</img>
   </row>
   <row>
-    <index>5789</index>
+    <index>5787</index>
     <ID>AGDPCT0314_openbox</ID>
     <Title>AlzaGuard Crystal Clear TPU case pro Motorola Moto G13 / G23</Title>
     <Cena>169.0</Cena>
@@ -63691,7 +63669,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0314.jpg</img>
   </row>
   <row>
-    <index>5790</index>
+    <index>5788</index>
     <ID>AEY0839b</ID>
     <Title>AlzaErgo Laptop Mount O30B</Title>
     <Cena>399.0</Cena>
@@ -63702,7 +63680,7 @@
     <img>https://cdn.alza.cz/foto/f3/AE/AEY0839b.jpg</img>
   </row>
   <row>
-    <index>5791</index>
+    <index>5789</index>
     <ID>SGR_WB_X001</ID>
     <Title>Siguro Náhradní protipachový filtr pro SGR_WB_M645SU, SGR_WB_M645SU, 1ks</Title>
     <Cena>79.0</Cena>
@@ -63713,7 +63691,7 @@
     <img>https://cdn.alza.cz/foto/f3/SG/SGR_WB_X001.jpg</img>
   </row>
   <row>
-    <index>5792</index>
+    <index>5790</index>
     <ID>SPTtss0041</ID>
     <Title>Campgo Pooka 5 Black</Title>
     <Cena>799.0</Cena>
@@ -63724,7 +63702,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTtss0041.jpg</img>
   </row>
   <row>
-    <index>5793</index>
+    <index>5791</index>
     <ID>SPTtss0042</ID>
     <Title>Campgo Kelpie 8,5</Title>
     <Cena>1499.0</Cena>
@@ -63735,7 +63713,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTtss0042.jpg</img>
   </row>
   <row>
-    <index>5794</index>
+    <index>5792</index>
     <ID>CIS2142</ID>
     <Title>AlzaEco Biologicky odbouratelné vlhčené ubrousky (4× 56 ks)</Title>
     <Cena>129.0</Cena>
@@ -63746,7 +63724,7 @@
     <img>https://cdn.alza.cz/foto/f3/CI/CIS2142.jpg</img>
   </row>
   <row>
-    <index>5795</index>
+    <index>5793</index>
     <ID>SGR_TF_J140Y</ID>
     <Title>SIGURO TF-J140Y Fresh</Title>
     <Cena>5999.0</Cena>
@@ -63757,7 +63735,7 @@
     <img>https://cdn.alza.cz/foto/f3/SG/SGR_TF_J140Y.jpg</img>
   </row>
   <row>
-    <index>5796</index>
+    <index>5794</index>
     <ID>SGR_MC_J140W</ID>
     <Title>SIGURO MC-J140W</Title>
     <Cena>6990.0</Cena>
@@ -63768,7 +63746,7 @@
     <img>https://cdn.alza.cz/foto/f3/SG/SGR_MC_J140W.jpg</img>
   </row>
   <row>
-    <index>5797</index>
+    <index>5795</index>
     <ID>SGR_MC_J140S</ID>
     <Title>SIGURO MC-J140S</Title>
     <Cena>7490.0</Cena>
@@ -63779,7 +63757,7 @@
     <img>https://cdn.alza.cz/foto/f3/SG/SGR_MC_J140S.jpg</img>
   </row>
   <row>
-    <index>5798</index>
+    <index>5796</index>
     <ID>SGR_HB_C150B_openbox</ID>
     <Title>SIGURO SGR-HB-C150B Dual</Title>
     <Cena>2299.0</Cena>
@@ -63790,7 +63768,7 @@
     <img>https://cdn.alza.cz/foto/f3/SG/SGR_HB_C150B.jpg</img>
   </row>
   <row>
-    <index>5799</index>
+    <index>5797</index>
     <ID>AET004250b</ID>
     <Title>Eternico Wired Office Mouse MDV350B silent</Title>
     <Cena>299.0</Cena>
@@ -63801,7 +63779,7 @@
     <img>https://cdn.alza.cz/foto/f3/AE/AET004250b.jpg</img>
   </row>
   <row>
-    <index>5800</index>
+    <index>5798</index>
     <ID>AET004550a</ID>
     <Title>Eternico Wireless 2.4G Travel Mouse MS500B silent</Title>
     <Cena>249.0</Cena>
@@ -63812,7 +63790,7 @@
     <img>https://cdn.alza.cz/foto/f3/AE/AET004550a.jpg</img>
   </row>
   <row>
-    <index>5801</index>
+    <index>5799</index>
     <ID>AGDMFMS0001a_openbox</ID>
     <Title>AlzaGuard Magsafe Silicone Case pro iPhone 12 / 12 Pro černé</Title>
     <Cena>569.0</Cena>
@@ -63823,7 +63801,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDMFMS0001a.jpg</img>
   </row>
   <row>
-    <index>5802</index>
+    <index>5800</index>
     <ID>AGDGLCM2</ID>
     <Title>AlzaGuard Genuine Leather Case with Magsafe pro iPhone 13 Mini černý</Title>
     <Cena>599.0</Cena>
@@ -63834,7 +63812,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDGLCM2.jpg</img>
   </row>
   <row>
-    <index>5803</index>
+    <index>5801</index>
     <ID>AGDGLCM3</ID>
     <Title>AlzaGuard Genuine Leather Case with Magsafe pro iPhone 13 černý</Title>
     <Cena>599.0</Cena>
@@ -63845,7 +63823,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDGLCM3.jpg</img>
   </row>
   <row>
-    <index>5804</index>
+    <index>5802</index>
     <ID>AGDGLCM4</ID>
     <Title>AlzaGuard Genuine Leather Case with Magsafe pro iPhone 14 Pro černý</Title>
     <Cena>599.0</Cena>
@@ -63856,7 +63834,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDGLCM4.jpg</img>
   </row>
   <row>
-    <index>5805</index>
+    <index>5803</index>
     <ID>AGDGLCM5</ID>
     <Title>AlzaGuard Genuine Leather Case with Magsafe pro iPhone 15 černý</Title>
     <Cena>599.0</Cena>
@@ -63867,7 +63845,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDGLCM5.jpg</img>
   </row>
   <row>
-    <index>5806</index>
+    <index>5804</index>
     <ID>AGDGLCM8</ID>
     <Title>AlzaGuard Genuine Leather Case with Magsafe pro iPhone 15 Pro Max černý</Title>
     <Cena>599.0</Cena>
@@ -63878,7 +63856,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDGLCM8.jpg</img>
   </row>
   <row>
-    <index>5807</index>
+    <index>5805</index>
     <ID>AGDGLCM9</ID>
     <Title>AlzaGuard Genuine Leather Case with Magsafe pro iPhone 15 sedlově hnědý</Title>
     <Cena>599.0</Cena>
@@ -63889,7 +63867,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDGLCM9.jpg</img>
   </row>
   <row>
-    <index>5808</index>
+    <index>5806</index>
     <ID>AGDGLCM6</ID>
     <Title>AlzaGuard Genuine Leather Case with Magsafe pro iPhone 15 Plus černý</Title>
     <Cena>599.0</Cena>
@@ -63900,7 +63878,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDGLCM6.jpg</img>
   </row>
   <row>
-    <index>5809</index>
+    <index>5807</index>
     <ID>AGDGLCM12</ID>
     <Title>AlzaGuard Genuine Leather Case with Magsafe pro iPhone 15 Pro Max sedlově hnědý</Title>
     <Cena>599.0</Cena>
@@ -63911,7 +63889,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDGLCM12.jpg</img>
   </row>
   <row>
-    <index>5810</index>
+    <index>5808</index>
     <ID>AGDMFMS8a</ID>
     <Title>AlzaGuard Magsafe Silicone Case pro iPhone 15 černý</Title>
     <Cena>599.0</Cena>
@@ -63922,7 +63900,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDMFMS8a.jpg</img>
   </row>
   <row>
-    <index>5811</index>
+    <index>5809</index>
     <ID>AGDMFMS9a</ID>
     <Title>AlzaGuard Magsafe Silicone Case pro iPhone 15 Plus černý</Title>
     <Cena>599.0</Cena>
@@ -63933,7 +63911,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDMFMS9a.jpg</img>
   </row>
   <row>
-    <index>5812</index>
+    <index>5810</index>
     <ID>AGDGLCM10</ID>
     <Title>AlzaGuard Genuine Leather Case with Magsafe pro iPhone 15 Plus sedlově hnědý</Title>
     <Cena>599.0</Cena>
@@ -63944,7 +63922,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDGLCM10.jpg</img>
   </row>
   <row>
-    <index>5813</index>
+    <index>5811</index>
     <ID>AGDMFMS11a</ID>
     <Title>AlzaGuard Magsafe Silicone Case pro iPhone 15 Pro Max černý</Title>
     <Cena>599.0</Cena>
@@ -63955,7 +63933,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDMFMS11a.jpg</img>
   </row>
   <row>
-    <index>5814</index>
+    <index>5812</index>
     <ID>AGDMFMS9b</ID>
     <Title>AlzaGuard Magsafe Silicone Case pro iPhone 15 Plus modrý</Title>
     <Cena>599.0</Cena>
@@ -63966,7 +63944,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDMFMS9b.jpg</img>
   </row>
   <row>
-    <index>5815</index>
+    <index>5813</index>
     <ID>AGDMFMS8b</ID>
     <Title>AlzaGuard Magsafe Silicone Case pro iPhone 15 modrý</Title>
     <Cena>599.0</Cena>
@@ -63977,7 +63955,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDMFMS8b.jpg</img>
   </row>
   <row>
-    <index>5816</index>
+    <index>5814</index>
     <ID>AGDMFMS10a</ID>
     <Title>AlzaGuard Magsafe Silicone Case pro iPhone 15 Pro černý</Title>
     <Cena>599.0</Cena>
@@ -63988,7 +63966,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDMFMS10a.jpg</img>
   </row>
   <row>
-    <index>5817</index>
+    <index>5815</index>
     <ID>AGDMFMS11b</ID>
     <Title>AlzaGuard Magsafe Silicone Case pro iPhone 15 Pro Max modrý</Title>
     <Cena>599.0</Cena>
@@ -63999,7 +63977,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDMFMS11b.jpg</img>
   </row>
   <row>
-    <index>5818</index>
+    <index>5816</index>
     <ID>AGDMFMS9c</ID>
     <Title>AlzaGuard Magsafe Silicone Case pro iPhone 15 Plus červený</Title>
     <Cena>599.0</Cena>
@@ -64010,7 +63988,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDMFMS9c.jpg</img>
   </row>
   <row>
-    <index>5819</index>
+    <index>5817</index>
     <ID>AGDMFMS10c</ID>
     <Title>AlzaGuard Magsafe Silicone Case pro iPhone 15 Pro červený</Title>
     <Cena>599.0</Cena>
@@ -64021,7 +63999,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDMFMS10c.jpg</img>
   </row>
   <row>
-    <index>5820</index>
+    <index>5818</index>
     <ID>AGDMFMS11c</ID>
     <Title>AlzaGuard Magsafe Silicone Case pro iPhone 15 Pro Max červený</Title>
     <Cena>599.0</Cena>
@@ -64032,7 +64010,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDMFMS11c.jpg</img>
   </row>
   <row>
-    <index>5821</index>
+    <index>5819</index>
     <ID>AGDMFMS8c</ID>
     <Title>AlzaGuard Magsafe Silicone Case pro iPhone 15 červený</Title>
     <Cena>599.0</Cena>
@@ -64043,7 +64021,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDMFMS8c.jpg</img>
   </row>
   <row>
-    <index>5822</index>
+    <index>5820</index>
     <ID>AGDMFMS9d</ID>
     <Title>AlzaGuard Magsafe Silicone Case pro iPhone 15 Plus růžový</Title>
     <Cena>599.0</Cena>
@@ -64054,7 +64032,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDMFMS9d.jpg</img>
   </row>
   <row>
-    <index>5823</index>
+    <index>5821</index>
     <ID>AGDMFMS10d</ID>
     <Title>AlzaGuard Magsafe Silicone Case pro iPhone 15 Pro růžový</Title>
     <Cena>599.0</Cena>
@@ -64065,7 +64043,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDMFMS10d.jpg</img>
   </row>
   <row>
-    <index>5824</index>
+    <index>5822</index>
     <ID>AGDMFMS8d</ID>
     <Title>AlzaGuard Magsafe Silicone Case pro iPhone 15 růžový</Title>
     <Cena>599.0</Cena>
@@ -64076,7 +64054,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDMFMS8d.jpg</img>
   </row>
   <row>
-    <index>5825</index>
+    <index>5823</index>
     <ID>AGDTGC0384</ID>
     <Title>AlzaGuard 2.5D Case Friendly Glass Protector pro Samsung Galaxy A24 / A25 5G</Title>
     <Cena>179.0</Cena>
@@ -64087,7 +64065,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDTGC0384.jpg</img>
   </row>
   <row>
-    <index>5826</index>
+    <index>5824</index>
     <ID>AGDTGT44</ID>
     <Title>AlzaGuard Glass Protector pro HONOR Pad 8</Title>
     <Cena>299.0</Cena>
@@ -64098,7 +64076,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDTGT44.jpg</img>
   </row>
   <row>
-    <index>5827</index>
+    <index>5825</index>
     <ID>AGDTGT45</ID>
     <Title>AlzaGuard Glass Protector pro HONOR Pad X8</Title>
     <Cena>499.0</Cena>
@@ -64109,7 +64087,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDTGT45.jpg</img>
   </row>
   <row>
-    <index>5828</index>
+    <index>5826</index>
     <ID>AGDTGT46</ID>
     <Title>AlzaGuard Glass Protector pro Samsung Galaxy Tab S9</Title>
     <Cena>499.0</Cena>
@@ -64120,7 +64098,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDTGT46.jpg</img>
   </row>
   <row>
-    <index>5829</index>
+    <index>5827</index>
     <ID>AGDTGT47</ID>
     <Title>AlzaGuard Glass Protector pro Samsung Galaxy Tab S9+ / S9 FE+</Title>
     <Cena>499.0</Cena>
@@ -64131,7 +64109,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDTGT47.jpg</img>
   </row>
   <row>
-    <index>5830</index>
+    <index>5828</index>
     <ID>AGDTGT49</ID>
     <Title>AlzaGuard Glass Protector pro Google Pixel Tablet</Title>
     <Cena>199.0</Cena>
@@ -64142,7 +64120,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDTGT49.jpg</img>
   </row>
   <row>
-    <index>5831</index>
+    <index>5829</index>
     <ID>AGDTCT46</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Samsung Galaxy Tab S9 Ultra</Title>
     <Cena>299.0</Cena>
@@ -64153,7 +64131,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDTCT46.jpg</img>
   </row>
   <row>
-    <index>5832</index>
+    <index>5830</index>
     <ID>AGDTCF67</ID>
     <Title>AlzaGuard Protective Flip Cover pro Samsung Galaxy Tab S9+ / S9 FE+ černý</Title>
     <Cena>499.0</Cena>
@@ -64164,7 +64142,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDTCF67.jpg</img>
   </row>
   <row>
-    <index>5833</index>
+    <index>5831</index>
     <ID>AGDTCF68</ID>
     <Title>AlzaGuard Protective Flip Cover pro Samsung Galaxy Tab S9 Ultra černý</Title>
     <Cena>499.0</Cena>
@@ -64175,7 +64153,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDTCF68.jpg</img>
   </row>
   <row>
-    <index>5834</index>
+    <index>5832</index>
     <ID>AGDTCF69</ID>
     <Title>AlzaGuard Protective Flip Cover pro Google Pixel Tablet černý</Title>
     <Cena>299.0</Cena>
@@ -64186,7 +64164,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDTCF69.jpg</img>
   </row>
   <row>
-    <index>5835</index>
+    <index>5833</index>
     <ID>AGDTCF70</ID>
     <Title>AlzaGuard Protective Flip Cover pro Xiaomi Pad 6 černý</Title>
     <Cena>499.0</Cena>
@@ -64197,7 +64175,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDTCF70.jpg</img>
   </row>
   <row>
-    <index>5836</index>
+    <index>5834</index>
     <ID>AGDTCF72</ID>
     <Title>AlzaGuard Protective Flip Cover pro Samsung Galaxy Tab S9 / S9 FE červený</Title>
     <Cena>499.0</Cena>
@@ -64208,7 +64186,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDTCF72.jpg</img>
   </row>
   <row>
-    <index>5837</index>
+    <index>5835</index>
     <ID>AGDPCT0328</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro OnePlus Nord 3 5G čirý</Title>
     <Cena>169.0</Cena>
@@ -64219,7 +64197,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0328.jpg</img>
   </row>
   <row>
-    <index>5838</index>
+    <index>5836</index>
     <ID>AGDPCT0327</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro OnePlus Nord CE 3 Lite 5G čirý</Title>
     <Cena>169.0</Cena>
@@ -64230,7 +64208,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0327.jpg</img>
   </row>
   <row>
-    <index>5839</index>
+    <index>5837</index>
     <ID>AGDPCT0329</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Google Pixel 7a 5G čirý</Title>
     <Cena>169.0</Cena>
@@ -64241,7 +64219,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0329.jpg</img>
   </row>
   <row>
-    <index>5840</index>
+    <index>5838</index>
     <ID>AGDPCT0331</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Xiaomi Redmi Note 12 4G</Title>
     <Cena>169.0</Cena>
@@ -64252,7 +64230,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0331.jpg</img>
   </row>
   <row>
-    <index>5841</index>
+    <index>5839</index>
     <ID>AGDPCT0332</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Xiaomi Redmi Note 12S čirý</Title>
     <Cena>169.0</Cena>
@@ -64263,7 +64241,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0332.jpg</img>
   </row>
   <row>
-    <index>5842</index>
+    <index>5840</index>
     <ID>AGDPCT0338</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Samsung Galaxy Xcover 6 Pro</Title>
     <Cena>59.0</Cena>
@@ -64274,7 +64252,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0338.jpg</img>
   </row>
   <row>
-    <index>5843</index>
+    <index>5841</index>
     <ID>AGDPCT0340</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Samsung Galaxy M54 5G</Title>
     <Cena>49.0</Cena>
@@ -64285,7 +64263,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0340.jpg</img>
   </row>
   <row>
-    <index>5844</index>
+    <index>5842</index>
     <ID>AGDPCT0330</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Motorola Edge 40 5G čirý</Title>
     <Cena>169.0</Cena>
@@ -64296,7 +64274,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0330.jpg</img>
   </row>
   <row>
-    <index>5845</index>
+    <index>5843</index>
     <ID>AGDTCT45</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Samsung Galaxy Tab S9+</Title>
     <Cena>299.0</Cena>
@@ -64307,7 +64285,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDTCT45.jpg</img>
   </row>
   <row>
-    <index>5846</index>
+    <index>5844</index>
     <ID>AGDPCT0345</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Sony Xperia 1 V 5G čirý</Title>
     <Cena>169.0</Cena>
@@ -64318,7 +64296,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0345.jpg</img>
   </row>
   <row>
-    <index>5847</index>
+    <index>5845</index>
     <ID>AGDTCT42</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro HONOR Pad 8</Title>
     <Cena>99.0</Cena>
@@ -64329,7 +64307,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDTCT42.jpg</img>
   </row>
   <row>
-    <index>5848</index>
+    <index>5846</index>
     <ID>AGDPCT0347</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Asus ROG Phone 7 / 7 Ultimate čirý</Title>
     <Cena>169.0</Cena>
@@ -64340,7 +64318,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0347.jpg</img>
   </row>
   <row>
-    <index>5849</index>
+    <index>5847</index>
     <ID>AGDPCT0348</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Realme Narzo 50 čirý</Title>
     <Cena>69.0</Cena>
@@ -64351,7 +64329,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0348.jpg</img>
   </row>
   <row>
-    <index>5850</index>
+    <index>5848</index>
     <ID>AGDPCT0349</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Realme C51 / C53 čirý</Title>
     <Cena>169.0</Cena>
@@ -64362,7 +64340,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0349.jpg</img>
   </row>
   <row>
-    <index>5851</index>
+    <index>5849</index>
     <ID>AGDPCT0346</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Sony Xperia 10 V 5G čirý</Title>
     <Cena>169.0</Cena>
@@ -64373,7 +64351,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0346.jpg</img>
   </row>
   <row>
-    <index>5852</index>
+    <index>5850</index>
     <ID>AGDPCT0352</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Honor 90 Lite 5G čirý</Title>
     <Cena>169.0</Cena>
@@ -64384,7 +64362,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0352.jpg</img>
   </row>
   <row>
-    <index>5853</index>
+    <index>5851</index>
     <ID>AGDPCT0353</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Motorola Moto E13 čirý</Title>
     <Cena>99.0</Cena>
@@ -64395,7 +64373,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0353.jpg</img>
   </row>
   <row>
-    <index>5854</index>
+    <index>5852</index>
     <ID>AGDPCT0354</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro ASUS Zenfone 10 čirý</Title>
     <Cena>169.0</Cena>
@@ -64406,7 +64384,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0354.jpg</img>
   </row>
   <row>
-    <index>5855</index>
+    <index>5853</index>
     <ID>AGDPCTS0105</ID>
     <Title>AlzaGuard Shockproof Case pro Xiaomi Redmi Note 12 4G čirý</Title>
     <Cena>199.0</Cena>
@@ -64417,7 +64395,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCTS0105.jpg</img>
   </row>
   <row>
-    <index>5856</index>
+    <index>5854</index>
     <ID>AGDPCT0351</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Honor 90 5G čirý</Title>
     <Cena>169.0</Cena>
@@ -64428,7 +64406,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0351.jpg</img>
   </row>
   <row>
-    <index>5857</index>
+    <index>5855</index>
     <ID>AGDPCTS0107</ID>
     <Title>AlzaGuard Shockproof Case pro Xiaomi Redmi 12 čirý</Title>
     <Cena>199.0</Cena>
@@ -64439,7 +64417,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCTS0107.jpg</img>
   </row>
   <row>
-    <index>5858</index>
+    <index>5856</index>
     <ID>AGDPCTS0108</ID>
     <Title>AlzaGuard Shockproof Case pro Realme C51 / C53 čirý</Title>
     <Cena>199.0</Cena>
@@ -64450,7 +64428,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCTS0108.jpg</img>
   </row>
   <row>
-    <index>5859</index>
+    <index>5857</index>
     <ID>AGDPCTS0109</ID>
     <Title>AlzaGuard Shockproof Case pro Realme 11 Pro 5G / 11 Pro+ 5G čirý</Title>
     <Cena>199.0</Cena>
@@ -64461,7 +64439,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCTS0109.jpg</img>
   </row>
   <row>
-    <index>5860</index>
+    <index>5858</index>
     <ID>AGDPCTS0110</ID>
     <Title>AlzaGuard Shockproof Case pro Samsung Galaxy A24 čirý</Title>
     <Cena>69.0</Cena>
@@ -64472,7 +64450,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCTS0110.jpg</img>
   </row>
   <row>
-    <index>5861</index>
+    <index>5859</index>
     <ID>AGDPCTS0106</ID>
     <Title>AlzaGuard Shockproof Case pro Xiaomi Redmi Note 12S čirý</Title>
     <Cena>199.0</Cena>
@@ -64483,7 +64461,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCTS0106.jpg</img>
   </row>
   <row>
-    <index>5862</index>
+    <index>5860</index>
     <ID>AGDPCT331a</ID>
     <Title>AlzaGuard Matte TPU Case pro Xiaomi Redmi Note 12 4G černý</Title>
     <Cena>199.0</Cena>
@@ -64494,7 +64472,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT331a.jpg</img>
   </row>
   <row>
-    <index>5863</index>
+    <index>5861</index>
     <ID>AGDPCT0333</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Xiaomi Redmi 12</Title>
     <Cena>169.0</Cena>
@@ -64505,7 +64483,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0333.jpg</img>
   </row>
   <row>
-    <index>5864</index>
+    <index>5862</index>
     <ID>AGDPCT0334</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro POCO F5 čirý</Title>
     <Cena>69.0</Cena>
@@ -64516,7 +64494,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0334.jpg</img>
   </row>
   <row>
-    <index>5865</index>
+    <index>5863</index>
     <ID>AGDPCTS0111</ID>
     <Title>AlzaGuard Shockproof Case pro Samsung Galaxy M54 5G čirý</Title>
     <Cena>69.0</Cena>
@@ -64527,7 +64505,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCTS0111.jpg</img>
   </row>
   <row>
-    <index>5866</index>
+    <index>5864</index>
     <ID>AGDPCT0339</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Samsung Galaxy A24</Title>
     <Cena>169.0</Cena>
@@ -64538,7 +64516,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0339.jpg</img>
   </row>
   <row>
-    <index>5867</index>
+    <index>5865</index>
     <ID>AGDPCT0337</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Tecno Spark 10 Pro čirý</Title>
     <Cena>69.0</Cena>
@@ -64549,7 +64527,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0337.jpg</img>
   </row>
   <row>
-    <index>5868</index>
+    <index>5866</index>
     <ID>AGDPCT0336</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Tecno Spark Go 2023 čirý</Title>
     <Cena>99.0</Cena>
@@ -64560,7 +64538,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0336.jpg</img>
   </row>
   <row>
-    <index>5869</index>
+    <index>5867</index>
     <ID>AGDPCT333a</ID>
     <Title>AlzaGuard Matte TPU Case pro Xiaomi Redmi 12 černý</Title>
     <Cena>199.0</Cena>
@@ -64571,7 +64549,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT333a.jpg</img>
   </row>
   <row>
-    <index>5870</index>
+    <index>5868</index>
     <ID>AGDPCT0342</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Google Pixel 8 čirý</Title>
     <Cena>169.0</Cena>
@@ -64582,7 +64560,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0342.jpg</img>
   </row>
   <row>
-    <index>5871</index>
+    <index>5869</index>
     <ID>AGDPCT0343</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Google Pixel 8 Pro čirý</Title>
     <Cena>169.0</Cena>
@@ -64593,7 +64571,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0343.jpg</img>
   </row>
   <row>
-    <index>5872</index>
+    <index>5870</index>
     <ID>AGDPCT332c</ID>
     <Title>AlzaGuard Matte TPU Case pro Xiaomi Redmi Note 12S růžový</Title>
     <Cena>199.0</Cena>
@@ -64604,7 +64582,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT332c.jpg</img>
   </row>
   <row>
-    <index>5873</index>
+    <index>5871</index>
     <ID>AGDPCT312a</ID>
     <Title>AlzaGuard Matte TPU Case pro Realme C55 černý</Title>
     <Cena>199.0</Cena>
@@ -64615,7 +64593,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT312a.jpg</img>
   </row>
   <row>
-    <index>5874</index>
+    <index>5872</index>
     <ID>AGDPCT329a</ID>
     <Title>AlzaGuard Matte TPU Case pro Google Pixel 7a 5G černý</Title>
     <Cena>199.0</Cena>
@@ -64626,7 +64604,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT329a.jpg</img>
   </row>
   <row>
-    <index>5875</index>
+    <index>5873</index>
     <ID>AGDPCT314a</ID>
     <Title>AlzaGuard Matte TPU Case pro Motorola Moto G13 / G23 černý</Title>
     <Cena>199.0</Cena>
@@ -64637,7 +64615,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT314a.jpg</img>
   </row>
   <row>
-    <index>5876</index>
+    <index>5874</index>
     <ID>AGDPCT334a</ID>
     <Title>AlzaGuard Matte TPU Case pro POCO F5 černý</Title>
     <Cena>69.0</Cena>
@@ -64648,7 +64626,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT334a.jpg</img>
   </row>
   <row>
-    <index>5877</index>
+    <index>5875</index>
     <ID>AGDPCT0344</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Nothing Phone 2 čirý</Title>
     <Cena>169.0</Cena>
@@ -64659,7 +64637,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0344.jpg</img>
   </row>
   <row>
-    <index>5878</index>
+    <index>5876</index>
     <ID>AGDPCT344a</ID>
     <Title>AlzaGuard Matte TPU Case pro Nothing Phone 2 černý</Title>
     <Cena>199.0</Cena>
@@ -64670,7 +64648,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT344a.jpg</img>
   </row>
   <row>
-    <index>5879</index>
+    <index>5877</index>
     <ID>AGDPCT328a</ID>
     <Title>AlzaGuard Matte TPU Case pro OnePlus Nord 3 5G černý</Title>
     <Cena>199.0</Cena>
@@ -64681,7 +64659,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT328a.jpg</img>
   </row>
   <row>
-    <index>5880</index>
+    <index>5878</index>
     <ID>AGDPCT335a</ID>
     <Title>AlzaGuard Matte TPU Case pro POCO F5 Pro černý</Title>
     <Cena>99.0</Cena>
@@ -64692,7 +64670,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT335a.jpg</img>
   </row>
   <row>
-    <index>5881</index>
+    <index>5879</index>
     <ID>AGDPCT331c</ID>
     <Title>AlzaGuard Matte TPU Case pro Xiaomi Redmi Note 12 4G růžový</Title>
     <Cena>199.0</Cena>
@@ -64703,7 +64681,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT331c.jpg</img>
   </row>
   <row>
-    <index>5882</index>
+    <index>5880</index>
     <ID>AGDPCT331d</ID>
     <Title>AlzaGuard Matte TPU Case pro Xiaomi Redmi Note 12 4G modrý</Title>
     <Cena>199.0</Cena>
@@ -64714,7 +64692,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT331d.jpg</img>
   </row>
   <row>
-    <index>5883</index>
+    <index>5881</index>
     <ID>AGDPCT332a</ID>
     <Title>AlzaGuard Matte TPU Case pro Xiaomi Redmi Note 12S černý</Title>
     <Cena>199.0</Cena>
@@ -64725,7 +64703,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT332a.jpg</img>
   </row>
   <row>
-    <index>5884</index>
+    <index>5882</index>
     <ID>AGDPCT332b</ID>
     <Title>AlzaGuard Matte TPU Case pro Xiaomi Redmi Note 12S červený</Title>
     <Cena>199.0</Cena>
@@ -64736,7 +64714,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT332b.jpg</img>
   </row>
   <row>
-    <index>5885</index>
+    <index>5883</index>
     <ID>AGDPCT333c</ID>
     <Title>AlzaGuard Matte TPU Case pro Xiaomi Redmi 12 růžový</Title>
     <Cena>199.0</Cena>
@@ -64747,7 +64725,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT333c.jpg</img>
   </row>
   <row>
-    <index>5886</index>
+    <index>5884</index>
     <ID>AGDPCT333d</ID>
     <Title>AlzaGuard Matte TPU Case pro Xiaomi Redmi 12 modrý</Title>
     <Cena>199.0</Cena>
@@ -64758,7 +64736,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT333d.jpg</img>
   </row>
   <row>
-    <index>5887</index>
+    <index>5885</index>
     <ID>AGDPCT332d</ID>
     <Title>AlzaGuard Matte TPU Case pro Xiaomi Redmi Note 12S modrý</Title>
     <Cena>199.0</Cena>
@@ -64769,7 +64747,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT332d.jpg</img>
   </row>
   <row>
-    <index>5888</index>
+    <index>5886</index>
     <ID>AGDTGC0398</ID>
     <Title>AlzaGuard 2.5D Case Friendly Glass Protector pro Motorola Moto E13</Title>
     <Cena>179.0</Cena>
@@ -64780,7 +64758,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDTGC0398.jpg</img>
   </row>
   <row>
-    <index>5889</index>
+    <index>5887</index>
     <ID>AGDTGB139</ID>
     <Title>AlzaGuard 2.5D FullCover Glass Protector pro Google Pixel 7a 5G</Title>
     <Cena>279.0</Cena>
@@ -64791,7 +64769,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDTGB139.jpg</img>
   </row>
   <row>
-    <index>5890</index>
+    <index>5888</index>
     <ID>AGDPCT0350</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Realme 11 Pro 5G / 11 Pro+ 5G čirý</Title>
     <Cena>169.0</Cena>
@@ -64802,7 +64780,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0350.jpg</img>
   </row>
   <row>
-    <index>5891</index>
+    <index>5889</index>
     <ID>SGR_RC_R901W</ID>
     <Title>Siguro RC-R901W Rice Master Digital s napařovákem</Title>
     <Cena>1990.0</Cena>
@@ -64813,7 +64791,7 @@
     <img>https://cdn.alza.cz/foto/f3/SG/SGR_RC_R901W.jpg</img>
   </row>
   <row>
-    <index>5892</index>
+    <index>5890</index>
     <ID>AGDPCT0304_newish</ID>
     <Title>AlzaGuard Crystal Clear TPU case pro Samsung Galaxy A54 5G</Title>
     <Cena>149.0</Cena>
@@ -64824,7 +64802,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0304.jpg</img>
   </row>
   <row>
-    <index>5893</index>
+    <index>5891</index>
     <ID>AGDPCT0297_newish</ID>
     <Title>AlzaGuard Crystal Clear TPU case pro Samsung Galaxy S23+ 5G</Title>
     <Cena>149.0</Cena>
@@ -64835,7 +64813,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0297.jpg</img>
   </row>
   <row>
-    <index>5894</index>
+    <index>5892</index>
     <ID>AGDMFMS0006c_openbox</ID>
     <Title>AlzaGuard Magsafe Silicone Case pro iPhone 14 Pro modré</Title>
     <Cena>569.0</Cena>
@@ -64846,7 +64824,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDMFMS0006c.jpg</img>
   </row>
   <row>
-    <index>5895</index>
+    <index>5893</index>
     <ID>AGPCF0042B_openbox</ID>
     <Title>AlzaGuard Premium Flip Case pro Samsung Galaxy A54 5G černé</Title>
     <Cena>279.0</Cena>
@@ -64857,7 +64835,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGPCF0042B.jpg</img>
   </row>
   <row>
-    <index>5896</index>
+    <index>5894</index>
     <ID>wowm205LPp_newish</ID>
     <Title>WowME ID205L-P Pink</Title>
     <Cena>559.0</Cena>
@@ -64868,7 +64846,7 @@
     <img>https://cdn.alza.cz/foto/f3/wo/wowm205LPp.jpg</img>
   </row>
   <row>
-    <index>5897</index>
+    <index>5895</index>
     <ID>AGDGF0003</ID>
     <Title>AlzaGuard 2.5D Glass with TPU Frame pro iPhone 11 Pro / X / XS černé</Title>
     <Cena>399.0</Cena>
@@ -64879,7 +64857,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDGF0003.jpg</img>
   </row>
   <row>
-    <index>5898</index>
+    <index>5896</index>
     <ID>AGDGF0004</ID>
     <Title>AlzaGuard 2.5D Glass with TPU Frame pro iPhone 12 / 12 Pro černé</Title>
     <Cena>399.0</Cena>
@@ -64890,7 +64868,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDGF0004.jpg</img>
   </row>
   <row>
-    <index>5899</index>
+    <index>5897</index>
     <ID>AGDGF0005</ID>
     <Title>AlzaGuard 2.5D Glass with TPU Frame pro iPhone 12 mini černé</Title>
     <Cena>399.0</Cena>
@@ -64901,7 +64879,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDGF0005.jpg</img>
   </row>
   <row>
-    <index>5900</index>
+    <index>5898</index>
     <ID>AGDGF0010</ID>
     <Title>AlzaGuard 2.5D Glass with TPU Frame pro iPhone 14 Pro Max černé</Title>
     <Cena>199.0</Cena>
@@ -64912,7 +64890,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDGF0010.jpg</img>
   </row>
   <row>
-    <index>5901</index>
+    <index>5899</index>
     <ID>AGDPCT46b</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone 11 červený</Title>
     <Cena>229.0</Cena>
@@ -64923,7 +64901,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT46b.jpg</img>
   </row>
   <row>
-    <index>5902</index>
+    <index>5900</index>
     <ID>AGDPCT46d</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone 11 růžový</Title>
     <Cena>229.0</Cena>
@@ -64934,7 +64912,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT46d.jpg</img>
   </row>
   <row>
-    <index>5903</index>
+    <index>5901</index>
     <ID>AGDPCT46e</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone 11 bílý</Title>
     <Cena>229.0</Cena>
@@ -64945,7 +64923,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT46e.jpg</img>
   </row>
   <row>
-    <index>5904</index>
+    <index>5902</index>
     <ID>AGDPCT47b</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone 11 Pro červený</Title>
     <Cena>229.0</Cena>
@@ -64956,7 +64934,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT47b.jpg</img>
   </row>
   <row>
-    <index>5905</index>
+    <index>5903</index>
     <ID>AGDPCT47a</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone 11 Pro černý</Title>
     <Cena>229.0</Cena>
@@ -64967,7 +64945,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT47a.jpg</img>
   </row>
   <row>
-    <index>5906</index>
+    <index>5904</index>
     <ID>AGDPCT11b</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone 12 Mini červený</Title>
     <Cena>229.0</Cena>
@@ -64978,7 +64956,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT11b.jpg</img>
   </row>
   <row>
-    <index>5907</index>
+    <index>5905</index>
     <ID>AGDPCT47f</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone 11 Pro žlutý</Title>
     <Cena>229.0</Cena>
@@ -64989,7 +64967,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT47f.jpg</img>
   </row>
   <row>
-    <index>5908</index>
+    <index>5906</index>
     <ID>AGDPCT11c</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone 12 Mini světle modrý</Title>
     <Cena>229.0</Cena>
@@ -65000,7 +64978,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT11c.jpg</img>
   </row>
   <row>
-    <index>5909</index>
+    <index>5907</index>
     <ID>AGDPCT47c</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone 11 Pro světle modrý</Title>
     <Cena>229.0</Cena>
@@ -65011,7 +64989,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT47c.jpg</img>
   </row>
   <row>
-    <index>5910</index>
+    <index>5908</index>
     <ID>AGDPCT11e</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone 12 Mini bílý</Title>
     <Cena>229.0</Cena>
@@ -65022,7 +65000,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT11e.jpg</img>
   </row>
   <row>
-    <index>5911</index>
+    <index>5909</index>
     <ID>AGDPCT10a</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone 12 / 12 Pro černý</Title>
     <Cena>229.0</Cena>
@@ -65033,7 +65011,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT10a.jpg</img>
   </row>
   <row>
-    <index>5912</index>
+    <index>5910</index>
     <ID>AGDPCT11d</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone 12 Mini růžový</Title>
     <Cena>229.0</Cena>
@@ -65044,7 +65022,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT11d.jpg</img>
   </row>
   <row>
-    <index>5913</index>
+    <index>5911</index>
     <ID>AGDPCT10d</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone 12 / 12 Pro růžový</Title>
     <Cena>229.0</Cena>
@@ -65055,7 +65033,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT10d.jpg</img>
   </row>
   <row>
-    <index>5914</index>
+    <index>5912</index>
     <ID>AGDPCT10e</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone 12 / 12 Pro bílý</Title>
     <Cena>229.0</Cena>
@@ -65066,7 +65044,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT10e.jpg</img>
   </row>
   <row>
-    <index>5915</index>
+    <index>5913</index>
     <ID>AGDPCT10f</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone 12 / 12 Pro žlutý</Title>
     <Cena>229.0</Cena>
@@ -65077,7 +65055,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT10f.jpg</img>
   </row>
   <row>
-    <index>5916</index>
+    <index>5914</index>
     <ID>AGDPCT160a</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone 13 černý</Title>
     <Cena>229.0</Cena>
@@ -65088,7 +65066,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT160a.jpg</img>
   </row>
   <row>
-    <index>5917</index>
+    <index>5915</index>
     <ID>AGDPCT10c</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone 12 / 12 Pro světle modrý</Title>
     <Cena>229.0</Cena>
@@ -65099,7 +65077,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT10c.jpg</img>
   </row>
   <row>
-    <index>5918</index>
+    <index>5916</index>
     <ID>AGDPCT160c</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone 13 světle modrý</Title>
     <Cena>229.0</Cena>
@@ -65110,7 +65088,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT160c.jpg</img>
   </row>
   <row>
-    <index>5919</index>
+    <index>5917</index>
     <ID>AGDPCT160d</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone 13 růžový</Title>
     <Cena>229.0</Cena>
@@ -65121,7 +65099,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT160d.jpg</img>
   </row>
   <row>
-    <index>5920</index>
+    <index>5918</index>
     <ID>AGDPCT160b</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone 13 červený</Title>
     <Cena>229.0</Cena>
@@ -65132,7 +65110,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT160b.jpg</img>
   </row>
   <row>
-    <index>5921</index>
+    <index>5919</index>
     <ID>AGDPCT159b</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone 13 Mini červený</Title>
     <Cena>229.0</Cena>
@@ -65143,7 +65121,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT159b.jpg</img>
   </row>
   <row>
-    <index>5922</index>
+    <index>5920</index>
     <ID>AGDPCT159d</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone 13 Mini růžový</Title>
     <Cena>229.0</Cena>
@@ -65154,7 +65132,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT159d.jpg</img>
   </row>
   <row>
-    <index>5923</index>
+    <index>5921</index>
     <ID>AGDPCT159e</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone 13 Mini bílý</Title>
     <Cena>229.0</Cena>
@@ -65165,7 +65143,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT159e.jpg</img>
   </row>
   <row>
-    <index>5924</index>
+    <index>5922</index>
     <ID>AGDPCT265a</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone 14 černý</Title>
     <Cena>229.0</Cena>
@@ -65176,7 +65154,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT265a.jpg</img>
   </row>
   <row>
-    <index>5925</index>
+    <index>5923</index>
     <ID>AGDPCT265d</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone 14 růžový</Title>
     <Cena>229.0</Cena>
@@ -65187,7 +65165,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT265d.jpg</img>
   </row>
   <row>
-    <index>5926</index>
+    <index>5924</index>
     <ID>AGDPCT323c</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone 15 světle modrý</Title>
     <Cena>229.0</Cena>
@@ -65198,7 +65176,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT323c.jpg</img>
   </row>
   <row>
-    <index>5927</index>
+    <index>5925</index>
     <ID>AGDPCT265e</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone 14 bílý</Title>
     <Cena>229.0</Cena>
@@ -65209,7 +65187,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT265e.jpg</img>
   </row>
   <row>
-    <index>5928</index>
+    <index>5926</index>
     <ID>AGDPCT323e</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone 15 bílý</Title>
     <Cena>229.0</Cena>
@@ -65220,7 +65198,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT323e.jpg</img>
   </row>
   <row>
-    <index>5929</index>
+    <index>5927</index>
     <ID>AGDPCT323f</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone 15 žlutý</Title>
     <Cena>229.0</Cena>
@@ -65231,7 +65209,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT323f.jpg</img>
   </row>
   <row>
-    <index>5930</index>
+    <index>5928</index>
     <ID>AGDPCT324b</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone 15 Plus červený</Title>
     <Cena>229.0</Cena>
@@ -65242,7 +65220,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT324b.jpg</img>
   </row>
   <row>
-    <index>5931</index>
+    <index>5929</index>
     <ID>AGDPCT323d</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone 15 růžový</Title>
     <Cena>229.0</Cena>
@@ -65253,7 +65231,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT323d.jpg</img>
   </row>
   <row>
-    <index>5932</index>
+    <index>5930</index>
     <ID>AGDPCT324d</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone 15 Plus růžový</Title>
     <Cena>229.0</Cena>
@@ -65264,7 +65242,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT324d.jpg</img>
   </row>
   <row>
-    <index>5933</index>
+    <index>5931</index>
     <ID>AGDPCT324f</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone 15 Plus žlutý</Title>
     <Cena>229.0</Cena>
@@ -65275,7 +65253,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT324f.jpg</img>
   </row>
   <row>
-    <index>5934</index>
+    <index>5932</index>
     <ID>AGDPCT324e</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone 15 Plus bílý</Title>
     <Cena>229.0</Cena>
@@ -65286,7 +65264,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT324e.jpg</img>
   </row>
   <row>
-    <index>5935</index>
+    <index>5933</index>
     <ID>AGDPCT325a</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone 15 Pro černý</Title>
     <Cena>229.0</Cena>
@@ -65297,7 +65275,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT325a.jpg</img>
   </row>
   <row>
-    <index>5936</index>
+    <index>5934</index>
     <ID>AGDPCT325d</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone 15 Pro růžový</Title>
     <Cena>229.0</Cena>
@@ -65308,7 +65286,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT325d.jpg</img>
   </row>
   <row>
-    <index>5937</index>
+    <index>5935</index>
     <ID>AGDPCT325e</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone 15 Pro bílý</Title>
     <Cena>229.0</Cena>
@@ -65319,7 +65297,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT325e.jpg</img>
   </row>
   <row>
-    <index>5938</index>
+    <index>5936</index>
     <ID>AGDPCT326c</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone 15 Pro Max světle modrý</Title>
     <Cena>229.0</Cena>
@@ -65330,7 +65308,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT326c.jpg</img>
   </row>
   <row>
-    <index>5939</index>
+    <index>5937</index>
     <ID>AGDPCT326e</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone 15 Pro Max bílý</Title>
     <Cena>229.0</Cena>
@@ -65341,7 +65319,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT326e.jpg</img>
   </row>
   <row>
-    <index>5940</index>
+    <index>5938</index>
     <ID>AGDPCT326d</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone 15 Pro Max růžový</Title>
     <Cena>229.0</Cena>
@@ -65352,7 +65330,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT326d.jpg</img>
   </row>
   <row>
-    <index>5941</index>
+    <index>5939</index>
     <ID>AGDPCT49b</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone 7 / 8 / SE 2020 / SE 2022 červený</Title>
     <Cena>229.0</Cena>
@@ -65363,7 +65341,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT49b.jpg</img>
   </row>
   <row>
-    <index>5942</index>
+    <index>5940</index>
     <ID>AGDPCT49a</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone 7 / 8 / SE 2020 / SE 2022 černý</Title>
     <Cena>229.0</Cena>
@@ -65374,7 +65352,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT49a.jpg</img>
   </row>
   <row>
-    <index>5943</index>
+    <index>5941</index>
     <ID>AGDPCT49c</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone 7 / 8 / SE 2020 / SE 2022 světle modrý</Title>
     <Cena>229.0</Cena>
@@ -65385,7 +65363,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT49c.jpg</img>
   </row>
   <row>
-    <index>5944</index>
+    <index>5942</index>
     <ID>AGDPCT49f</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone 7 / 8 / SE 2020 / SE 2022 žlutý</Title>
     <Cena>229.0</Cena>
@@ -65396,7 +65374,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT49f.jpg</img>
   </row>
   <row>
-    <index>5945</index>
+    <index>5943</index>
     <ID>AGDPCT51b</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone X / Xs červený</Title>
     <Cena>229.0</Cena>
@@ -65407,7 +65385,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT51b.jpg</img>
   </row>
   <row>
-    <index>5946</index>
+    <index>5944</index>
     <ID>AGDPCT51c</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone X / Xs světle modrý</Title>
     <Cena>229.0</Cena>
@@ -65418,7 +65396,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT51c.jpg</img>
   </row>
   <row>
-    <index>5947</index>
+    <index>5945</index>
     <ID>AGDPCT50f</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone Xr žlutý</Title>
     <Cena>229.0</Cena>
@@ -65429,7 +65407,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT50f.jpg</img>
   </row>
   <row>
-    <index>5948</index>
+    <index>5946</index>
     <ID>AGDPCT50d</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone Xr růžový</Title>
     <Cena>229.0</Cena>
@@ -65440,7 +65418,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT50d.jpg</img>
   </row>
   <row>
-    <index>5949</index>
+    <index>5947</index>
     <ID>AGDPCT50a</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone Xr černý</Title>
     <Cena>229.0</Cena>
@@ -65451,7 +65429,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT50a.jpg</img>
   </row>
   <row>
-    <index>5950</index>
+    <index>5948</index>
     <ID>AGDGLC101_openbox</ID>
     <Title>AlzaGuard Genuine Leather Case pro iPhone 14 Plus hnědé</Title>
     <Cena>279.0</Cena>
@@ -65462,7 +65440,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDGLC101.jpg</img>
   </row>
   <row>
-    <index>5951</index>
+    <index>5949</index>
     <ID>wowmWTSCbr_openbox</ID>
     <Title>WowME Watch TSc black/red</Title>
     <Cena>519.0</Cena>
@@ -65473,7 +65451,7 @@
     <img>https://cdn.alza.cz/foto/f3/wo/wowmWTSCbr.jpg</img>
   </row>
   <row>
-    <index>5952</index>
+    <index>5950</index>
     <ID>SGR_MO_B130B_openbox</ID>
     <Title>SIGURO MO-B130B Element</Title>
     <Cena>1529.0</Cena>
@@ -65484,7 +65462,7 @@
     <img>https://cdn.alza.cz/foto/f3/SG/SGR_MO_B130B.jpg</img>
   </row>
   <row>
-    <index>5953</index>
+    <index>5951</index>
     <ID>AGDPCT0279_openbox</ID>
     <Title>AlzaGuard Crystal Clear TPU case pro Honor X6</Title>
     <Cena>169.0</Cena>
@@ -65495,7 +65473,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0279.jpg</img>
   </row>
   <row>
-    <index>5954</index>
+    <index>5952</index>
     <ID>SGR_HB_I250B_openbox</ID>
     <Title>Siguro SGR-HB-I250B Flexi zone</Title>
     <Cena>4509.0</Cena>
@@ -65506,7 +65484,7 @@
     <img>https://cdn.alza.cz/foto/f3/SG/SGR_HB_I250B.jpg</img>
   </row>
   <row>
-    <index>5955</index>
+    <index>5953</index>
     <ID>AGDPCT0272_newish</ID>
     <Title>AlzaGuard Crystal Clear TPU case pro Samsung Galaxy A23 5G</Title>
     <Cena>169.0</Cena>
@@ -65517,7 +65495,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0272.jpg</img>
   </row>
   <row>
-    <index>5956</index>
+    <index>5954</index>
     <ID>AGDTGT043</ID>
     <Title>AlzaGuard Glass Protector pro Lenovo Tab M9</Title>
     <Cena>299.0</Cena>
@@ -65528,7 +65506,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDTGT043.jpg</img>
   </row>
   <row>
-    <index>5957</index>
+    <index>5955</index>
     <ID>AGDPCT0287_openbox</ID>
     <Title>AlzaGuard Crystal Clear TPU case pro Honor X7a</Title>
     <Cena>94.0</Cena>
@@ -65539,7 +65517,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0287.jpg</img>
   </row>
   <row>
-    <index>5958</index>
+    <index>5956</index>
     <ID>AGDMFMS0002a_openbox</ID>
     <Title>AlzaGuard Magsafe Silicone Case pro iPhone 13 Mini černé</Title>
     <Cena>569.0</Cena>
@@ -65550,7 +65528,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDMFMS0002a.jpg</img>
   </row>
   <row>
-    <index>5959</index>
+    <index>5957</index>
     <ID>SPTcam031</ID>
     <Title>Campgo T11A</Title>
     <Cena>699.0</Cena>
@@ -65561,7 +65539,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTcam031.jpg</img>
   </row>
   <row>
-    <index>5960</index>
+    <index>5958</index>
     <ID>SPTcam032</ID>
     <Title>Campgo T12A</Title>
     <Cena>1099.0</Cena>
@@ -65572,7 +65550,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTcam032.jpg</img>
   </row>
   <row>
-    <index>5961</index>
+    <index>5959</index>
     <ID>SPTcam030</ID>
     <Title>Campgo VI-015</Title>
     <Cena>699.0</Cena>
@@ -65583,7 +65561,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTcam030.jpg</img>
   </row>
   <row>
-    <index>5962</index>
+    <index>5960</index>
     <ID>AGPCS0099a_newish</ID>
     <Title>AlzaGuard Premium Liquid Silicone Case pro POCO M4 Pro 5G černé</Title>
     <Cena>84.0</Cena>
@@ -65594,7 +65572,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGPCS0099a.jpg</img>
   </row>
   <row>
-    <index>5963</index>
+    <index>5961</index>
     <ID>SPTmc0993</ID>
     <Title>Campgo 180x50x1,0 cm dvouvrstvá PE černá-růžová</Title>
     <Cena>219.0</Cena>
@@ -65605,7 +65583,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTmc0993.jpg</img>
   </row>
   <row>
-    <index>5964</index>
+    <index>5962</index>
     <ID>APLV00245</ID>
     <Title>AlzaPower prodlužovací přívod 230V 3 zásuvky 1.5m černý</Title>
     <Cena>99.0</Cena>
@@ -65616,7 +65594,7 @@
     <img>https://cdn.alza.cz/foto/f3/AP/APLV00245.jpg</img>
   </row>
   <row>
-    <index>5965</index>
+    <index>5963</index>
     <ID>APLV00385</ID>
     <Title>AlzaPower prodlužovací přívod 230V 5 zásuvek 5m černý</Title>
     <Cena>269.0</Cena>
@@ -65627,7 +65605,7 @@
     <img>https://cdn.alza.cz/foto/f3/AP/APLV00385.jpg</img>
   </row>
   <row>
-    <index>5966</index>
+    <index>5964</index>
     <ID>APLV00390</ID>
     <Title>AlzaPower prodlužovací přívod 230V 5 zásuvek 5m bílý</Title>
     <Cena>269.0</Cena>
@@ -65638,7 +65616,7 @@
     <img>https://cdn.alza.cz/foto/f3/AP/APLV00390.jpg</img>
   </row>
   <row>
-    <index>5967</index>
+    <index>5965</index>
     <ID>APLV00480</ID>
     <Title>AlzaPower rozdvojka s vypínačem 230V bílá</Title>
     <Cena>119.0</Cena>
@@ -65649,7 +65627,7 @@
     <img>https://cdn.alza.cz/foto/f3/AP/APLV00480.jpg</img>
   </row>
   <row>
-    <index>5968</index>
+    <index>5966</index>
     <ID>AGDPCS0095_newish</ID>
     <Title>AlzaGuard Shockproof Case pro Xiaomi Redmi Note 12 Pro+ / 12 Explorer Edition</Title>
     <Cena>169.0</Cena>
@@ -65660,7 +65638,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCS0095.jpg</img>
   </row>
   <row>
-    <index>5969</index>
+    <index>5967</index>
     <ID>AGDPCS0096_openbox</ID>
     <Title>AlzaGuard Shockproof Case pro Samsung Galaxy A14 5G</Title>
     <Cena>189.0</Cena>
@@ -65671,7 +65649,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCS0096.jpg</img>
   </row>
   <row>
-    <index>5970</index>
+    <index>5968</index>
     <ID>AGDTGB0132</ID>
     <Title>AlzaGuard 2.5D FullCover Glass Protector pro Realme 10</Title>
     <Cena>129.0</Cena>
@@ -65682,7 +65660,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDTGB0132.jpg</img>
   </row>
   <row>
-    <index>5971</index>
+    <index>5969</index>
     <ID>AEY0887</ID>
     <Title>AlzaErgo Arm DE35 Pylon</Title>
     <Cena>899.0</Cena>
@@ -65693,7 +65671,7 @@
     <img>https://cdn.alza.cz/foto/f3/AE/AEY0887.jpg</img>
   </row>
   <row>
-    <index>5972</index>
+    <index>5970</index>
     <ID>AEY0906</ID>
     <Title>AlzaErgo ME631 Essential kloubový 37"-70"</Title>
     <Cena>999.0</Cena>
@@ -65704,7 +65682,7 @@
     <img>https://cdn.alza.cz/foto/f3/AE/AEY0906.jpg</img>
   </row>
   <row>
-    <index>5973</index>
+    <index>5971</index>
     <ID>APWCB124b1</ID>
     <Title>AlzaPower AluCore USB-C to USB-C 3.2 Gen 2 100W 1m černý</Title>
     <Cena>339.0</Cena>
@@ -65715,7 +65693,7 @@
     <img>https://cdn.alza.cz/foto/f3/AP/APWCB124b1.jpg</img>
   </row>
   <row>
-    <index>5974</index>
+    <index>5972</index>
     <ID>APWCB124b3</ID>
     <Title>AlzaPower AluCore USB-C to USB-C 3.2 Gen 2 100W 2m černý</Title>
     <Cena>399.0</Cena>
@@ -65726,7 +65704,7 @@
     <img>https://cdn.alza.cz/foto/f3/AP/APWCB124b3.jpg</img>
   </row>
   <row>
-    <index>5975</index>
+    <index>5973</index>
     <ID>AGDPCT0296_newish</ID>
     <Title>AlzaGuard Crystal Clear TPU case pro Samsung Galaxy S23 5G</Title>
     <Cena>149.0</Cena>
@@ -65737,7 +65715,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0296.jpg</img>
   </row>
   <row>
-    <index>5976</index>
+    <index>5974</index>
     <ID>AGPCS0124d_openbox</ID>
     <Title>AlzaGuard Premium Liquid Silicone Case pro Xiaomi Redmi Note 12 Pro+ / 12 Explorer Edition modré</Title>
     <Cena>279.0</Cena>
@@ -65748,7 +65726,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGPCS0124d.jpg</img>
   </row>
   <row>
-    <index>5977</index>
+    <index>5975</index>
     <ID>AGPCS0124c_openbox</ID>
     <Title>AlzaGuard Premium Liquid Silicone Case pro Xiaomi Redmi Note 12 Pro+ / 12 Explorer Edition růžové</Title>
     <Cena>279.0</Cena>
@@ -65759,7 +65737,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGPCS0124c.jpg</img>
   </row>
   <row>
-    <index>5978</index>
+    <index>5976</index>
     <ID>AGDPCMM38b_openbox</ID>
     <Title>AlzaGuard Matte Case Compatible with MagSafe pro iPhone 13 zelený</Title>
     <Cena>329.0</Cena>
@@ -65770,7 +65748,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCMM38b.jpg</img>
   </row>
   <row>
-    <index>5979</index>
+    <index>5977</index>
     <ID>AGDMFMS0001d_openbox</ID>
     <Title>AlzaGuard Magsafe Silicone Case pro iPhone 12 / 12 Pro růžové</Title>
     <Cena>569.0</Cena>
@@ -65781,7 +65759,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDMFMS0001d.jpg</img>
   </row>
   <row>
-    <index>5980</index>
+    <index>5978</index>
     <ID>SGR_AD_F200W</ID>
     <Title>Siguro AD-F200W Essex Skipper</Title>
     <Cena>599.0</Cena>
@@ -65792,7 +65770,7 @@
     <img>https://cdn.alza.cz/foto/f3/SG/SGR_AD_F200W.jpg</img>
   </row>
   <row>
-    <index>5981</index>
+    <index>5979</index>
     <ID>SGR_AD_D350LW</ID>
     <Title>Siguro AD-D350LW White-letter Hairstreak</Title>
     <Cena>399.0</Cena>
@@ -65803,7 +65781,7 @@
     <img>https://cdn.alza.cz/foto/f3/SG/SGR_AD_D350LW.jpg</img>
   </row>
   <row>
-    <index>5982</index>
+    <index>5980</index>
     <ID>SGR_AD_K100PA</ID>
     <Title>Siguro AD-K100PA Panda</Title>
     <Cena>399.0</Cena>
@@ -65814,7 +65792,7 @@
     <img>https://cdn.alza.cz/foto/f3/SG/SGR_AD_K100PA.jpg</img>
   </row>
   <row>
-    <index>5983</index>
+    <index>5981</index>
     <ID>SGR_AD_F501B</ID>
     <Title>Siguro AD-F501B Dingy Skipper</Title>
     <Cena>799.0</Cena>
@@ -65825,7 +65803,7 @@
     <img>https://cdn.alza.cz/foto/f3/SG/SGR_AD_F501B.jpg</img>
   </row>
   <row>
-    <index>5984</index>
+    <index>5982</index>
     <ID>SGR_AD_E201B</ID>
     <Title>Siguro AD-E201B Heath Fritillary</Title>
     <Cena>499.0</Cena>
@@ -65836,7 +65814,7 @@
     <img>https://cdn.alza.cz/foto/f3/SG/SGR_AD_E201B.jpg</img>
   </row>
   <row>
-    <index>5985</index>
+    <index>5983</index>
     <ID>SGR_AD_E200R</ID>
     <Title>Siguro AD-E200R Gatekeeper</Title>
     <Cena>499.0</Cena>
@@ -65847,7 +65825,7 @@
     <img>https://cdn.alza.cz/foto/f3/SG/SGR_AD_E200R.jpg</img>
   </row>
   <row>
-    <index>5986</index>
+    <index>5984</index>
     <ID>SGR_AD_D400LW</ID>
     <Title>Siguro AD-D400LW Glanville Fritillary</Title>
     <Cena>399.0</Cena>
@@ -65858,7 +65836,7 @@
     <img>https://cdn.alza.cz/foto/f3/SG/SGR_AD_D400LW.jpg</img>
   </row>
   <row>
-    <index>5987</index>
+    <index>5985</index>
     <ID>SGR_AD_E210LW</ID>
     <Title>Siguro AD-E210LW Lulworth Skipper</Title>
     <Cena>399.0</Cena>
@@ -65869,7 +65847,7 @@
     <img>https://cdn.alza.cz/foto/f3/SG/SGR_AD_E210LW.jpg</img>
   </row>
   <row>
-    <index>5988</index>
+    <index>5986</index>
     <ID>SGR_AD_F201B</ID>
     <Title>Siguro AD-F201B Grayling</Title>
     <Cena>599.0</Cena>
@@ -65880,7 +65858,7 @@
     <img>https://cdn.alza.cz/foto/f3/SG/SGR_AD_F201B.jpg</img>
   </row>
   <row>
-    <index>5989</index>
+    <index>5987</index>
     <ID>SGR_AD_E211DW</ID>
     <Title>Siguro AD-E211DW Marsh Fritillary</Title>
     <Cena>399.0</Cena>
@@ -65891,7 +65869,7 @@
     <img>https://cdn.alza.cz/foto/f3/SG/SGR_AD_E211DW.jpg</img>
   </row>
   <row>
-    <index>5990</index>
+    <index>5988</index>
     <ID>wowmLOT4_newish</ID>
     <Title>WowME Lotus Silver/Green</Title>
     <Cena>669.0</Cena>
@@ -65902,7 +65880,7 @@
     <img>https://cdn.alza.cz/foto/f3/wo/wowmLOT4.jpg</img>
   </row>
   <row>
-    <index>5991</index>
+    <index>5989</index>
     <ID>AEY0493b</ID>
     <Title>AlzaPower MultiCore 4in1 USB 60W 480Mbps 1m černý</Title>
     <Cena>299.0</Cena>
@@ -65913,7 +65891,7 @@
     <img>https://cdn.alza.cz/foto/f3/AE/AEY0493b.jpg</img>
   </row>
   <row>
-    <index>5992</index>
+    <index>5990</index>
     <ID>APWCB128d</ID>
     <Title>AlzaPower DVI-D to HDMI Single Link 2m černý</Title>
     <Cena>169.0</Cena>
@@ -65924,7 +65902,7 @@
     <img>https://cdn.alza.cz/foto/f3/AP/APWCB128d.jpg</img>
   </row>
   <row>
-    <index>5993</index>
+    <index>5991</index>
     <ID>AEY0961</ID>
     <Title>AlzaErgo M220B Convey kloubový 32"-70"</Title>
     <Cena>999.0</Cena>
@@ -65935,7 +65913,7 @@
     <img>https://cdn.alza.cz/foto/f3/AE/AEY0961.jpg</img>
   </row>
   <row>
-    <index>5994</index>
+    <index>5992</index>
     <ID>AEY0962</ID>
     <Title>AlzaErgo M225B Convey kloubový 32"-55"</Title>
     <Cena>1199.0</Cena>
@@ -65946,7 +65924,7 @@
     <img>https://cdn.alza.cz/foto/f3/AE/AEY0962.jpg</img>
   </row>
   <row>
-    <index>5995</index>
+    <index>5993</index>
     <ID>AEY0963</ID>
     <Title>AlzaErgo M230B Convey kloubový 32"-55"</Title>
     <Cena>1199.0</Cena>
@@ -65957,7 +65935,7 @@
     <img>https://cdn.alza.cz/foto/f3/AE/AEY0963.jpg</img>
   </row>
   <row>
-    <index>5996</index>
+    <index>5994</index>
     <ID>AEY0954</ID>
     <Title>AlzaErgo M145B Keyhole kloubový 13"-27"</Title>
     <Cena>499.0</Cena>
@@ -65968,7 +65946,7 @@
     <img>https://cdn.alza.cz/foto/f3/AE/AEY0954.jpg</img>
   </row>
   <row>
-    <index>5997</index>
+    <index>5995</index>
     <ID>AEY0965</ID>
     <Title>AlzaErgo M310B Convey kloubový 37"-70"</Title>
     <Cena>1399.0</Cena>
@@ -65979,7 +65957,7 @@
     <img>https://cdn.alza.cz/foto/f3/AE/AEY0965.jpg</img>
   </row>
   <row>
-    <index>5998</index>
+    <index>5996</index>
     <ID>AEY0919</ID>
     <Title>AlzaErgo F210B Plate fixní 32"-55"</Title>
     <Cena>299.0</Cena>
@@ -65990,7 +65968,7 @@
     <img>https://cdn.alza.cz/foto/f3/AE/AEY0919.jpg</img>
   </row>
   <row>
-    <index>5999</index>
+    <index>5997</index>
     <ID>AEY0934</ID>
     <Title>AlzaErgo T420B Big Load sklopný 32"-55"</Title>
     <Cena>799.0</Cena>
@@ -66001,7 +65979,7 @@
     <img>https://cdn.alza.cz/foto/f3/AE/AEY0934.jpg</img>
   </row>
   <row>
-    <index>6000</index>
+    <index>5998</index>
     <ID>AEY0953</ID>
     <Title>AlzaErgo M140B Keyhole kloubový 23"-42"</Title>
     <Cena>599.0</Cena>
@@ -66012,7 +65990,7 @@
     <img>https://cdn.alza.cz/foto/f3/AE/AEY0953.jpg</img>
   </row>
   <row>
-    <index>6001</index>
+    <index>5999</index>
     <ID>AEY0937</ID>
     <Title>AlzaErgo F515B</Title>
     <Cena>289.0</Cena>
@@ -66023,7 +66001,7 @@
     <img>https://cdn.alza.cz/foto/f3/AE/AEY0937.jpg</img>
   </row>
   <row>
-    <index>6002</index>
+    <index>6000</index>
     <ID>AEY0938</ID>
     <Title>AlzaErgo F520B fixní 37"-70"</Title>
     <Cena>499.0</Cena>
@@ -66034,7 +66012,7 @@
     <img>https://cdn.alza.cz/foto/f3/AE/AEY0938.jpg</img>
   </row>
   <row>
-    <index>6003</index>
+    <index>6001</index>
     <ID>APWCB115s</ID>
     <Title>AlzaPower Core USB-A to USB-C 3.2 Gen 1 60W 5Gbp 0.5m bílý</Title>
     <Cena>189.0</Cena>
@@ -66045,7 +66023,7 @@
     <img>https://cdn.alza.cz/foto/f3/AP/APWCB115s.jpg</img>
   </row>
   <row>
-    <index>6004</index>
+    <index>6002</index>
     <ID>APWCB117b</ID>
     <Title>AlzaPower Core USB-A to USB-C 3.2 Gen 1 60W 5Gbp 2m černý</Title>
     <Cena>219.0</Cena>
@@ -66056,7 +66034,7 @@
     <img>https://cdn.alza.cz/foto/f3/AP/APWCB117b.jpg</img>
   </row>
   <row>
-    <index>6005</index>
+    <index>6003</index>
     <ID>CIS472</ID>
     <Title>AlzaEco Citrus na okna 3 l</Title>
     <Cena>199.0</Cena>
@@ -66067,7 +66045,7 @@
     <img>https://cdn.alza.cz/foto/f3/CI/CIS472.jpg</img>
   </row>
   <row>
-    <index>6006</index>
+    <index>6004</index>
     <ID>CIS476</ID>
     <Title>AlzaEco Citrus na nádobí 1 l</Title>
     <Cena>97.0</Cena>
@@ -66078,7 +66056,7 @@
     <img>https://cdn.alza.cz/foto/f3/CI/CIS476.jpg</img>
   </row>
   <row>
-    <index>6007</index>
+    <index>6005</index>
     <ID>AEY0936_openbox</ID>
     <Title>AlzaErgo F510B</Title>
     <Cena>279.0</Cena>
@@ -66089,7 +66067,7 @@
     <img>https://cdn.alza.cz/foto/f3/AE/AEY0936.jpg</img>
   </row>
   <row>
-    <index>6008</index>
+    <index>6006</index>
     <ID>AUPR257867</ID>
     <Title>BLACKMONT ochranná plachta na vršek auta M</Title>
     <Cena>179.0</Cena>
@@ -66100,7 +66078,7 @@
     <img>https://cdn.alza.cz/foto/f3/AU/AUPR257867.jpg</img>
   </row>
   <row>
-    <index>6009</index>
+    <index>6007</index>
     <ID>AUPR257873</ID>
     <Title>BLACKMONT ochranná plachta proti kroupám M</Title>
     <Cena>1359.0</Cena>
@@ -66111,7 +66089,7 @@
     <img>https://cdn.alza.cz/foto/f3/AU/AUPR257873.jpg</img>
   </row>
   <row>
-    <index>6010</index>
+    <index>6008</index>
     <ID>AUPR257876</ID>
     <Title>BLACKMONT ochranná plachta proti kroupám 2XL</Title>
     <Cena>1439.0</Cena>
@@ -66122,7 +66100,7 @@
     <img>https://cdn.alza.cz/foto/f3/AU/AUPR257876.jpg</img>
   </row>
   <row>
-    <index>6011</index>
+    <index>6009</index>
     <ID>AUPR257879</ID>
     <Title>BLACKMONT nepromokavý oblek M</Title>
     <Cena>1199.0</Cena>
@@ -66133,7 +66111,7 @@
     <img>https://cdn.alza.cz/foto/f3/AU/AUPR257879.jpg</img>
   </row>
   <row>
-    <index>6012</index>
+    <index>6010</index>
     <ID>AUPR257875</ID>
     <Title>BLACKMONT ochranná plachta proti kroupám XL</Title>
     <Cena>1359.0</Cena>
@@ -66144,7 +66122,7 @@
     <img>https://cdn.alza.cz/foto/f3/AU/AUPR257875.jpg</img>
   </row>
   <row>
-    <index>6013</index>
+    <index>6011</index>
     <ID>AEY0804b</ID>
     <Title>AlzaErgo TTE-01 140×80 cm lamino bílý dub</Title>
     <Cena>2190.0</Cena>
@@ -66155,7 +66133,7 @@
     <img>https://cdn.alza.cz/foto/f3/AE/AEY0804b.jpg</img>
   </row>
   <row>
-    <index>6014</index>
+    <index>6012</index>
     <ID>AUPR257866</ID>
     <Title>BLACKMONT ochranná plachta na vršek auta S</Title>
     <Cena>179.0</Cena>
@@ -66166,7 +66144,7 @@
     <img>https://cdn.alza.cz/foto/f3/AU/AUPR257866.jpg</img>
   </row>
   <row>
-    <index>6015</index>
+    <index>6013</index>
     <ID>AUPR257868</ID>
     <Title>BLACKMONT ochranná plachta na vršek auta L</Title>
     <Cena>199.0</Cena>
@@ -66177,7 +66155,7 @@
     <img>https://cdn.alza.cz/foto/f3/AU/AUPR257868.jpg</img>
   </row>
   <row>
-    <index>6016</index>
+    <index>6014</index>
     <ID>AUPR257874</ID>
     <Title>BLACKMONT ochranná plachta proti kroupám L</Title>
     <Cena>1359.0</Cena>
@@ -66188,7 +66166,7 @@
     <img>https://cdn.alza.cz/foto/f3/AU/AUPR257874.jpg</img>
   </row>
   <row>
-    <index>6017</index>
+    <index>6015</index>
     <ID>AUPR257883</ID>
     <Title>BLACKMONT nepromokavý oblek 3XL</Title>
     <Cena>959.0</Cena>
@@ -66199,7 +66177,7 @@
     <img>https://cdn.alza.cz/foto/f3/AU/AUPR257883.jpg</img>
   </row>
   <row>
-    <index>6018</index>
+    <index>6016</index>
     <ID>AUPR257884</ID>
     <Title>BLACKMONT nepromokavá kombinéza M</Title>
     <Cena>799.0</Cena>
@@ -66210,7 +66188,7 @@
     <img>https://cdn.alza.cz/foto/f3/AU/AUPR257884.jpg</img>
   </row>
   <row>
-    <index>6019</index>
+    <index>6017</index>
     <ID>AEY0672</ID>
     <Title>AlzaErgo FR130 černá</Title>
     <Cena>790.0</Cena>
@@ -66221,7 +66199,7 @@
     <img>https://cdn.alza.cz/foto/f3/AE/AEY0672.jpg</img>
   </row>
   <row>
-    <index>6020</index>
+    <index>6018</index>
     <ID>AEY0671</ID>
     <Title>AlzaErgo FR120 černá</Title>
     <Cena>790.0</Cena>
@@ -66232,7 +66210,7 @@
     <img>https://cdn.alza.cz/foto/f3/AE/AEY0671.jpg</img>
   </row>
   <row>
-    <index>6021</index>
+    <index>6019</index>
     <ID>AEY0675</ID>
     <Title>AlzaErgo FR150 černá</Title>
     <Cena>990.0</Cena>
@@ -66243,7 +66221,7 @@
     <img>https://cdn.alza.cz/foto/f3/AE/AEY0675.jpg</img>
   </row>
   <row>
-    <index>6022</index>
+    <index>6020</index>
     <ID>AEY0750</ID>
     <Title>AlzaErgo Stand LS110 stříbrný</Title>
     <Cena>590.0</Cena>
@@ -66254,7 +66232,7 @@
     <img>https://cdn.alza.cz/foto/f3/AE/AEY0750.jpg</img>
   </row>
   <row>
-    <index>6023</index>
+    <index>6021</index>
     <ID>AEY0764</ID>
     <Title>AlzaErgo Riser Modus ER450 černý</Title>
     <Cena>1190.0</Cena>
@@ -66265,7 +66243,7 @@
     <img>https://cdn.alza.cz/foto/f3/AE/AEY0764.jpg</img>
   </row>
   <row>
-    <index>6024</index>
+    <index>6022</index>
     <ID>AEY0780</ID>
     <Title>AlzaErgo Riser ER210 bílý</Title>
     <Cena>890.0</Cena>
@@ -66276,7 +66254,7 @@
     <img>https://cdn.alza.cz/foto/f3/AE/AEY0780.jpg</img>
   </row>
   <row>
-    <index>6025</index>
+    <index>6023</index>
     <ID>AEY0781</ID>
     <Title>AlzaErgo Riser ER220 bílý</Title>
     <Cena>949.0</Cena>
@@ -66287,7 +66265,7 @@
     <img>https://cdn.alza.cz/foto/f3/AE/AEY0781.jpg</img>
   </row>
   <row>
-    <index>6026</index>
+    <index>6024</index>
     <ID>AEY0782</ID>
     <Title>AlzaErgo Riser ER230 bílý</Title>
     <Cena>999.0</Cena>
@@ -66298,7 +66276,7 @@
     <img>https://cdn.alza.cz/foto/f3/AE/AEY0782.jpg</img>
   </row>
   <row>
-    <index>6027</index>
+    <index>6025</index>
     <ID>AEY0809d</ID>
     <Title>AlzaErgo Table ETJ100 šedý</Title>
     <Cena>2999.0</Cena>
@@ -66309,7 +66287,7 @@
     <img>https://cdn.alza.cz/foto/f3/AE/AEY0809d.jpg</img>
   </row>
   <row>
-    <index>6028</index>
+    <index>6026</index>
     <ID>MYC317</ID>
     <Title>AlzaEco Leštidlo do myčky na nádobí 2× 1 l</Title>
     <Cena>189.0</Cena>
@@ -66320,7 +66298,7 @@
     <img>https://cdn.alza.cz/foto/f3/MY/MYC317.jpg</img>
   </row>
   <row>
-    <index>6029</index>
+    <index>6027</index>
     <ID>MYC318</ID>
     <Title>AlzaEco Čistič myček 4× 100 g</Title>
     <Cena>99.0</Cena>
@@ -66331,7 +66309,7 @@
     <img>https://cdn.alza.cz/foto/f3/MY/MYC318.jpg</img>
   </row>
   <row>
-    <index>6030</index>
+    <index>6028</index>
     <ID>MYC319</ID>
     <Title>AlzaEco Starterpack pro myčku nádobí</Title>
     <Cena>359.0</Cena>
@@ -66342,7 +66320,7 @@
     <img>https://cdn.alza.cz/foto/f3/MY/MYC319.jpg</img>
   </row>
   <row>
-    <index>6031</index>
+    <index>6029</index>
     <ID>SPTkref004</ID>
     <Title>Stormred Roller 33cm Red</Title>
     <Cena>249.0</Cena>
@@ -66353,7 +66331,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTkref004.jpg</img>
   </row>
   <row>
-    <index>6032</index>
+    <index>6030</index>
     <ID>SPTtss0005</ID>
     <Title>Campgo Kinari 7</Title>
     <Cena>999.0</Cena>
@@ -66364,7 +66342,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTtss0005.jpg</img>
   </row>
   <row>
-    <index>6033</index>
+    <index>6031</index>
     <ID>SPTdbt11_openbox</ID>
     <Title>WowME Smart Watch DBT-GSW10 GPS růžové</Title>
     <Cena>369.0</Cena>
@@ -66375,7 +66353,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTdbt11.jpg</img>
   </row>
   <row>
-    <index>6034</index>
+    <index>6032</index>
     <ID>AEY0807y</ID>
     <Title>AlzaErgo Table ET3 bílý</Title>
     <Cena>5990.0</Cena>
@@ -66386,7 +66364,7 @@
     <img>https://cdn.alza.cz/foto/f3/AE/AEY0807y.jpg</img>
   </row>
   <row>
-    <index>6035</index>
+    <index>6033</index>
     <ID>AEY0807g</ID>
     <Title>AlzaErgo Table ET2.1 černý</Title>
     <Cena>7490.0</Cena>
@@ -66397,7 +66375,7 @@
     <img>https://cdn.alza.cz/foto/f3/AE/AEY0807g.jpg</img>
   </row>
   <row>
-    <index>6036</index>
+    <index>6034</index>
     <ID>BUNAEY0807a</ID>
     <Title>AlzaErgo Table ET2 černý + deska TTE-01 140x80cm lamino kaštan</Title>
     <Cena>10180.0</Cena>
@@ -66408,7 +66386,7 @@
     <img>https://cdn.alza.cz/foto/f3/BU/BUNAEY0807a.jpg</img>
   </row>
   <row>
-    <index>6037</index>
+    <index>6035</index>
     <ID>AEY0640d</ID>
     <Title>AlzaErgo Tray T120 černý</Title>
     <Cena>349.0</Cena>
@@ -66419,7 +66397,7 @@
     <img>https://cdn.alza.cz/foto/f3/AE/AEY0640d.jpg</img>
   </row>
   <row>
-    <index>6038</index>
+    <index>6036</index>
     <ID>AEY0645b</ID>
     <Title>AlzaErgo Drawer D110 černý</Title>
     <Cena>1090.0</Cena>
@@ -66430,7 +66408,7 @@
     <img>https://cdn.alza.cz/foto/f3/AE/AEY0645b.jpg</img>
   </row>
   <row>
-    <index>6039</index>
+    <index>6037</index>
     <ID>AEY0740</ID>
     <Title>AlzaErgo Stand LD110 černý</Title>
     <Cena>899.0</Cena>
@@ -66441,7 +66419,7 @@
     <img>https://cdn.alza.cz/foto/f3/AE/AEY0740.jpg</img>
   </row>
   <row>
-    <index>6040</index>
+    <index>6038</index>
     <ID>AEY0751</ID>
     <Title>AlzaErgo Stand LS120 stříbrný</Title>
     <Cena>599.0</Cena>
@@ -66452,7 +66430,7 @@
     <img>https://cdn.alza.cz/foto/f3/AE/AEY0751.jpg</img>
   </row>
   <row>
-    <index>6041</index>
+    <index>6039</index>
     <ID>AEY0935d</ID>
     <Title>AlzaErgo F540B Ultra Low Profile fixní 32"-65"</Title>
     <Cena>699.0</Cena>
@@ -66463,7 +66441,7 @@
     <img>https://cdn.alza.cz/foto/f3/AE/AEY0935d.jpg</img>
   </row>
   <row>
-    <index>6042</index>
+    <index>6040</index>
     <ID>AEY0975d</ID>
     <Title>AlzaErgo M440B Ultra Slim kloubový 32"-55"</Title>
     <Cena>1399.0</Cena>
@@ -66474,7 +66452,7 @@
     <img>https://cdn.alza.cz/foto/f3/AE/AEY0975d.jpg</img>
   </row>
   <row>
-    <index>6043</index>
+    <index>6041</index>
     <ID>AEY0975h</ID>
     <Title>AlzaErgo M450B Ultra Slim kloubový 37"-70"</Title>
     <Cena>1299.0</Cena>
@@ -66485,7 +66463,7 @@
     <img>https://cdn.alza.cz/foto/f3/AE/AEY0975h.jpg</img>
   </row>
   <row>
-    <index>6044</index>
+    <index>6042</index>
     <ID>AEY0975j</ID>
     <Title>AlzaErgo M455B Ultra Slim kloubový 37"-70"</Title>
     <Cena>1399.0</Cena>
@@ -66496,7 +66474,7 @@
     <img>https://cdn.alza.cz/foto/f3/AE/AEY0975j.jpg</img>
   </row>
   <row>
-    <index>6045</index>
+    <index>6043</index>
     <ID>AEY0980f</ID>
     <Title>AlzaErgo M250B Super Slim kloubový 23"-42"</Title>
     <Cena>499.0</Cena>
@@ -66507,7 +66485,7 @@
     <img>https://cdn.alza.cz/foto/f3/AE/AEY0980f.jpg</img>
   </row>
   <row>
-    <index>6046</index>
+    <index>6044</index>
     <ID>AEY0823</ID>
     <Title>AlzaErgo Arm D25BV</Title>
     <Cena>999.0</Cena>
@@ -66518,7 +66496,7 @@
     <img>https://cdn.alza.cz/foto/f3/AE/AEY0823.jpg</img>
   </row>
   <row>
-    <index>6047</index>
+    <index>6045</index>
     <ID>AEY0812b</ID>
     <Title>AlzaErgo Arm T05B</Title>
     <Cena>1899.0</Cena>
@@ -66529,7 +66507,7 @@
     <img>https://cdn.alza.cz/foto/f3/AE/AEY0812b.jpg</img>
   </row>
   <row>
-    <index>6048</index>
+    <index>6046</index>
     <ID>AEY0812d</ID>
     <Title>AlzaErgo Arm Q05BSV</Title>
     <Cena>2499.0</Cena>
@@ -66540,7 +66518,7 @@
     <img>https://cdn.alza.cz/foto/f3/AE/AEY0812d.jpg</img>
   </row>
   <row>
-    <index>6049</index>
+    <index>6047</index>
     <ID>AEY0815</ID>
     <Title>AlzaErgo Arm D15S Tube</Title>
     <Cena>2490.0</Cena>
@@ -66551,7 +66529,7 @@
     <img>https://cdn.alza.cz/foto/f3/AE/AEY0815.jpg</img>
   </row>
   <row>
-    <index>6050</index>
+    <index>6048</index>
     <ID>AEY0831</ID>
     <Title>AlzaErgo Arm D40B</Title>
     <Cena>1399.0</Cena>
@@ -66562,7 +66540,7 @@
     <img>https://cdn.alza.cz/foto/f3/AE/AEY0831.jpg</img>
   </row>
   <row>
-    <index>6051</index>
+    <index>6049</index>
     <ID>AEY0820</ID>
     <Title>AlzaErgo Arm S15B</Title>
     <Cena>1199.0</Cena>
@@ -66573,7 +66551,7 @@
     <img>https://cdn.alza.cz/foto/f3/AE/AEY0820.jpg</img>
   </row>
   <row>
-    <index>6052</index>
+    <index>6050</index>
     <ID>AEY0821</ID>
     <Title>AlzaErgo Arm D15B</Title>
     <Cena>1499.0</Cena>
@@ -66584,7 +66562,7 @@
     <img>https://cdn.alza.cz/foto/f3/AE/AEY0821.jpg</img>
   </row>
   <row>
-    <index>6053</index>
+    <index>6051</index>
     <ID>AEY0833</ID>
     <Title>AlzaErgo Arm S50B Heavy Duty</Title>
     <Cena>2999.0</Cena>
@@ -66595,7 +66573,7 @@
     <img>https://cdn.alza.cz/foto/f3/AE/AEY0833.jpg</img>
   </row>
   <row>
-    <index>6054</index>
+    <index>6052</index>
     <ID>AEY0822</ID>
     <Title>AlzaErgo Arm D20B</Title>
     <Cena>1499.0</Cena>
@@ -66606,7 +66584,7 @@
     <img>https://cdn.alza.cz/foto/f3/AE/AEY0822.jpg</img>
   </row>
   <row>
-    <index>6055</index>
+    <index>6053</index>
     <ID>AEY0817</ID>
     <Title>AlzaErgo Arm D05B Tube</Title>
     <Cena>2499.0</Cena>
@@ -66617,7 +66595,7 @@
     <img>https://cdn.alza.cz/foto/f3/AE/AEY0817.jpg</img>
   </row>
   <row>
-    <index>6056</index>
+    <index>6054</index>
     <ID>AEY0819</ID>
     <Title>AlzaErgo Arm S10B</Title>
     <Cena>899.0</Cena>
@@ -66628,7 +66606,7 @@
     <img>https://cdn.alza.cz/foto/f3/AE/AEY0819.jpg</img>
   </row>
   <row>
-    <index>6057</index>
+    <index>6055</index>
     <ID>AEY0834</ID>
     <Title>AlzaErgo Arm D45B</Title>
     <Cena>3990.0</Cena>
@@ -66639,7 +66617,7 @@
     <img>https://cdn.alza.cz/foto/f3/AE/AEY0834.jpg</img>
   </row>
   <row>
-    <index>6058</index>
+    <index>6056</index>
     <ID>AEY0845</ID>
     <Title>AlzaErgo Arm D80B Essential USB</Title>
     <Cena>2699.0</Cena>
@@ -66650,7 +66628,7 @@
     <img>https://cdn.alza.cz/foto/f3/AE/AEY0845.jpg</img>
   </row>
   <row>
-    <index>6059</index>
+    <index>6057</index>
     <ID>AEY0940</ID>
     <Title>AlzaErgo F530B fixní 13"-27"</Title>
     <Cena>269.0</Cena>
@@ -66661,7 +66639,7 @@
     <img>https://cdn.alza.cz/foto/f3/AE/AEY0940.jpg</img>
   </row>
   <row>
-    <index>6060</index>
+    <index>6058</index>
     <ID>AEY0923</ID>
     <Title>AlzaErgo F115B Curved fixní 23"-42"</Title>
     <Cena>390.0</Cena>
@@ -66672,7 +66650,7 @@
     <img>https://cdn.alza.cz/foto/f3/AE/AEY0923.jpg</img>
   </row>
   <row>
-    <index>6061</index>
+    <index>6059</index>
     <ID>AEY0930</ID>
     <Title>AlzaErgo T320B Low Profile sklopný 37"-70"</Title>
     <Cena>699.0</Cena>
@@ -66683,7 +66661,7 @@
     <img>https://cdn.alza.cz/foto/f3/AE/AEY0930.jpg</img>
   </row>
   <row>
-    <index>6062</index>
+    <index>6060</index>
     <ID>AEY0973f</ID>
     <Title>AlzaErgo M610B Advanced kloubový 37"-80"</Title>
     <Cena>1490.0</Cena>
@@ -66694,7 +66672,7 @@
     <img>https://cdn.alza.cz/foto/f3/AE/AEY0973f.jpg</img>
   </row>
   <row>
-    <index>6063</index>
+    <index>6061</index>
     <ID>AEY0975b</ID>
     <Title>AlzaErgo M435B Ultra Slim kloubový 32"-55"</Title>
     <Cena>1099.0</Cena>
@@ -66705,7 +66683,7 @@
     <img>https://cdn.alza.cz/foto/f3/AE/AEY0975b.jpg</img>
   </row>
   <row>
-    <index>6064</index>
+    <index>6062</index>
     <ID>APWCB500Cd</ID>
     <Title>AlzaPower Core HDMI 1.4 High Speed 4K 1m černý</Title>
     <Cena>109.0</Cena>
@@ -66716,7 +66694,7 @@
     <img>https://cdn.alza.cz/foto/f3/AP/APWCB500Cd.jpg</img>
   </row>
   <row>
-    <index>6065</index>
+    <index>6063</index>
     <ID>ALZcafe01</ID>
     <Title>AlzaCafé, zrnková, 1000g</Title>
     <Cena>449.0</Cena>
@@ -66727,7 +66705,7 @@
     <img>https://cdn.alza.cz/foto/f3/AL/ALZcafe01.jpg</img>
   </row>
   <row>
-    <index>6066</index>
+    <index>6064</index>
     <ID>ALZcafe02</ID>
     <Title>AlzaCafé, zrnková, 250g</Title>
     <Cena>139.0</Cena>
@@ -66738,7 +66716,7 @@
     <img>https://cdn.alza.cz/foto/f3/AL/ALZcafe02.jpg</img>
   </row>
   <row>
-    <index>6067</index>
+    <index>6065</index>
     <ID>AEY0791</ID>
     <Title>AlzaErgo Riser ER130</Title>
     <Cena>599.0</Cena>
@@ -66749,7 +66727,7 @@
     <img>https://cdn.alza.cz/foto/f3/AE/AEY0791.jpg</img>
   </row>
   <row>
-    <index>6068</index>
+    <index>6066</index>
     <ID>SPTbery079</ID>
     <Title>Bery Jones Jahody plátky lyofilizované 80g</Title>
     <Cena>169.0</Cena>
@@ -66760,7 +66738,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTbery079.jpg</img>
   </row>
   <row>
-    <index>6069</index>
+    <index>6067</index>
     <ID>SPTbery092</ID>
     <Title>Bery Jones Dýňové semínko loupané 1kg</Title>
     <Cena>229.0</Cena>
@@ -66771,7 +66749,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTbery092.jpg</img>
   </row>
   <row>
-    <index>6070</index>
+    <index>6068</index>
     <ID>SPTbery101</ID>
     <Title>Bery Jones Slunečnicová semínka 1kg</Title>
     <Cena>89.0</Cena>
@@ -66782,7 +66760,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTbery101.jpg</img>
   </row>
   <row>
-    <index>6071</index>
+    <index>6069</index>
     <ID>SPTbery002</ID>
     <Title>Bery Jones Kešu natural W320 1kg</Title>
     <Cena>329.0</Cena>
@@ -66793,7 +66771,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTbery002.jpg</img>
   </row>
   <row>
-    <index>6072</index>
+    <index>6070</index>
     <ID>SPTbery004</ID>
     <Title>Bery Jones Kokos plátky natural "smileys" 500g</Title>
     <Cena>169.0</Cena>
@@ -66804,7 +66782,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTbery004.jpg</img>
   </row>
   <row>
-    <index>6073</index>
+    <index>6071</index>
     <ID>SPTbery007</ID>
     <Title>Bery Jones Lísková jádra 13-15mm 1kg</Title>
     <Cena>319.0</Cena>
@@ -66815,7 +66793,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTbery007.jpg</img>
   </row>
   <row>
-    <index>6074</index>
+    <index>6072</index>
     <ID>SPTbery011</ID>
     <Title>Bery Jones Makadamové ořechy 500g</Title>
     <Cena>419.0</Cena>
@@ -66826,7 +66804,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTbery011.jpg</img>
   </row>
   <row>
-    <index>6075</index>
+    <index>6073</index>
     <ID>SPTbery013</ID>
     <Title>Bery Jones Mandle loupané 1kg</Title>
     <Cena>359.0</Cena>
@@ -66837,7 +66815,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTbery013.jpg</img>
   </row>
   <row>
-    <index>6076</index>
+    <index>6074</index>
     <ID>SPTbery010</ID>
     <Title>Bery Jones Lísková mouka 1kg</Title>
     <Cena>299.0</Cena>
@@ -66848,7 +66826,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTbery010.jpg</img>
   </row>
   <row>
-    <index>6077</index>
+    <index>6075</index>
     <ID>SPTbery023</ID>
     <Title>Bery Jones Mandlová mouka 1kg</Title>
     <Cena>249.0</Cena>
@@ -66859,7 +66837,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTbery023.jpg</img>
   </row>
   <row>
-    <index>6078</index>
+    <index>6076</index>
     <ID>SPTbery024</ID>
     <Title>Bery Jones Para ořechy 500g</Title>
     <Cena>289.0</Cena>
@@ -66870,7 +66848,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTbery024.jpg</img>
   </row>
   <row>
-    <index>6079</index>
+    <index>6077</index>
     <ID>SPTbery030</ID>
     <Title>Bery Jones Vlašské ořechy 500g</Title>
     <Cena>219.0</Cena>
@@ -66881,7 +66859,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTbery030.jpg</img>
   </row>
   <row>
-    <index>6080</index>
+    <index>6078</index>
     <ID>SPTbery032</ID>
     <Title>Bery Jones Arašídy pražené nesolené 1kg</Title>
     <Cena>189.0</Cena>
@@ -66892,7 +66870,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTbery032.jpg</img>
   </row>
   <row>
-    <index>6081</index>
+    <index>6079</index>
     <ID>SPTbery042</ID>
     <Title>Bery Jones Pistácie pražené solené USA 500g</Title>
     <Cena>199.0</Cena>
@@ -66903,7 +66881,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTbery042.jpg</img>
   </row>
   <row>
-    <index>6082</index>
+    <index>6080</index>
     <ID>SPTbery041</ID>
     <Title>Bery Jones Mandle uzené 1kg</Title>
     <Cena>329.0</Cena>
@@ -66914,7 +66892,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTbery041.jpg</img>
   </row>
   <row>
-    <index>6083</index>
+    <index>6081</index>
     <ID>SPTbery047</ID>
     <Title>Bery Jones Banánové plátky 750g</Title>
     <Cena>149.0</Cena>
@@ -66925,7 +66903,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTbery047.jpg</img>
   </row>
   <row>
-    <index>6084</index>
+    <index>6082</index>
     <ID>SPTbery050</ID>
     <Title>Bery Jones Datle sušené Medjoul jumbo 1kg</Title>
     <Cena>389.0</Cena>
@@ -66936,7 +66914,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTbery050.jpg</img>
   </row>
   <row>
-    <index>6085</index>
+    <index>6083</index>
     <ID>SPTbery052</ID>
     <Title>Bery Jones Chia semínka 1kg</Title>
     <Cena>179.0</Cena>
@@ -66947,7 +66925,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTbery052.jpg</img>
   </row>
   <row>
-    <index>6086</index>
+    <index>6084</index>
     <ID>SPTbery056</ID>
     <Title>Bery Jones Brusinky sušené (Klikva velkoplodá) 1kg</Title>
     <Cena>259.0</Cena>
@@ -66958,7 +66936,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTbery056.jpg</img>
   </row>
   <row>
-    <index>6087</index>
+    <index>6085</index>
     <ID>SPTbery063</ID>
     <Title>Bery Jones Rajčata sušená na slunci 1kg</Title>
     <Cena>249.0</Cena>
@@ -66969,7 +66947,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTbery063.jpg</img>
   </row>
   <row>
-    <index>6088</index>
+    <index>6086</index>
     <ID>SPTkref003</ID>
     <Title>Stormred Roller 33cm Blue</Title>
     <Cena>249.0</Cena>
@@ -66980,7 +66958,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTkref003.jpg</img>
   </row>
   <row>
-    <index>6089</index>
+    <index>6087</index>
     <ID>SPTtss0012</ID>
     <Title>Campgo One-Layer Pop Up 3P</Title>
     <Cena>939.0</Cena>
@@ -66991,7 +66969,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTtss0012.jpg</img>
   </row>
   <row>
-    <index>6090</index>
+    <index>6088</index>
     <ID>SPTtss0014</ID>
     <Title>Campgo Dome 3P</Title>
     <Cena>999.0</Cena>
@@ -67002,7 +66980,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTtss0014.jpg</img>
   </row>
   <row>
-    <index>6091</index>
+    <index>6089</index>
     <ID>SPTtss0015</ID>
     <Title>Campgo One-Layer Dome 2P</Title>
     <Cena>470.0</Cena>
@@ -67013,7 +66991,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTtss0015.jpg</img>
   </row>
   <row>
-    <index>6092</index>
+    <index>6090</index>
     <ID>SPTtss0017</ID>
     <Title>Campgo Tunnel 4P</Title>
     <Cena>2219.0</Cena>
@@ -67024,7 +67002,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTtss0017.jpg</img>
   </row>
   <row>
-    <index>6093</index>
+    <index>6091</index>
     <ID>AETSPCT00004</ID>
     <Title>Eternico pro Huawei Y5 (2019) čiré</Title>
     <Cena>59.0</Cena>
@@ -67035,7 +67013,7 @@
     <img>https://cdn.alza.cz/foto/f3/AE/AETSPCT00004.jpg</img>
   </row>
   <row>
-    <index>6094</index>
+    <index>6092</index>
     <ID>AETSPCT00017</ID>
     <Title>Eternico pro Motorola One Action čiré</Title>
     <Cena>149.0</Cena>
@@ -67046,7 +67024,7 @@
     <img>https://cdn.alza.cz/foto/f3/AE/AETSPCT00017.jpg</img>
   </row>
   <row>
-    <index>6095</index>
+    <index>6093</index>
     <ID>SPTstorm014</ID>
     <Title>Stormred Shark</Title>
     <Cena>4890.0</Cena>
@@ -67057,7 +67035,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTstorm014.jpg</img>
   </row>
   <row>
-    <index>6096</index>
+    <index>6094</index>
     <ID>SPTstorm015</ID>
     <Title>Stormred Knight</Title>
     <Cena>6879.0</Cena>
@@ -67068,7 +67046,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTstorm015.jpg</img>
   </row>
   <row>
-    <index>6097</index>
+    <index>6095</index>
     <ID>SPTstorm018</ID>
     <Title>Stormed Avalanche</Title>
     <Cena>5219.0</Cena>
@@ -67079,7 +67057,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTstorm018.jpg</img>
   </row>
   <row>
-    <index>6098</index>
+    <index>6096</index>
     <ID>SPTstorm019</ID>
     <Title>Stormred Wing</Title>
     <Cena>8969.0</Cena>
@@ -67090,7 +67068,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTstorm019.jpg</img>
   </row>
   <row>
-    <index>6099</index>
+    <index>6097</index>
     <ID>SPTstorm020</ID>
     <Title>Stormred Flyer</Title>
     <Cena>9119.0</Cena>
@@ -67101,7 +67079,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTstorm020.jpg</img>
   </row>
   <row>
-    <index>6100</index>
+    <index>6098</index>
     <ID>SPTstorm021</ID>
     <Title>Stormred Predator</Title>
     <Cena>11969.0</Cena>
@@ -67112,7 +67090,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTstorm021.jpg</img>
   </row>
   <row>
-    <index>6101</index>
+    <index>6099</index>
     <ID>SPTstorm024</ID>
     <Title>Stormred Rocket</Title>
     <Cena>14590.0</Cena>
@@ -67123,7 +67101,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTstorm024.jpg</img>
   </row>
   <row>
-    <index>6102</index>
+    <index>6100</index>
     <ID>SPTstorm026</ID>
     <Title>Stormred Warrior</Title>
     <Cena>21990.0</Cena>
@@ -67134,7 +67112,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTstorm026.jpg</img>
   </row>
   <row>
-    <index>6103</index>
+    <index>6101</index>
     <ID>SPTstorm017</ID>
     <Title>Stormred Devil</Title>
     <Cena>12990.0</Cena>
@@ -67145,7 +67123,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTstorm017.jpg</img>
   </row>
   <row>
-    <index>6104</index>
+    <index>6102</index>
     <ID>SPTstorm027</ID>
     <Title>Stormred Falcon</Title>
     <Cena>2839.0</Cena>
@@ -67156,7 +67134,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTstorm027.jpg</img>
   </row>
   <row>
-    <index>6105</index>
+    <index>6103</index>
     <ID>SPTstorm028</ID>
     <Title>Stormred Seahawk</Title>
     <Cena>4990.0</Cena>
@@ -67167,7 +67145,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTstorm028.jpg</img>
   </row>
   <row>
-    <index>6106</index>
+    <index>6104</index>
     <ID>SPTstorm029</ID>
     <Title>Stormred Eagle</Title>
     <Cena>6109.0</Cena>
@@ -67178,7 +67156,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTstorm029.jpg</img>
   </row>
   <row>
-    <index>6107</index>
+    <index>6105</index>
     <ID>SPTstorm030</ID>
     <Title>Stormred Viking</Title>
     <Cena>7179.0</Cena>
@@ -67189,7 +67167,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTstorm030.jpg</img>
   </row>
   <row>
-    <index>6108</index>
+    <index>6106</index>
     <ID>SPTstorm031</ID>
     <Title>Stormred Patriot</Title>
     <Cena>4909.0</Cena>
@@ -67200,7 +67178,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTstorm031.jpg</img>
   </row>
   <row>
-    <index>6109</index>
+    <index>6107</index>
     <ID>SPTstorm025</ID>
     <Title>Stormred King</Title>
     <Cena>17969.0</Cena>
@@ -67211,7 +67189,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTstorm025.jpg</img>
   </row>
   <row>
-    <index>6110</index>
+    <index>6108</index>
     <ID>SPTstorm033</ID>
     <Title>Stormred Hurricane</Title>
     <Cena>11969.0</Cena>
@@ -67222,7 +67200,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTstorm033.jpg</img>
   </row>
   <row>
-    <index>6111</index>
+    <index>6109</index>
     <ID>AGDMFMS0003c_openbox</ID>
     <Title>AlzaGuard Magsafe Silicone Case pro iPhone 13 modré</Title>
     <Cena>569.0</Cena>
@@ -67233,7 +67211,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDMFMS0003c.jpg</img>
   </row>
   <row>
-    <index>6112</index>
+    <index>6110</index>
     <ID>SGR_CP_C818SU</ID>
     <Title>Siguro Hrnec Pure Delight s chytrou poklicí, 18 cm</Title>
     <Cena>599.0</Cena>
@@ -67244,7 +67222,7 @@
     <img>https://cdn.alza.cz/foto/f3/SG/SGR_CP_C818SU.jpg</img>
   </row>
   <row>
-    <index>6113</index>
+    <index>6111</index>
     <ID>SGR_CP_C820SU</ID>
     <Title>Siguro Hrnec Pure Delight s chytrou poklicí, 20 cm</Title>
     <Cena>699.0</Cena>
@@ -67255,7 +67233,7 @@
     <img>https://cdn.alza.cz/foto/f3/SG/SGR_CP_C820SU.jpg</img>
   </row>
   <row>
-    <index>6114</index>
+    <index>6112</index>
     <ID>AGDGLC104_newish</ID>
     <Title>AlzaGuard Genuine Leather Case pro iPhone 13 Mini hnědé</Title>
     <Cena>419.0</Cena>
@@ -67266,7 +67244,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDGLC104.jpg</img>
   </row>
   <row>
-    <index>6115</index>
+    <index>6113</index>
     <ID>AGPCS0135c_openbox</ID>
     <Title>AlzaGuard Premium Liquid Silicone Case pro iPhone 15 Pro růžové</Title>
     <Cena>279.0</Cena>
@@ -67277,7 +67255,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGPCS0135c.jpg</img>
   </row>
   <row>
-    <index>6116</index>
+    <index>6114</index>
     <ID>SPTiron58</ID>
     <Title>Stormred Stepaerobic Červený</Title>
     <Cena>599.0</Cena>
@@ -67288,7 +67266,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTiron58.jpg</img>
   </row>
   <row>
-    <index>6117</index>
+    <index>6115</index>
     <ID>SGR_DW_F453S</ID>
     <Title>SIGURO DW-F453S Efficlean</Title>
     <Cena>8999.0</Cena>
@@ -67299,7 +67277,7 @@
     <img>https://cdn.alza.cz/foto/f3/SG/SGR_DW_F453S.jpg</img>
   </row>
   <row>
-    <index>6118</index>
+    <index>6116</index>
     <ID>SGR_DW_F602DS</ID>
     <Title>SIGURO DW-F602DS Neo Green</Title>
     <Cena>10990.0</Cena>
@@ -67310,7 +67288,7 @@
     <img>https://cdn.alza.cz/foto/f3/SG/SGR_DW_F602DS.jpg</img>
   </row>
   <row>
-    <index>6119</index>
+    <index>6117</index>
     <ID>AGDPCT328a_openbox</ID>
     <Title>AlzaGuard Matte TPU Case pro OnePlus Nord 3 5G černý</Title>
     <Cena>189.0</Cena>
@@ -67321,7 +67299,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT328a.jpg</img>
   </row>
   <row>
-    <index>6120</index>
+    <index>6118</index>
     <ID>AGDPCT0300_newish</ID>
     <Title>AlzaGuard Crystal Clear TPU case pro Xiaomi Redmi Note 12 Pro 5G</Title>
     <Cena>149.0</Cena>
@@ -67332,7 +67310,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0300.jpg</img>
   </row>
   <row>
-    <index>6121</index>
+    <index>6119</index>
     <ID>AGDPCMS13d</ID>
     <Title>AlzaGuard Silicone Case Compatible with Magsafe pro iPhone 12 Mini modrý</Title>
     <Cena>499.0</Cena>
@@ -67343,7 +67321,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCMS13d.jpg</img>
   </row>
   <row>
-    <index>6122</index>
+    <index>6120</index>
     <ID>AGDPCMS14b</ID>
     <Title>AlzaGuard Silicone Case Compatible with Magsafe pro iPhone 12 / 12 Pro růžový</Title>
     <Cena>499.0</Cena>
@@ -67354,7 +67332,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCMS14b.jpg</img>
   </row>
   <row>
-    <index>6123</index>
+    <index>6121</index>
     <ID>AGDPCMS15b</ID>
     <Title>AlzaGuard Silicone Case Compatible with Magsafe pro iPhone 13 Mini růžový</Title>
     <Cena>499.0</Cena>
@@ -67365,7 +67343,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCMS15b.jpg</img>
   </row>
   <row>
-    <index>6124</index>
+    <index>6122</index>
     <ID>AGDPCMS15a</ID>
     <Title>AlzaGuard Silicone Case Compatible with Magsafe pro iPhone 13 Mini černý</Title>
     <Cena>499.0</Cena>
@@ -67376,7 +67354,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCMS15a.jpg</img>
   </row>
   <row>
-    <index>6125</index>
+    <index>6123</index>
     <ID>AGDPCMS15c</ID>
     <Title>AlzaGuard Silicone Case Compatible with Magsafe pro iPhone 13 Mini červený</Title>
     <Cena>499.0</Cena>
@@ -67387,7 +67365,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCMS15c.jpg</img>
   </row>
   <row>
-    <index>6126</index>
+    <index>6124</index>
     <ID>AGDPCMS14c</ID>
     <Title>AlzaGuard Silicone Case Compatible with Magsafe pro iPhone 12 / 12 Pro červený</Title>
     <Cena>499.0</Cena>
@@ -67398,7 +67376,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCMS14c.jpg</img>
   </row>
   <row>
-    <index>6127</index>
+    <index>6125</index>
     <ID>AGDPCMS15d</ID>
     <Title>AlzaGuard Silicone Case Compatible with Magsafe pro iPhone 13 Mini modrý</Title>
     <Cena>499.0</Cena>
@@ -67409,7 +67387,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCMS15d.jpg</img>
   </row>
   <row>
-    <index>6128</index>
+    <index>6126</index>
     <ID>AGDPCMT0031</ID>
     <Title>AlzaGuard Crystal Clear TPU Case Compatible with Magsafe pro iPhone 11</Title>
     <Cena>349.0</Cena>
@@ -67420,7 +67398,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCMT0031.jpg</img>
   </row>
   <row>
-    <index>6129</index>
+    <index>6127</index>
     <ID>AGDPCMT0032</ID>
     <Title>AlzaGuard Crystal Clear TPU Case Compatible with Magsafe pro iPhone 11 Pro</Title>
     <Cena>349.0</Cena>
@@ -67431,7 +67409,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCMT0032.jpg</img>
   </row>
   <row>
-    <index>6130</index>
+    <index>6128</index>
     <ID>AGDPCMS13a</ID>
     <Title>AlzaGuard Silicone Case Compatible with Magsafe pro iPhone 12 Mini černý</Title>
     <Cena>499.0</Cena>
@@ -67442,7 +67420,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCMS13a.jpg</img>
   </row>
   <row>
-    <index>6131</index>
+    <index>6129</index>
     <ID>AGDPCMS22c</ID>
     <Title>AlzaGuard Silicone Case Compatible with Magsafe pro iPhone 15 Pro Max červený</Title>
     <Cena>499.0</Cena>
@@ -67453,7 +67431,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCMS22c.jpg</img>
   </row>
   <row>
-    <index>6132</index>
+    <index>6130</index>
     <ID>AGDPCMS16d</ID>
     <Title>AlzaGuard Silicone Case Compatible with Magsafe pro iPhone 13 modrý</Title>
     <Cena>499.0</Cena>
@@ -67464,7 +67442,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCMS16d.jpg</img>
   </row>
   <row>
-    <index>6133</index>
+    <index>6131</index>
     <ID>AGDPCMS17a</ID>
     <Title>AlzaGuard Silicone Case Compatible with Magsafe pro iPhone 14 černý</Title>
     <Cena>499.0</Cena>
@@ -67475,7 +67453,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCMS17a.jpg</img>
   </row>
   <row>
-    <index>6134</index>
+    <index>6132</index>
     <ID>AGDPCMS17c</ID>
     <Title>AlzaGuard Silicone Case Compatible with Magsafe pro iPhone 14 červený</Title>
     <Cena>499.0</Cena>
@@ -67486,7 +67464,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCMS17c.jpg</img>
   </row>
   <row>
-    <index>6135</index>
+    <index>6133</index>
     <ID>AGDPCMS16b</ID>
     <Title>AlzaGuard Silicone Case Compatible with Magsafe pro iPhone 13 růžový</Title>
     <Cena>499.0</Cena>
@@ -67497,7 +67475,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCMS16b.jpg</img>
   </row>
   <row>
-    <index>6136</index>
+    <index>6134</index>
     <ID>AGDPCMS18a</ID>
     <Title>AlzaGuard Silicone Case Compatible with Magsafe pro iPhone 14 Pro černý</Title>
     <Cena>499.0</Cena>
@@ -67508,7 +67486,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCMS18a.jpg</img>
   </row>
   <row>
-    <index>6137</index>
+    <index>6135</index>
     <ID>AGDPCMS19b</ID>
     <Title>AlzaGuard Silicone Case Compatible with Magsafe pro iPhone 15 růžový</Title>
     <Cena>499.0</Cena>
@@ -67519,7 +67497,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCMS19b.jpg</img>
   </row>
   <row>
-    <index>6138</index>
+    <index>6136</index>
     <ID>APW_QF20E_2</ID>
     <Title>Eternico Essential pro Garmin Quickfit 20mm Sandy Yellow</Title>
     <Cena>299.0</Cena>
@@ -67530,7 +67508,7 @@
     <img>https://cdn.alza.cz/foto/f3/AP/APW_QF20E_2.jpg</img>
   </row>
   <row>
-    <index>6139</index>
+    <index>6137</index>
     <ID>APW_QF20E_4</ID>
     <Title>Eternico Essential pro Garmin Quickfit 20mm Steel Gray</Title>
     <Cena>299.0</Cena>
@@ -67541,7 +67519,7 @@
     <img>https://cdn.alza.cz/foto/f3/AP/APW_QF20E_4.jpg</img>
   </row>
   <row>
-    <index>6140</index>
+    <index>6138</index>
     <ID>AGDPCT46c</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone 11 světle modrý</Title>
     <Cena>229.0</Cena>
@@ -67552,7 +67530,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT46c.jpg</img>
   </row>
   <row>
-    <index>6141</index>
+    <index>6139</index>
     <ID>AGDPCT46f</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone 11 žlutý</Title>
     <Cena>229.0</Cena>
@@ -67563,7 +67541,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT46f.jpg</img>
   </row>
   <row>
-    <index>6142</index>
+    <index>6140</index>
     <ID>AGDPCT46a</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone 11 černý</Title>
     <Cena>229.0</Cena>
@@ -67574,7 +67552,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT46a.jpg</img>
   </row>
   <row>
-    <index>6143</index>
+    <index>6141</index>
     <ID>AGDPCT47d</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone 11 Pro růžový</Title>
     <Cena>229.0</Cena>
@@ -67585,7 +67563,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT47d.jpg</img>
   </row>
   <row>
-    <index>6144</index>
+    <index>6142</index>
     <ID>AGDPCT47e</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone 11 Pro bílý</Title>
     <Cena>229.0</Cena>
@@ -67596,7 +67574,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT47e.jpg</img>
   </row>
   <row>
-    <index>6145</index>
+    <index>6143</index>
     <ID>AGDPCT11a</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone 12 Mini černý</Title>
     <Cena>229.0</Cena>
@@ -67607,7 +67585,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT11a.jpg</img>
   </row>
   <row>
-    <index>6146</index>
+    <index>6144</index>
     <ID>AGDPCT11f</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone 12 Mini žlutý</Title>
     <Cena>229.0</Cena>
@@ -67618,7 +67596,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT11f.jpg</img>
   </row>
   <row>
-    <index>6147</index>
+    <index>6145</index>
     <ID>AGDPCT10b</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone 12 / 12 Pro červený</Title>
     <Cena>229.0</Cena>
@@ -67629,7 +67607,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT10b.jpg</img>
   </row>
   <row>
-    <index>6148</index>
+    <index>6146</index>
     <ID>AGDPCT160e</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone 13 bílý</Title>
     <Cena>229.0</Cena>
@@ -67640,7 +67618,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT160e.jpg</img>
   </row>
   <row>
-    <index>6149</index>
+    <index>6147</index>
     <ID>AGDPCT160f</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone 13 žlutý</Title>
     <Cena>229.0</Cena>
@@ -67651,7 +67629,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT160f.jpg</img>
   </row>
   <row>
-    <index>6150</index>
+    <index>6148</index>
     <ID>AGDPCT159c</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone 13 Mini světle modrý</Title>
     <Cena>229.0</Cena>
@@ -67662,7 +67640,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT159c.jpg</img>
   </row>
   <row>
-    <index>6151</index>
+    <index>6149</index>
     <ID>AGDPCT159a</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone 13 Mini černý</Title>
     <Cena>229.0</Cena>
@@ -67673,7 +67651,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT159a.jpg</img>
   </row>
   <row>
-    <index>6152</index>
+    <index>6150</index>
     <ID>AGDPCT265b</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone 14 červený</Title>
     <Cena>229.0</Cena>
@@ -67684,7 +67662,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT265b.jpg</img>
   </row>
   <row>
-    <index>6153</index>
+    <index>6151</index>
     <ID>AGDPCT265c</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone 14 světle modrý</Title>
     <Cena>229.0</Cena>
@@ -67695,7 +67673,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT265c.jpg</img>
   </row>
   <row>
-    <index>6154</index>
+    <index>6152</index>
     <ID>AGDPCT159f</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone 13 Mini žlutý</Title>
     <Cena>229.0</Cena>
@@ -67706,7 +67684,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT159f.jpg</img>
   </row>
   <row>
-    <index>6155</index>
+    <index>6153</index>
     <ID>AGDPCT265f</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone 14 žlutý</Title>
     <Cena>229.0</Cena>
@@ -67717,7 +67695,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT265f.jpg</img>
   </row>
   <row>
-    <index>6156</index>
+    <index>6154</index>
     <ID>AGDPCT323a</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone 15 černý</Title>
     <Cena>229.0</Cena>
@@ -67728,7 +67706,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT323a.jpg</img>
   </row>
   <row>
-    <index>6157</index>
+    <index>6155</index>
     <ID>AGDPCT323b</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone 15 červený</Title>
     <Cena>229.0</Cena>
@@ -67739,7 +67717,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT323b.jpg</img>
   </row>
   <row>
-    <index>6158</index>
+    <index>6156</index>
     <ID>AGDPCT324a</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone 15 Plus černý</Title>
     <Cena>229.0</Cena>
@@ -67750,7 +67728,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT324a.jpg</img>
   </row>
   <row>
-    <index>6159</index>
+    <index>6157</index>
     <ID>AGDPCT324c</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone 15 Plus světle modrý</Title>
     <Cena>229.0</Cena>
@@ -67761,7 +67739,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT324c.jpg</img>
   </row>
   <row>
-    <index>6160</index>
+    <index>6158</index>
     <ID>AGDPCT325c</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone 15 Pro světle modrý</Title>
     <Cena>229.0</Cena>
@@ -67772,7 +67750,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT325c.jpg</img>
   </row>
   <row>
-    <index>6161</index>
+    <index>6159</index>
     <ID>AGDPCT325b</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone 15 Pro červený</Title>
     <Cena>229.0</Cena>
@@ -67783,7 +67761,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT325b.jpg</img>
   </row>
   <row>
-    <index>6162</index>
+    <index>6160</index>
     <ID>AGDPCT325f</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone 15 Pro žlutý</Title>
     <Cena>229.0</Cena>
@@ -67794,7 +67772,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT325f.jpg</img>
   </row>
   <row>
-    <index>6163</index>
+    <index>6161</index>
     <ID>AGDPCT326b</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone 15 Pro Max červený</Title>
     <Cena>229.0</Cena>
@@ -67805,7 +67783,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT326b.jpg</img>
   </row>
   <row>
-    <index>6164</index>
+    <index>6162</index>
     <ID>AGDPCT326a</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone 15 Pro Max černý</Title>
     <Cena>229.0</Cena>
@@ -67816,7 +67794,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT326a.jpg</img>
   </row>
   <row>
-    <index>6165</index>
+    <index>6163</index>
     <ID>AGDPCT326f</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone 15 Pro Max žlutý</Title>
     <Cena>229.0</Cena>
@@ -67827,7 +67805,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT326f.jpg</img>
   </row>
   <row>
-    <index>6166</index>
+    <index>6164</index>
     <ID>AGDPCT49d</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone 7 / 8 / SE 2020 / SE 2022 růžový</Title>
     <Cena>229.0</Cena>
@@ -67838,7 +67816,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT49d.jpg</img>
   </row>
   <row>
-    <index>6167</index>
+    <index>6165</index>
     <ID>AGDPCT51a</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone X / Xs černý</Title>
     <Cena>229.0</Cena>
@@ -67849,7 +67827,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT51a.jpg</img>
   </row>
   <row>
-    <index>6168</index>
+    <index>6166</index>
     <ID>AGDPCT49e</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone 7 / 8 / SE 2020 / SE 2022 bílý</Title>
     <Cena>229.0</Cena>
@@ -67860,7 +67838,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT49e.jpg</img>
   </row>
   <row>
-    <index>6169</index>
+    <index>6167</index>
     <ID>AGDPCT51e</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone X / Xs bílý</Title>
     <Cena>229.0</Cena>
@@ -67871,7 +67849,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT51e.jpg</img>
   </row>
   <row>
-    <index>6170</index>
+    <index>6168</index>
     <ID>AGDPCT51f</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone X / Xs žlutý</Title>
     <Cena>229.0</Cena>
@@ -67882,7 +67860,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT51f.jpg</img>
   </row>
   <row>
-    <index>6171</index>
+    <index>6169</index>
     <ID>AGDPCT50b</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone Xr červený</Title>
     <Cena>229.0</Cena>
@@ -67893,7 +67871,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT50b.jpg</img>
   </row>
   <row>
-    <index>6172</index>
+    <index>6170</index>
     <ID>AGDPCT51d</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone X / Xs růžový</Title>
     <Cena>229.0</Cena>
@@ -67904,7 +67882,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT51d.jpg</img>
   </row>
   <row>
-    <index>6173</index>
+    <index>6171</index>
     <ID>AGDPCT50e</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone Xr bílý</Title>
     <Cena>229.0</Cena>
@@ -67915,7 +67893,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT50e.jpg</img>
   </row>
   <row>
-    <index>6174</index>
+    <index>6172</index>
     <ID>SGR_BI_N130W</ID>
     <Title>SIGURO BI-N130W Vivid</Title>
     <Cena>9999.0</Cena>
@@ -67926,7 +67904,7 @@
     <img>https://cdn.alza.cz/foto/f3/SG/SGR_BI_N130W.jpg</img>
   </row>
   <row>
-    <index>6175</index>
+    <index>6173</index>
     <ID>AGDPCMS13c</ID>
     <Title>AlzaGuard Silicone Case Compatible with Magsafe pro iPhone 12 Mini červený</Title>
     <Cena>499.0</Cena>
@@ -67937,7 +67915,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCMS13c.jpg</img>
   </row>
   <row>
-    <index>6176</index>
+    <index>6174</index>
     <ID>AGDPCMT0017</ID>
     <Title>AlzaGuard Crystal Clear TPU Case Compatible with Magsafe pro iPhone 12 Mini</Title>
     <Cena>349.0</Cena>
@@ -67948,7 +67926,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCMT0017.jpg</img>
   </row>
   <row>
-    <index>6177</index>
+    <index>6175</index>
     <ID>AGDPCMT0019</ID>
     <Title>AlzaGuard Crystal Clear TPU Case Compatible with Magsafe pro iPhone 13 Mini</Title>
     <Cena>349.0</Cena>
@@ -67959,7 +67937,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCMT0019.jpg</img>
   </row>
   <row>
-    <index>6178</index>
+    <index>6176</index>
     <ID>AGDPCMT0018</ID>
     <Title>AlzaGuard Crystal Clear TPU Case Compatible with Magsafe pro iPhone 13</Title>
     <Cena>349.0</Cena>
@@ -67970,7 +67948,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCMT0018.jpg</img>
   </row>
   <row>
-    <index>6179</index>
+    <index>6177</index>
     <ID>AGDPCMT0027</ID>
     <Title>AlzaGuard Crystal Clear TPU Case Compatible with Magsafe pro iPhone 15 Pro</Title>
     <Cena>349.0</Cena>
@@ -67981,7 +67959,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCMT0027.jpg</img>
   </row>
   <row>
-    <index>6180</index>
+    <index>6178</index>
     <ID>AGDPCMT0029</ID>
     <Title>AlzaGuard Crystal Clear TPU Case Compatible with Magsafe pro iPhone 15 Pro Max</Title>
     <Cena>349.0</Cena>
@@ -67992,7 +67970,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCMT0029.jpg</img>
   </row>
   <row>
-    <index>6181</index>
+    <index>6179</index>
     <ID>AGDPCT0297_openbox</ID>
     <Title>AlzaGuard Crystal Clear TPU case pro Samsung Galaxy S23+ 5G</Title>
     <Cena>169.0</Cena>
@@ -68003,7 +67981,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0297.jpg</img>
   </row>
   <row>
-    <index>6182</index>
+    <index>6180</index>
     <ID>AGDPCT333a_openbox</ID>
     <Title>AlzaGuard Matte TPU Case pro Xiaomi Redmi 12 černý</Title>
     <Cena>189.0</Cena>
@@ -68014,7 +67992,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT333a.jpg</img>
   </row>
   <row>
-    <index>6183</index>
+    <index>6181</index>
     <ID>AGDPCMM22d_openbox</ID>
     <Title>AlzaGuard Matte Case Compatible with MagSafe pro iPhone 15 Pro Max světle modrý</Title>
     <Cena>239.0</Cena>
@@ -68025,7 +68003,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCMM22d.jpg</img>
   </row>
   <row>
-    <index>6184</index>
+    <index>6182</index>
     <ID>AGDPCT0312_openbox</ID>
     <Title>AlzaGuard Crystal Clear TPU case pro Realme C55</Title>
     <Cena>56.0</Cena>
@@ -68036,7 +68014,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0312.jpg</img>
   </row>
   <row>
-    <index>6185</index>
+    <index>6183</index>
     <ID>AGDPCT160f_openbox</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone 13 žlutý</Title>
     <Cena>219.0</Cena>
@@ -68047,7 +68025,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT160f.jpg</img>
   </row>
   <row>
-    <index>6186</index>
+    <index>6184</index>
     <ID>SGR_CP_S816SU</ID>
     <Title>Siguro Rendlík Pure Delight s chytrou poklicí, 16 cm</Title>
     <Cena>499.0</Cena>
@@ -68058,7 +68036,7 @@
     <img>https://cdn.alza.cz/foto/f3/SG/SGR_CP_S816SU.jpg</img>
   </row>
   <row>
-    <index>6187</index>
+    <index>6185</index>
     <ID>AGPCS0127c_openbox</ID>
     <Title>AlzaGuard Premium Liquid Silicone Case pro Samsung Galaxy A54 5G růžové</Title>
     <Cena>279.0</Cena>
@@ -68069,7 +68047,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGPCS0127c.jpg</img>
   </row>
   <row>
-    <index>6188</index>
+    <index>6186</index>
     <ID>AGDPCT0309_openbox</ID>
     <Title>AlzaGuard Crystal Clear TPU case pro POCO X5 Pro 5G</Title>
     <Cena>56.0</Cena>
@@ -68080,7 +68058,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0309.jpg</img>
   </row>
   <row>
-    <index>6189</index>
+    <index>6187</index>
     <ID>SGR_KM_M350W</ID>
     <Title>Siguro KM-M350 Kitchen Machine Maxi</Title>
     <Cena>6990.0</Cena>
@@ -68091,7 +68069,7 @@
     <img>https://cdn.alza.cz/foto/f3/SG/SGR_KM_M350W.jpg</img>
   </row>
   <row>
-    <index>6190</index>
+    <index>6188</index>
     <ID>AGPCF0044B_openbox</ID>
     <Title>AlzaGuard Premium Flip Case pro Xiaomi Redmi Note 12 4G černé</Title>
     <Cena>279.0</Cena>
@@ -68102,7 +68080,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGPCF0044B.jpg</img>
   </row>
   <row>
-    <index>6191</index>
+    <index>6189</index>
     <ID>AGDPCMM31a_openbox</ID>
     <Title>AlzaGuard Matte Case Compatible with MagSafe pro iPhone 13 Mini černý</Title>
     <Cena>329.0</Cena>
@@ -68113,7 +68091,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCMM31a.jpg</img>
   </row>
   <row>
-    <index>6192</index>
+    <index>6190</index>
     <ID>AGDPCT49e_openbox</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone 7 / 8 / SE 2020 / SE 2022 bílý</Title>
     <Cena>219.0</Cena>
@@ -68124,7 +68102,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT49e.jpg</img>
   </row>
   <row>
-    <index>6193</index>
+    <index>6191</index>
     <ID>AGDPCT325f_openbox</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone 15 Pro žlutý</Title>
     <Cena>219.0</Cena>
@@ -68135,7 +68113,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT325f.jpg</img>
   </row>
   <row>
-    <index>6194</index>
+    <index>6192</index>
     <ID>AGDMFMS0003d_openbox</ID>
     <Title>AlzaGuard Magsafe Silicone Case pro iPhone 13 růžové</Title>
     <Cena>569.0</Cena>
@@ -68146,7 +68124,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDMFMS0003d.jpg</img>
   </row>
   <row>
-    <index>6195</index>
+    <index>6193</index>
     <ID>AGDPCT331b</ID>
     <Title>AlzaGuard Matte TPU Case pro Xiaomi Redmi Note 12 4G červený</Title>
     <Cena>199.0</Cena>
@@ -68157,7 +68135,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT331b.jpg</img>
   </row>
   <row>
-    <index>6196</index>
+    <index>6194</index>
     <ID>AGDPCT333b</ID>
     <Title>AlzaGuard Matte TPU Case pro Xiaomi Redmi 12 červený</Title>
     <Cena>199.0</Cena>
@@ -68168,7 +68146,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT333b.jpg</img>
   </row>
   <row>
-    <index>6197</index>
+    <index>6195</index>
     <ID>AGDPCT349a</ID>
     <Title>AlzaGuard Matte TPU Case pro Realme C51 / C53 černý</Title>
     <Cena>199.0</Cena>
@@ -68179,7 +68157,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT349a.jpg</img>
   </row>
   <row>
-    <index>6198</index>
+    <index>6196</index>
     <ID>SGR_SC_F840B</ID>
     <Title>Siguro SC-F840B Coffee Gourmet</Title>
     <Cena>999.0</Cena>
@@ -68190,7 +68168,7 @@
     <img>https://cdn.alza.cz/foto/f3/SG/SGR_SC_F840B.jpg</img>
   </row>
   <row>
-    <index>6199</index>
+    <index>6197</index>
     <ID>SGR_SC_K420B</ID>
     <Title>Siguro SC-K420B Waterproof</Title>
     <Cena>599.0</Cena>
@@ -68201,7 +68179,7 @@
     <img>https://cdn.alza.cz/foto/f3/SG/SGR_SC_K420B.jpg</img>
   </row>
   <row>
-    <index>6200</index>
+    <index>6198</index>
     <ID>AGDTGL0046B</ID>
     <Title>AlzaGuard Lens Protector pro Google Pixel 7 Pro 5G černé</Title>
     <Cena>69.0</Cena>
@@ -68212,7 +68190,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDTGL0046B.jpg</img>
   </row>
   <row>
-    <index>6201</index>
+    <index>6199</index>
     <ID>AGDTGL0048B</ID>
     <Title>AlzaGuard Lens Protector pro iPhone 15 Pro / 15 Pro Max</Title>
     <Cena>99.0</Cena>
@@ -68223,7 +68201,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDTGL0048B.jpg</img>
   </row>
   <row>
-    <index>6202</index>
+    <index>6200</index>
     <ID>AGDTGL0033B</ID>
     <Title>AlzaGuard Lens Protector pro iPhone 13 Mini / 13 černé</Title>
     <Cena>199.0</Cena>
@@ -68234,7 +68212,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDTGL0033B.jpg</img>
   </row>
   <row>
-    <index>6203</index>
+    <index>6201</index>
     <ID>AGDTGL0045B</ID>
     <Title>AlzaGuard Lens Protector pro Google Pixel 7 5G černé</Title>
     <Cena>199.0</Cena>
@@ -68245,7 +68223,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDTGL0045B.jpg</img>
   </row>
   <row>
-    <index>6204</index>
+    <index>6202</index>
     <ID>AGDTGL0044B</ID>
     <Title>AlzaGuard Lens Protector pro Realme 10 černé</Title>
     <Cena>79.0</Cena>
@@ -68256,7 +68234,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDTGL0044B.jpg</img>
   </row>
   <row>
-    <index>6205</index>
+    <index>6203</index>
     <ID>SGR_TT_E250S</ID>
     <Title>SIGURO TT-E250S Chill &amp; Freeze</Title>
     <Cena>5399.0</Cena>
@@ -68267,7 +68245,7 @@
     <img>https://cdn.alza.cz/foto/f3/SG/SGR_TT_E250S.jpg</img>
   </row>
   <row>
-    <index>6206</index>
+    <index>6204</index>
     <ID>SGR_TT_E250W</ID>
     <Title>SIGURO TT-E250W Chill &amp; Freeze</Title>
     <Cena>5299.0</Cena>
@@ -68278,7 +68256,7 @@
     <img>https://cdn.alza.cz/foto/f3/SG/SGR_TT_E250W.jpg</img>
   </row>
   <row>
-    <index>6207</index>
+    <index>6205</index>
     <ID>wowm0027b2</ID>
     <Title>WowME Round Mini black</Title>
     <Cena>990.0</Cena>
@@ -68289,7 +68267,7 @@
     <img>https://cdn.alza.cz/foto/f3/wo/wowm0027b2.jpg</img>
   </row>
   <row>
-    <index>6208</index>
+    <index>6206</index>
     <ID>wowm0027b1</ID>
     <Title>WowME Round Mini rose-gold</Title>
     <Cena>1490.0</Cena>
@@ -68300,7 +68278,7 @@
     <img>https://cdn.alza.cz/foto/f3/wo/wowm0027b1.jpg</img>
   </row>
   <row>
-    <index>6209</index>
+    <index>6207</index>
     <ID>AGDMFMS0006a_openbox</ID>
     <Title>AlzaGuard Magsafe Silicone Case pro iPhone 14 Pro černé</Title>
     <Cena>569.0</Cena>
@@ -68311,7 +68289,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDMFMS0006a.jpg</img>
   </row>
   <row>
-    <index>6210</index>
+    <index>6208</index>
     <ID>AGDPCT0308_openbox</ID>
     <Title>AlzaGuard Crystal Clear TPU case pro POCO X5 5G</Title>
     <Cena>56.0</Cena>
@@ -68322,7 +68300,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0308.jpg</img>
   </row>
   <row>
-    <index>6211</index>
+    <index>6209</index>
     <ID>AGDPCMM8b_openbox</ID>
     <Title>AlzaGuard Matte Case Compatible with MagSafe pro iPhone 15 Plus zelený</Title>
     <Cena>309.0</Cena>
@@ -68333,7 +68311,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCMM8b.jpg</img>
   </row>
   <row>
-    <index>6212</index>
+    <index>6210</index>
     <ID>AGDPCT0332_openbox</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Xiaomi Redmi Note 12S čirý</Title>
     <Cena>159.0</Cena>
@@ -68344,7 +68322,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0332.jpg</img>
   </row>
   <row>
-    <index>6213</index>
+    <index>6211</index>
     <ID>AGDPCMM14b_openbox</ID>
     <Title>AlzaGuard Matte Case Compatible with MagSafe pro iPhone 15 Pro zelený</Title>
     <Cena>329.0</Cena>
@@ -68355,7 +68333,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCMM14b.jpg</img>
   </row>
   <row>
-    <index>6214</index>
+    <index>6212</index>
     <ID>AGPCF0040B_openbox</ID>
     <Title>AlzaGuard Premium Flip Case pro Samsung Galaxy A14 / A14 5G černé</Title>
     <Cena>279.0</Cena>
@@ -68366,7 +68344,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGPCF0040B.jpg</img>
   </row>
   <row>
-    <index>6215</index>
+    <index>6213</index>
     <ID>AGDPCT0299_newish</ID>
     <Title>AlzaGuard Crystal Clear TPU case pro Xiaomi Redmi Note 12 5G</Title>
     <Cena>149.0</Cena>
@@ -68377,7 +68355,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0299.jpg</img>
   </row>
   <row>
-    <index>6216</index>
+    <index>6214</index>
     <ID>AGDPCT0294_newish</ID>
     <Title>AlzaGuard Crystal Clear TPU case pro Motorola Moto G72</Title>
     <Cena>84.0</Cena>
@@ -68388,7 +68366,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0294.jpg</img>
   </row>
   <row>
-    <index>6217</index>
+    <index>6215</index>
     <ID>AGPCS0130a_openbox</ID>
     <Title>AlzaGuard Premium Liquid Silicone Case pro Realme C55 černé</Title>
     <Cena>94.0</Cena>
@@ -68399,7 +68377,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGPCS0130a.jpg</img>
   </row>
   <row>
-    <index>6218</index>
+    <index>6216</index>
     <ID>AGDPCT0220_newish</ID>
     <Title>AlzaGuard Crystal Clear TPU case pro Realme 9 Pro/9 5G</Title>
     <Cena>84.0</Cena>
@@ -68410,7 +68388,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0220.jpg</img>
   </row>
   <row>
-    <index>6219</index>
+    <index>6217</index>
     <ID>AGDPCT0285_newish</ID>
     <Title>AlzaGuard Crystal Clear TPU case pro Google Pixel 7 5G</Title>
     <Cena>149.0</Cena>
@@ -68421,7 +68399,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0285.jpg</img>
   </row>
   <row>
-    <index>6220</index>
+    <index>6218</index>
     <ID>AGDPCT160e_openbox</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone 13 bílý</Title>
     <Cena>219.0</Cena>
@@ -68432,7 +68410,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT160e.jpg</img>
   </row>
   <row>
-    <index>6221</index>
+    <index>6219</index>
     <ID>AGDPCT344a_openbox</ID>
     <Title>AlzaGuard Matte TPU Case pro Nothing Phone 2 černý</Title>
     <Cena>189.0</Cena>
@@ -68443,7 +68421,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT344a.jpg</img>
   </row>
   <row>
-    <index>6222</index>
+    <index>6220</index>
     <ID>AGPCS0134a_openbox</ID>
     <Title>AlzaGuard Premium Liquid Silicone Case pro iPhone 15 Plus černé</Title>
     <Cena>189.0</Cena>
@@ -68454,7 +68432,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGPCS0134a.jpg</img>
   </row>
   <row>
-    <index>6223</index>
+    <index>6221</index>
     <ID>AGDPCS0007_newish</ID>
     <Title>AlzaGuard Shockproof Case pro iPhone 12 Pro Max</Title>
     <Cena>169.0</Cena>
@@ -68465,7 +68443,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCS0007.jpg</img>
   </row>
   <row>
-    <index>6224</index>
+    <index>6222</index>
     <ID>AGDPCMM37a_openbox</ID>
     <Title>AlzaGuard Matte Case Compatible with MagSafe pro iPhone 13 černý</Title>
     <Cena>329.0</Cena>
@@ -68476,7 +68454,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCMM37a.jpg</img>
   </row>
   <row>
-    <index>6225</index>
+    <index>6223</index>
     <ID>SPTstr0011</ID>
     <Title>Stormred SAVASANA YogaMat Korková</Title>
     <Cena>499.0</Cena>
@@ -68487,7 +68465,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTstr0011.jpg</img>
   </row>
   <row>
-    <index>6226</index>
+    <index>6224</index>
     <ID>AGPCS0133b_openbox</ID>
     <Title>AlzaGuard Premium Liquid Silicone Case pro iPhone 15 červené</Title>
     <Cena>279.0</Cena>
@@ -68498,7 +68476,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGPCS0133b.jpg</img>
   </row>
   <row>
-    <index>6227</index>
+    <index>6225</index>
     <ID>AGDGLCM8_openbox</ID>
     <Title>AlzaGuard Genuine Leather Case with Magsafe pro iPhone 15 Pro Max černý</Title>
     <Cena>569.0</Cena>
@@ -68509,7 +68487,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDGLCM8.jpg</img>
   </row>
   <row>
-    <index>6228</index>
+    <index>6226</index>
     <ID>SPTtss0043</ID>
     <Title>Campgo Dragon Short</Title>
     <Cena>999.0</Cena>
@@ -68520,7 +68498,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTtss0043.jpg</img>
   </row>
   <row>
-    <index>6229</index>
+    <index>6227</index>
     <ID>SPTtss0045</ID>
     <Title>Campgo Libas</Title>
     <Cena>799.0</Cena>
@@ -68531,7 +68509,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTtss0045.jpg</img>
   </row>
   <row>
-    <index>6230</index>
+    <index>6228</index>
     <ID>AGDMFMS0002d_openbox</ID>
     <Title>AlzaGuard Magsafe Silicone Case pro iPhone 13 Mini růžové</Title>
     <Cena>569.0</Cena>
@@ -68542,7 +68520,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDMFMS0002d.jpg</img>
   </row>
   <row>
-    <index>6231</index>
+    <index>6229</index>
     <ID>AGDPCT0331_openbox</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Xiaomi Redmi Note 12 4G</Title>
     <Cena>159.0</Cena>
@@ -68553,7 +68531,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0331.jpg</img>
   </row>
   <row>
-    <index>6232</index>
+    <index>6230</index>
     <ID>APWCB1211j</ID>
     <Title>AlzaPower Core USB-C to USB-C 2.0 60W 1m černý</Title>
     <Cena>149.0</Cena>
@@ -68564,7 +68542,7 @@
     <img>https://cdn.alza.cz/foto/f3/AP/APWCB1211j.jpg</img>
   </row>
   <row>
-    <index>6233</index>
+    <index>6231</index>
     <ID>AGPCS0005a_openbox</ID>
     <Title>AlzaGuard Premium Liquid Silicone Case pro iPhone Xr černé</Title>
     <Cena>279.0</Cena>
@@ -68575,7 +68553,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGPCS0005a.jpg</img>
   </row>
   <row>
-    <index>6234</index>
+    <index>6232</index>
     <ID>APWBTE041_openbox</ID>
     <Title>AlzaPower Airtunes černá</Title>
     <Cena>519.0</Cena>
@@ -68586,7 +68564,7 @@
     <img>https://cdn.alza.cz/foto/f3/AP/APWBTE041.jpg</img>
   </row>
   <row>
-    <index>6235</index>
+    <index>6233</index>
     <ID>SPTcam001</ID>
     <Title>Campgo HL-R-204</Title>
     <Cena>389.0</Cena>
@@ -68597,7 +68575,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTcam001.jpg</img>
   </row>
   <row>
-    <index>6236</index>
+    <index>6234</index>
     <ID>SPTcam002</ID>
     <Title>Campgo HL-COB-1703</Title>
     <Cena>199.0</Cena>
@@ -68608,7 +68586,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTcam002.jpg</img>
   </row>
   <row>
-    <index>6237</index>
+    <index>6235</index>
     <ID>SPTcam003</ID>
     <Title>Campgo HL-621</Title>
     <Cena>269.0</Cena>
@@ -68619,7 +68597,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTcam003.jpg</img>
   </row>
   <row>
-    <index>6238</index>
+    <index>6236</index>
     <ID>SPTcam004</ID>
     <Title>Campgo HL-52</Title>
     <Cena>259.0</Cena>
@@ -68630,7 +68608,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTcam004.jpg</img>
   </row>
   <row>
-    <index>6239</index>
+    <index>6237</index>
     <ID>SPTcam012</ID>
     <Title>Campgo T10</Title>
     <Cena>495.0</Cena>
@@ -68641,7 +68619,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTcam012.jpg</img>
   </row>
   <row>
-    <index>6240</index>
+    <index>6238</index>
     <ID>AGDPCT0048_openbox</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro iPhone 11 Pro Max</Title>
     <Cena>139.0</Cena>
@@ -68652,7 +68630,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0048.jpg</img>
   </row>
   <row>
-    <index>6241</index>
+    <index>6239</index>
     <ID>AGDPCT0049_openbox</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro iPhone 7 / 8 / SE (2020) / SE (2022)</Title>
     <Cena>169.0</Cena>
@@ -68663,7 +68641,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0049.jpg</img>
   </row>
   <row>
-    <index>6242</index>
+    <index>6240</index>
     <ID>AGDPCT0047_openbox</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro iPhone 11 Pro</Title>
     <Cena>169.0</Cena>
@@ -68674,7 +68652,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0047.jpg</img>
   </row>
   <row>
-    <index>6243</index>
+    <index>6241</index>
     <ID>AGDPCT0003_openbox</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Samsung Galaxy S20 FE</Title>
     <Cena>169.0</Cena>
@@ -68685,7 +68663,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0003.jpg</img>
   </row>
   <row>
-    <index>6244</index>
+    <index>6242</index>
     <ID>AEY0915c_openbox</ID>
     <Title>AlzaErgo FXL05B Frame XL fixní 43"-90"</Title>
     <Cena>849.0</Cena>
@@ -68696,7 +68674,7 @@
     <img>https://cdn.alza.cz/foto/f3/AE/AEY0915c.jpg</img>
   </row>
   <row>
-    <index>6245</index>
+    <index>6243</index>
     <ID>AGDPCT0139_openbox</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Samsung Galaxy A32</Title>
     <Cena>94.0</Cena>
@@ -68707,7 +68685,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0139.jpg</img>
   </row>
   <row>
-    <index>6246</index>
+    <index>6244</index>
     <ID>AGDPCS0009_openbox</ID>
     <Title>AlzaGuard Shockproof Case pro iPhone 6 / 6S</Title>
     <Cena>189.0</Cena>
@@ -68718,7 +68696,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCS0009.jpg</img>
   </row>
   <row>
-    <index>6247</index>
+    <index>6245</index>
     <ID>AGDPCT0053_openbox</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Samsung Galaxy A32 5G</Title>
     <Cena>94.0</Cena>
@@ -68729,7 +68707,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0053.jpg</img>
   </row>
   <row>
-    <index>6248</index>
+    <index>6246</index>
     <ID>AGDPCT0125</ID>
     <Title>AlzaGuard Crystal Clear TPU case pro Xiaomi Redmi Note 10 / 10S</Title>
     <Cena>99.0</Cena>
@@ -68740,7 +68718,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0125.jpg</img>
   </row>
   <row>
-    <index>6249</index>
+    <index>6247</index>
     <ID>AGDPCT0126</ID>
     <Title>AlzaGuard Crystal Clear TPU case pro Xiaomi Redmi Note 10 Pro</Title>
     <Cena>99.0</Cena>
@@ -68751,7 +68729,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0126.jpg</img>
   </row>
   <row>
-    <index>6250</index>
+    <index>6248</index>
     <ID>AGDPCT0127</ID>
     <Title>AlzaGuard Crystal Clear TPU case pro Xiaomi Redmi Note 8</Title>
     <Cena>99.0</Cena>
@@ -68762,7 +68740,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0127.jpg</img>
   </row>
   <row>
-    <index>6251</index>
+    <index>6249</index>
     <ID>AGDPCT0128</ID>
     <Title>AlzaGuard Crystal Clear TPU case pro Xiaomi Redmi Note 9 LTE</Title>
     <Cena>109.0</Cena>
@@ -68773,7 +68751,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0128.jpg</img>
   </row>
   <row>
-    <index>6252</index>
+    <index>6250</index>
     <ID>AGDPCT0129</ID>
     <Title>AlzaGuard Crystal Clear TPU case pro Samsung Galaxy S21 FE</Title>
     <Cena>179.0</Cena>
@@ -68784,7 +68762,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0129.jpg</img>
   </row>
   <row>
-    <index>6253</index>
+    <index>6251</index>
     <ID>AGDPCT0139</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Samsung Galaxy A32</Title>
     <Cena>99.0</Cena>
@@ -68795,7 +68773,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0139.jpg</img>
   </row>
   <row>
-    <index>6254</index>
+    <index>6252</index>
     <ID>AET2001b</ID>
     <Title>Eternico Wired KD2001L - CZ/SK</Title>
     <Cena>299.0</Cena>
@@ -68806,7 +68784,7 @@
     <img>https://cdn.alza.cz/foto/f3/AE/AET2001b.jpg</img>
   </row>
   <row>
-    <index>6255</index>
+    <index>6253</index>
     <ID>AET2001c</ID>
     <Title>Eternico Wired KD2001RGB CZ / SK</Title>
     <Cena>349.0</Cena>
@@ -68817,7 +68795,7 @@
     <img>https://cdn.alza.cz/foto/f3/AE/AET2001c.jpg</img>
   </row>
   <row>
-    <index>6256</index>
+    <index>6254</index>
     <ID>AET2002b</ID>
     <Title>Eternico Office Wired KD2002 - DE</Title>
     <Cena>499.0</Cena>
@@ -68828,7 +68806,7 @@
     <img>https://cdn.alza.cz/foto/f3/AE/AET2002b.jpg</img>
   </row>
   <row>
-    <index>6257</index>
+    <index>6255</index>
     <ID>AET2003a</ID>
     <Title>Eternico Wireless KS2003 CZ / SK</Title>
     <Cena>549.0</Cena>
@@ -68839,7 +68817,7 @@
     <img>https://cdn.alza.cz/foto/f3/AE/AET2003a.jpg</img>
   </row>
   <row>
-    <index>6258</index>
+    <index>6256</index>
     <ID>AGDPCS0003</ID>
     <Title>AlzaGuard Shockproof Case pro iPhone 11 Pro</Title>
     <Cena>219.0</Cena>
@@ -68850,7 +68828,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCS0003.jpg</img>
   </row>
   <row>
-    <index>6259</index>
+    <index>6257</index>
     <ID>AGDPCS0004</ID>
     <Title>AlzaGuard Shockproof Case pro iPhone 11 Pro Max</Title>
     <Cena>199.0</Cena>
@@ -68861,7 +68839,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCS0004.jpg</img>
   </row>
   <row>
-    <index>6260</index>
+    <index>6258</index>
     <ID>AGDPCS0010</ID>
     <Title>AlzaGuard Shockproof Case pro iPhone 7 / 8 / SE 2020 / SE 2022</Title>
     <Cena>199.0</Cena>
@@ -68872,7 +68850,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCS0010.jpg</img>
   </row>
   <row>
-    <index>6261</index>
+    <index>6259</index>
     <ID>AGDPCS0011</ID>
     <Title>AlzaGuard Shockproof Case pro iPhone X / Xs</Title>
     <Cena>199.0</Cena>
@@ -68883,7 +68861,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCS0011.jpg</img>
   </row>
   <row>
-    <index>6262</index>
+    <index>6260</index>
     <ID>AGDPCS0012</ID>
     <Title>AlzaGuard Shockproof Case pro iPhone Xr</Title>
     <Cena>199.0</Cena>
@@ -68894,7 +68872,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCS0012.jpg</img>
   </row>
   <row>
-    <index>6263</index>
+    <index>6261</index>
     <ID>AGDPCS0018</ID>
     <Title>AlzaGuard Shockproof Case pro Samsung Galaxy A12</Title>
     <Cena>149.0</Cena>
@@ -68905,7 +68883,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCS0018.jpg</img>
   </row>
   <row>
-    <index>6264</index>
+    <index>6262</index>
     <ID>AGDPCS0022</ID>
     <Title>AlzaGuard Shockproof Case pro Samsung Galaxy A52 / A52 5G / A52s</Title>
     <Cena>199.0</Cena>
@@ -68916,7 +68894,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCS0022.jpg</img>
   </row>
   <row>
-    <index>6265</index>
+    <index>6263</index>
     <ID>AGDPCS0028</ID>
     <Title>AlzaGuard Shockproof Case pro Samsung Galaxy S20 FE</Title>
     <Cena>199.0</Cena>
@@ -68927,7 +68905,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCS0028.jpg</img>
   </row>
   <row>
-    <index>6266</index>
+    <index>6264</index>
     <ID>AGDPCS0029</ID>
     <Title>AlzaGuard Shockproof Case pro Xiaomi Redmi Note 10 / 10S</Title>
     <Cena>199.0</Cena>
@@ -68938,7 +68916,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCS0029.jpg</img>
   </row>
   <row>
-    <index>6267</index>
+    <index>6265</index>
     <ID>AGDPCS0030</ID>
     <Title>AlzaGuard Shockproof Case pro Xiaomi Redmi Note 10 Pro</Title>
     <Cena>199.0</Cena>
@@ -68949,7 +68927,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCS0030.jpg</img>
   </row>
   <row>
-    <index>6268</index>
+    <index>6266</index>
     <ID>AGDPCS0033</ID>
     <Title>AlzaGuard Shockproof Case pro Xiaomi Redmi Note 9 LTE</Title>
     <Cena>199.0</Cena>
@@ -68960,7 +68938,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCS0033.jpg</img>
   </row>
   <row>
-    <index>6269</index>
+    <index>6267</index>
     <ID>AGDPCS0035</ID>
     <Title>AlzaGuard Shockproof Case pro Xiaomi Redmi Note 9 Pro / 9S</Title>
     <Cena>199.0</Cena>
@@ -68971,7 +68949,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCS0035.jpg</img>
   </row>
   <row>
-    <index>6270</index>
+    <index>6268</index>
     <ID>AGDPCS0002</ID>
     <Title>AlzaGuard Shockproof Case pro iPhone 11</Title>
     <Cena>199.0</Cena>
@@ -68982,7 +68960,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCS0002.jpg</img>
   </row>
   <row>
-    <index>6271</index>
+    <index>6269</index>
     <ID>BLMAM001</ID>
     <Title>BLACKMONT křížový klíč 500mm</Title>
     <Cena>299.0</Cena>
@@ -68993,7 +68971,7 @@
     <img>https://cdn.alza.cz/foto/f3/BL/BLMAM001.jpg</img>
   </row>
   <row>
-    <index>6272</index>
+    <index>6270</index>
     <ID>SPTtss0032</ID>
     <Title>Campgo Ragana Junior Pink</Title>
     <Cena>439.0</Cena>
@@ -69004,7 +68982,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTtss0032.jpg</img>
   </row>
   <row>
-    <index>6273</index>
+    <index>6271</index>
     <ID>SPTtss0033</ID>
     <Title>Campgo Ragana Junior Lime</Title>
     <Cena>439.0</Cena>
@@ -69015,7 +68993,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTtss0033.jpg</img>
   </row>
   <row>
-    <index>6274</index>
+    <index>6272</index>
     <ID>SPTtss0038</ID>
     <Title>Campgo Frost Feather</Title>
     <Cena>3990.0</Cena>
@@ -69026,7 +69004,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTtss0038.jpg</img>
   </row>
   <row>
-    <index>6275</index>
+    <index>6273</index>
     <ID>SPTtss0039</ID>
     <Title>Campgo Wendigo Green</Title>
     <Cena>999.0</Cena>
@@ -69037,7 +69015,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTtss0039.jpg</img>
   </row>
   <row>
-    <index>6276</index>
+    <index>6274</index>
     <ID>AETSPCT00017_openbox</ID>
     <Title>Eternico pro Motorola One Action čiré</Title>
     <Cena>139.0</Cena>
@@ -69048,7 +69026,7 @@
     <img>https://cdn.alza.cz/foto/f3/AE/AETSPCT00017.jpg</img>
   </row>
   <row>
-    <index>6277</index>
+    <index>6275</index>
     <ID>SPTm0890</ID>
     <Title>Campgo 180x50x0,8 cm jednovrstvá zelená</Title>
     <Cena>139.0</Cena>
@@ -69059,7 +69037,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTm0890.jpg</img>
   </row>
   <row>
-    <index>6278</index>
+    <index>6276</index>
     <ID>SPTmc0991</ID>
     <Title>Campgo 180x50x0,8 cm jednovrstvá modrá</Title>
     <Cena>139.0</Cena>
@@ -69070,7 +69048,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTmc0991.jpg</img>
   </row>
   <row>
-    <index>6279</index>
+    <index>6277</index>
     <ID>AGDPCT0122_openbox</ID>
     <Title>AlzaGuard Crystal Clear TPU case pro Vivo Y11s</Title>
     <Cena>169.0</Cena>
@@ -69081,7 +69059,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0122.jpg</img>
   </row>
   <row>
-    <index>6280</index>
+    <index>6278</index>
     <ID>AGPCS0001a</ID>
     <Title>AlzaGuard Premium Liquid Silicone Case pro iPhone 6 / 6s černé</Title>
     <Cena>299.0</Cena>
@@ -69092,7 +69070,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGPCS0001a.jpg</img>
   </row>
   <row>
-    <index>6281</index>
+    <index>6279</index>
     <ID>AGPCS0002a</ID>
     <Title>AlzaGuard Premium Liquid Silicone Case pro iPhone 5 / 5S / SE černé</Title>
     <Cena>299.0</Cena>
@@ -69101,5 +69079,27 @@
     <PN>AGD-PCS0002B</PN>
     <URL>https://www.alza.cz//alzaguard-premium-liquid-silicon-iphone-5-5s-se-cerne-d6486200.htm</URL>
     <img>https://cdn.alza.cz/foto/f3/AG/AGPCS0002a.jpg</img>
+  </row>
+  <row>
+    <index>6280</index>
+    <ID>APWCBP5181</ID>
+    <Title>AlzaPower Patch CAT5E UTP 0.5m oranžový</Title>
+    <Cena>75.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
+    <EAN>8595691024722</EAN>
+    <PN>APW-CBP5EU0005O</PN>
+    <URL>https://www.alza.cz//alzapower-patch-cat5e-utp?dq=6592166</URL>
+    <img>https://cdn.alza.cz/foto/f3/AP/APWCBP5181.jpg</img>
+  </row>
+  <row>
+    <index>6281</index>
+    <ID>APWCBP6141</ID>
+    <Title>AlzaPower Patch CAT6 UTP 7m šedý</Title>
+    <Cena>149.0</Cena>
+    <Dostupnost>on way</Dostupnost>
+    <EAN>8595691024999</EAN>
+    <PN>APW-CBP6U0070Y</PN>
+    <URL>https://www.alza.cz//alzapower-patch-cat6-utp?dq=6592202</URL>
+    <img>https://cdn.alza.cz/foto/f3/AP/APWCBP6141.jpg</img>
   </row>
 </data>
