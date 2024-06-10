@@ -64550,83 +64550,6 @@
   </row>
   <row>
     <index>5868</index>
-    <ID>SPTbery131</ID>
-    <Title>Bery Jones Arašídový krém jemný 1000 g</Title>
-    <Cena>239.0</Cena>
-    <Dostupnost>in stock</Dostupnost>
-    <EAN>8595691049725</EAN>
-    <PN>8595691049725</PN>
-    <URL>https://www.alza.cz/sport//bery-jones-arasidovy-krem-jemny-1000-g-d7064105.htm</URL>
-    <img>https://cdn.alza.cz/foto/f3/SP/SPTbery131.jpg</img>
-  </row>
-  <row>
-    <index>5869</index>
-    <ID>SPTbery132</ID>
-    <Title>Bery Jones Arašídový krém křupavý 1000 g</Title>
-    <Cena>239.0</Cena>
-    <Dostupnost>in stock</Dostupnost>
-    <EAN>8595691049732</EAN>
-    <PN>8595691049732</PN>
-    <URL>https://www.alza.cz/sport/bery-jones-arasidovy-krem-krupavy-1000-g-d7064106.htm</URL>
-    <img>https://cdn.alza.cz/foto/f3/SP/SPTbery132.jpg</img>
-  </row>
-  <row>
-    <index>5870</index>
-    <ID>AGPCS0052a_openbox</ID>
-    <Title>AlzaGuard Premium Liquid Silicone Case pro iPhone 13 Mini černé</Title>
-    <Cena>279.0</Cena>
-    <Dostupnost>in stock</Dostupnost>
-    <EAN>8595691029185</EAN>
-    <PN>AGD-PCS0052B</PN>
-    <URL>https://www.alza.cz/alzaguard-premium-liquid-silicone-case-pro-iphone-13-mini-cerne-levne-d6752187.htm</URL>
-    <img>https://cdn.alza.cz/foto/f3/AG/AGPCS0052a.jpg</img>
-  </row>
-  <row>
-    <index>5871</index>
-    <ID>LPRGT54</ID>
-    <Title>La Proromance grilovací sada 17 kusů</Title>
-    <Cena>349.0</Cena>
-    <Dostupnost>in stock</Dostupnost>
-    <EAN>8595691046960</EAN>
-    <PN>LPR-BBQS17PCS</PN>
-    <URL>https://www.alza.cz/hobby//la-proromance-bbq-set-17-pcs-d7106478.htm</URL>
-    <img>https://cdn.alza.cz/foto/f3/LP/LPRGT54.jpg</img>
-  </row>
-  <row>
-    <index>5872</index>
-    <ID>LPRGT59</ID>
-    <Title>La Proromance grilovací kleště</Title>
-    <Cena>99.0</Cena>
-    <Dostupnost>in stock</Dostupnost>
-    <EAN>8595691047011</EAN>
-    <PN>LPR-BBQTO</PN>
-    <URL>https://www.alza.cz/hobby//la-proromance-bbq-tongs-d7106484.htm</URL>
-    <img>https://cdn.alza.cz/foto/f3/LP/LPRGT59.jpg</img>
-  </row>
-  <row>
-    <index>5873</index>
-    <ID>FRDGT076</ID>
-    <Title>FERRIDA odlamovací nůž 25mm</Title>
-    <Cena>29.0</Cena>
-    <Dostupnost>in stock</Dostupnost>
-    <EAN>8595691043969</EAN>
-    <PN>FRD-SOK25MM</PN>
-    <URL>https://www.alza.cz/hobby//ferrida-snap-off-knive-25mm-d7106790.htm</URL>
-    <img>https://cdn.alza.cz/foto/f3/FR/FRDGT076.jpg</img>
-  </row>
-  <row>
-    <index>5874</index>
-    <ID>AGDPCT0203_openbox</ID>
-    <Title>AlzaGuard Crystal Clear TPU case pro POCO M4 Pro 5G</Title>
-    <Cena>169.0</Cena>
-    <Dostupnost>in stock</Dostupnost>
-    <EAN>8595691041798</EAN>
-    <PN>AGD-PCT0203Z</PN>
-    <URL>https://www.alza.cz/alzaguard-crystal-clear-tpu-case-pro-poco-m4-pro-5g-levne-d7108349.htm</URL>
-    <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0203.jpg</img>
-  </row>
-  <row>
-    <index>5875</index>
     <ID>AGDPCT0053_newish</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Samsung Galaxy A32 5G</Title>
     <Cena>84.0</Cena>
@@ -64637,7 +64560,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0053.jpg</img>
   </row>
   <row>
-    <index>5876</index>
+    <index>5869</index>
     <ID>AGDPCT0053_openbox</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Samsung Galaxy A32 5G</Title>
     <Cena>94.0</Cena>
@@ -64648,7 +64571,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0053.jpg</img>
   </row>
   <row>
-    <index>5877</index>
+    <index>5870</index>
     <ID>AGDPCS0007_openbox</ID>
     <Title>AlzaGuard Shockproof Case pro iPhone 12 Pro Max</Title>
     <Cena>189.0</Cena>
@@ -64659,7 +64582,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCS0007.jpg</img>
   </row>
   <row>
-    <index>5878</index>
+    <index>5871</index>
     <ID>SGRSCK360</ID>
     <Title>Siguro SC810W Essentials</Title>
     <Cena>199.0</Cena>
@@ -64670,7 +64593,7 @@
     <img>https://cdn.alza.cz/foto/f3/SG/SGRSCK360.jpg</img>
   </row>
   <row>
-    <index>5879</index>
+    <index>5872</index>
     <ID>SGRSCP130</ID>
     <Title>Siguro SC210B Slick</Title>
     <Cena>299.0</Cena>
@@ -64681,7 +64604,7 @@
     <img>https://cdn.alza.cz/foto/f3/SG/SGRSCP130.jpg</img>
   </row>
   <row>
-    <index>5880</index>
+    <index>5873</index>
     <ID>SGRSCP140</ID>
     <Title>Siguro SC210W Slick</Title>
     <Cena>299.0</Cena>
@@ -64692,7 +64615,7 @@
     <img>https://cdn.alza.cz/foto/f3/SG/SGRSCP140.jpg</img>
   </row>
   <row>
-    <index>5881</index>
+    <index>5874</index>
     <ID>SGRSCP190</ID>
     <Title>Siguro SC510SS Digital s nerezovou mísou</Title>
     <Cena>449.0</Cena>
@@ -64703,7 +64626,7 @@
     <img>https://cdn.alza.cz/foto/f3/SG/SGRSCP190.jpg</img>
   </row>
   <row>
-    <index>5882</index>
+    <index>5875</index>
     <ID>AGDPCT0209_openbox</ID>
     <Title>AlzaGuard Crystal Clear TPU case pro Xiaomi Redmi Note 11 Pro</Title>
     <Cena>65.0</Cena>
@@ -64714,7 +64637,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0209.jpg</img>
   </row>
   <row>
-    <index>5883</index>
+    <index>5876</index>
     <ID>RPTGM004a</ID>
     <Title>Rapture ANACONDA černá</Title>
     <Cena>589.0</Cena>
@@ -64725,7 +64648,7 @@
     <img>https://cdn.alza.cz/foto/f3/RP/RPTGM004a.jpg</img>
   </row>
   <row>
-    <index>5884</index>
+    <index>5877</index>
     <ID>RPTGM007b</ID>
     <Title>Rapture TAIPAN bílá</Title>
     <Cena>459.0</Cena>
@@ -64736,7 +64659,7 @@
     <img>https://cdn.alza.cz/foto/f3/RP/RPTGM007b.jpg</img>
   </row>
   <row>
-    <index>5885</index>
+    <index>5878</index>
     <ID>wowm206m4_openbox</ID>
     <Title>WowME ID206 mini Pink/Light Green</Title>
     <Cena>749.0</Cena>
@@ -64747,7 +64670,7 @@
     <img>https://cdn.alza.cz/foto/f3/wo/wowm206m4.jpg</img>
   </row>
   <row>
-    <index>5886</index>
+    <index>5879</index>
     <ID>wowmKW66sgn_newish</ID>
     <Title>WowME KW66 stříbrné/zelené</Title>
     <Cena>839.0</Cena>
@@ -64758,7 +64681,7 @@
     <img>https://cdn.alza.cz/foto/f3/wo/wowmKW66sgn.jpg</img>
   </row>
   <row>
-    <index>5887</index>
+    <index>5880</index>
     <ID>AGDPCT0211_openbox</ID>
     <Title>AlzaGuard Crystal Clear TPU case pro Xiaomi 12 Pro</Title>
     <Cena>46.0</Cena>
@@ -64769,7 +64692,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0211.jpg</img>
   </row>
   <row>
-    <index>5888</index>
+    <index>5881</index>
     <ID>AGDPCMT0004_openbox</ID>
     <Title>AlzaGuard Magnetic Crystal Clear Case pro iPhone 13 Mini</Title>
     <Cena>379.0</Cena>
@@ -64780,7 +64703,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCMT0004.jpg</img>
   </row>
   <row>
-    <index>5889</index>
+    <index>5882</index>
     <ID>SGR_LM_L750W</ID>
     <Title>Siguro LM-L750W Pure Beauty</Title>
     <Cena>599.0</Cena>
@@ -64791,7 +64714,7 @@
     <img>https://cdn.alza.cz/foto/f3/SG/SGR_LM_L750W.jpg</img>
   </row>
   <row>
-    <index>5890</index>
+    <index>5883</index>
     <ID>SGR_LM_M290SS</ID>
     <Title>Siguro LM-M290SS Pure Beauty</Title>
     <Cena>999.0</Cena>
@@ -64802,7 +64725,7 @@
     <img>https://cdn.alza.cz/foto/f3/SG/SGR_LM_M290SS.jpg</img>
   </row>
   <row>
-    <index>5891</index>
+    <index>5884</index>
     <ID>AGDPCT0153_openbox</ID>
     <Title>AlzaGuard Crystal Clear TPU case pro Samsung Galaxy A22</Title>
     <Cena>94.0</Cena>
@@ -64813,7 +64736,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0153.jpg</img>
   </row>
   <row>
-    <index>5892</index>
+    <index>5885</index>
     <ID>AGPCSS0022c_openbox</ID>
     <Title>AlzaGuard Liquid Silicone Case with Stand pro Xiaomi Redmi 9A červené</Title>
     <Cena>279.0</Cena>
@@ -64824,7 +64747,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGPCSS0022c.jpg</img>
   </row>
   <row>
-    <index>5893</index>
+    <index>5886</index>
     <ID>AGDPCT0160_openbox</ID>
     <Title>AlzaGuard Crystal Clear TPU case pro iPhone 13</Title>
     <Cena>169.0</Cena>
@@ -64835,7 +64758,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0160.jpg</img>
   </row>
   <row>
-    <index>5894</index>
+    <index>5887</index>
     <ID>wowmSWb</ID>
     <Title>WowME Senior Watch černé silikonové</Title>
     <Cena>2490.0</Cena>
@@ -64846,7 +64769,7 @@
     <img>https://cdn.alza.cz/foto/f3/wo/wowmSWb.jpg</img>
   </row>
   <row>
-    <index>5895</index>
+    <index>5888</index>
     <ID>AGDPCS0085_openbox</ID>
     <Title>AlzaGuard Shockproof Case pro iPhone 14 Pro Max</Title>
     <Cena>189.0</Cena>
@@ -64857,7 +64780,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCS0085.jpg</img>
   </row>
   <row>
-    <index>5896</index>
+    <index>5889</index>
     <ID>AEY020400003</ID>
     <Title>AlzaPower A120 Fast Charge 20W černá</Title>
     <Cena>251.0</Cena>
@@ -64868,7 +64791,7 @@
     <img>https://cdn.alza.cz/foto/f3/AE/AEY020400003.jpg</img>
   </row>
   <row>
-    <index>5897</index>
+    <index>5890</index>
     <ID>APWWC027</ID>
     <Title>AlzaPower WC150 Premium Wireless Fast Charger 15W černá</Title>
     <Cena>799.0</Cena>
@@ -64879,7 +64802,7 @@
     <img>https://cdn.alza.cz/foto/f3/AP/APWWC027.jpg</img>
   </row>
   <row>
-    <index>5898</index>
+    <index>5891</index>
     <ID>APWCB080d3</ID>
     <Title>AlzaPower AluCore 2in1 USB-A to Micro USB/USB-C 2m bílý</Title>
     <Cena>101.0</Cena>
@@ -64890,7 +64813,7 @@
     <img>https://cdn.alza.cz/foto/f3/AP/APWCB080d3.jpg</img>
   </row>
   <row>
-    <index>5899</index>
+    <index>5892</index>
     <ID>SGR_EM_K420SS_newish</ID>
     <Title>Siguro EM-K420SS Barista</Title>
     <Cena>2429.0</Cena>
@@ -64901,7 +64824,7 @@
     <img>https://cdn.alza.cz/foto/f3/SG/SGR_EM_K420SS.jpg</img>
   </row>
   <row>
-    <index>5900</index>
+    <index>5893</index>
     <ID>RPTGM002f_openbox</ID>
     <Title>Rapture PYTHON červená</Title>
     <Cena>189.0</Cena>
@@ -64912,7 +64835,7 @@
     <img>https://cdn.alza.cz/foto/f3/RP/RPTGM002f.jpg</img>
   </row>
   <row>
-    <index>5901</index>
+    <index>5894</index>
     <ID>AGDPCT0181_openbox</ID>
     <Title>AlzaGuard Crystal Clear TPU case pro Xiaomi Redmi 10 (2022)</Title>
     <Cena>65.0</Cena>
@@ -64923,7 +64846,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0181.jpg</img>
   </row>
   <row>
-    <index>5902</index>
+    <index>5895</index>
     <ID>APWCB125a2b2</ID>
     <Title>AlzaPower Core USB-A (M) to USB-A (M) 3.0, 1m bílý</Title>
     <Cena>90.0</Cena>
@@ -64934,7 +64857,7 @@
     <img>https://cdn.alza.cz/foto/f3/AP/APWCB125a2b2.jpg</img>
   </row>
   <row>
-    <index>5903</index>
+    <index>5896</index>
     <ID>APWHC711_openbox</ID>
     <Title>AlzaPower Metal USB-C Dock Station with Stand 6in1 stříbrná</Title>
     <Cena>1419.0</Cena>
@@ -64945,7 +64868,7 @@
     <img>https://cdn.alza.cz/foto/f3/AP/APWHC711.jpg</img>
   </row>
   <row>
-    <index>5904</index>
+    <index>5897</index>
     <ID>AEY020400004_openbox</ID>
     <Title>AlzaPower A125 Fast Charge 25W bílá</Title>
     <Cena>269.0</Cena>
@@ -64956,7 +64879,7 @@
     <img>https://cdn.alza.cz/foto/f3/AE/AEY020400004.jpg</img>
   </row>
   <row>
-    <index>5905</index>
+    <index>5898</index>
     <ID>AGDPCS0047_newish</ID>
     <Title>AlzaGuard Shockproof Case pro Samsung Galaxy A22</Title>
     <Cena>169.0</Cena>
@@ -64967,7 +64890,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCS0047.jpg</img>
   </row>
   <row>
-    <index>5906</index>
+    <index>5899</index>
     <ID>AGDPCT0204_openbox</ID>
     <Title>AlzaGuard Crystal Clear TPU case pro Motorola Moto G31</Title>
     <Cena>169.0</Cena>
@@ -64978,7 +64901,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0204.jpg</img>
   </row>
   <row>
-    <index>5907</index>
+    <index>5900</index>
     <ID>SGR_WM_F911W</ID>
     <Title>SIGURO SGR-WM-F911W Steam Pro</Title>
     <Cena>7999.0</Cena>
@@ -64989,7 +64912,7 @@
     <img>https://cdn.alza.cz/foto/f3/SG/SGR_WM_F911W.jpg</img>
   </row>
   <row>
-    <index>5908</index>
+    <index>5901</index>
     <ID>wowm205LPb_openbox</ID>
     <Title>WowME ID205L-P Black</Title>
     <Cena>659.0</Cena>
@@ -65000,7 +64923,7 @@
     <img>https://cdn.alza.cz/foto/f3/wo/wowm205LPb.jpg</img>
   </row>
   <row>
-    <index>5909</index>
+    <index>5902</index>
     <ID>SPTbery140</ID>
     <Title>Bery Jones Arašídy v mléčné čokoládě 500g</Title>
     <Cena>89.0</Cena>
@@ -65011,7 +64934,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTbery140.jpg</img>
   </row>
   <row>
-    <index>5910</index>
+    <index>5903</index>
     <ID>SPTbery142</ID>
     <Title>Bery Jones Mandle v mléčné čokoládě 500g</Title>
     <Cena>129.0</Cena>
@@ -65022,7 +64945,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTbery142.jpg</img>
   </row>
   <row>
-    <index>5911</index>
+    <index>5904</index>
     <ID>SPTbery145</ID>
     <Title>Bery Jones Arašídové hrudky ve slaném karamelu 500g</Title>
     <Cena>129.0</Cena>
@@ -65033,7 +64956,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTbery145.jpg</img>
   </row>
   <row>
-    <index>5912</index>
+    <index>5905</index>
     <ID>SPTbery149</ID>
     <Title>Bery Jones Lyofilizované jahody v mléčné čokoládě 250g</Title>
     <Cena>109.0</Cena>
@@ -65044,7 +64967,7 @@
     <img>https://cdn.alza.cz/foto/f3/SP/SPTbery149.jpg</img>
   </row>
   <row>
-    <index>5913</index>
+    <index>5906</index>
     <ID>RPTLCD0600</ID>
     <Title>27" Rapture VIDE IFF27165</Title>
     <Cena>5490.0</Cena>
@@ -65055,7 +64978,7 @@
     <img>https://cdn.alza.cz/foto/f3/RP/RPTLCD0600.jpg</img>
   </row>
   <row>
-    <index>5914</index>
+    <index>5907</index>
     <ID>RPTLCD0550</ID>
     <Title>23,8" Rapture VIDE IFF24144</Title>
     <Cena>4490.0</Cena>
@@ -65066,7 +64989,7 @@
     <img>https://cdn.alza.cz/foto/f3/RP/RPTLCD0550.jpg</img>
   </row>
   <row>
-    <index>5915</index>
+    <index>5908</index>
     <ID>AGDPCT0252_openbox</ID>
     <Title>AlzaGuard Crystal Clear TPU case pro Honor X7</Title>
     <Cena>46.0</Cena>
@@ -65077,7 +65000,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0252.jpg</img>
   </row>
   <row>
-    <index>5916</index>
+    <index>5909</index>
     <ID>AGDPCT0249_openbox</ID>
     <Title>AlzaGuard Crystal Clear TPU case pro Huawei Nova Y90</Title>
     <Cena>169.0</Cena>
@@ -65088,7 +65011,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0249.jpg</img>
   </row>
   <row>
-    <index>5917</index>
+    <index>5910</index>
     <ID>AGDPCT0271</ID>
     <Title>AlzaGuard Crystal Clear TPU case pro OnePlus 10T 5G</Title>
     <Cena>59.0</Cena>
@@ -65099,7 +65022,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0271.jpg</img>
   </row>
   <row>
-    <index>5918</index>
+    <index>5911</index>
     <ID>AGDPCT0273</ID>
     <Title>AlzaGuard Crystal Clear TPU case pro Motorola Moto G32</Title>
     <Cena>179.0</Cena>
@@ -65110,7 +65033,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0273.jpg</img>
   </row>
   <row>
-    <index>5919</index>
+    <index>5912</index>
     <ID>AGDPCT0276</ID>
     <Title>AlzaGuard Crystal Clear TPU case pro Google Pixel 6a 5G</Title>
     <Cena>179.0</Cena>
@@ -65121,7 +65044,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0276.jpg</img>
   </row>
   <row>
-    <index>5920</index>
+    <index>5913</index>
     <ID>AGDPCT0277</ID>
     <Title>AlzaGuard Crystal Clear TPU case pro Xiaomi Redmi 10 5G</Title>
     <Cena>99.0</Cena>
@@ -65132,7 +65055,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0277.jpg</img>
   </row>
   <row>
-    <index>5921</index>
+    <index>5914</index>
     <ID>AGDPCT0278</ID>
     <Title>AlzaGuard Crystal Clear TPU case pro Xiaomi Redmi A1 / A2</Title>
     <Cena>179.0</Cena>
@@ -65143,7 +65066,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0278.jpg</img>
   </row>
   <row>
-    <index>5922</index>
+    <index>5915</index>
     <ID>AGDPCT0279</ID>
     <Title>AlzaGuard Crystal Clear TPU case pro Honor X6</Title>
     <Cena>139.0</Cena>
@@ -65154,7 +65077,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0279.jpg</img>
   </row>
   <row>
-    <index>5923</index>
+    <index>5916</index>
     <ID>AGDPCS0088</ID>
     <Title>AlzaGuard Shockproof Case pro Xiaomi Redmi A1 / A2</Title>
     <Cena>199.0</Cena>
@@ -65165,7 +65088,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCS0088.jpg</img>
   </row>
   <row>
-    <index>5924</index>
+    <index>5917</index>
     <ID>AGDTGC0328</ID>
     <Title>AlzaGuard 2.5D Case Friendly Glass Protector pro Xiaomi Redmi A1 / A2</Title>
     <Cena>179.0</Cena>
@@ -65176,7 +65099,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDTGC0328.jpg</img>
   </row>
   <row>
-    <index>5925</index>
+    <index>5918</index>
     <ID>AGDPCT0272</ID>
     <Title>AlzaGuard Crystal Clear TPU case pro Samsung Galaxy A23 5G</Title>
     <Cena>69.0</Cena>
@@ -65187,7 +65110,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0272.jpg</img>
   </row>
   <row>
-    <index>5926</index>
+    <index>5919</index>
     <ID>AGDPCS0089</ID>
     <Title>AlzaGuard Shockproof Case pro Samsung Galaxy A23 5G</Title>
     <Cena>129.0</Cena>
@@ -65198,7 +65121,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCS0089.jpg</img>
   </row>
   <row>
-    <index>5927</index>
+    <index>5920</index>
     <ID>AGPCS0095a_openbox</ID>
     <Title>AlzaGuard Premium Liquid Silicone Case pro Samsung Galaxy S21 FE černé</Title>
     <Cena>279.0</Cena>
@@ -65209,7 +65132,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGPCS0095a.jpg</img>
   </row>
   <row>
-    <index>5928</index>
+    <index>5921</index>
     <ID>AGPCS0122a_openbox</ID>
     <Title>AlzaGuard Premium Liquid Silicone Case pro Xiaomi Redmi Note 12 5G černé</Title>
     <Cena>139.0</Cena>
@@ -65220,7 +65143,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGPCS0122a.jpg</img>
   </row>
   <row>
-    <index>5929</index>
+    <index>5922</index>
     <ID>AGPCS0003a_newish</ID>
     <Title>AlzaGuard Premium Liquid Silicone Case pro iPhone 7 / 8 / SE 2020 / SE 2022 černé</Title>
     <Cena>249.0</Cena>
@@ -65231,7 +65154,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGPCS0003a.jpg</img>
   </row>
   <row>
-    <index>5930</index>
+    <index>5923</index>
     <ID>AGDPCS0069_openbox</ID>
     <Title>AlzaGuard Shockproof Case pro Xiaomi Redmi Note 11 Pro</Title>
     <Cena>139.0</Cena>
@@ -65242,7 +65165,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCS0069.jpg</img>
   </row>
   <row>
-    <index>5931</index>
+    <index>5924</index>
     <ID>wowmKW66sgy_openbox</ID>
     <Title>WowME KW66 stříbrné/bílé</Title>
     <Cena>939.0</Cena>
@@ -65253,7 +65176,7 @@
     <img>https://cdn.alza.cz/foto/f3/wo/wowmKW66sgy.jpg</img>
   </row>
   <row>
-    <index>5932</index>
+    <index>5925</index>
     <ID>APWCB090q8b1</ID>
     <Title>AlzaPower Alucore USB-C to Lightning MFi 3m červený</Title>
     <Cena>239.0</Cena>
@@ -65264,7 +65187,7 @@
     <img>https://cdn.alza.cz/foto/f3/AP/APWCB090q8b1.jpg</img>
   </row>
   <row>
-    <index>5933</index>
+    <index>5926</index>
     <ID>AGPCS0004a_openbox</ID>
     <Title>AlzaGuard Premium Liquid Silicone Case pro iPhone X / Xs černé</Title>
     <Cena>279.0</Cena>
@@ -65275,7 +65198,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGPCS0004a.jpg</img>
   </row>
   <row>
-    <index>5934</index>
+    <index>5927</index>
     <ID>AGDPCT0273_openbox</ID>
     <Title>AlzaGuard Crystal Clear TPU case pro Motorola Moto G32</Title>
     <Cena>169.0</Cena>
@@ -65286,7 +65209,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0273.jpg</img>
   </row>
   <row>
-    <index>5935</index>
+    <index>5928</index>
     <ID>SGR_BF_O120W</ID>
     <Title>SIGURO BF-O120W Ideal</Title>
     <Cena>9999.0</Cena>
@@ -65297,7 +65220,7 @@
     <img>https://cdn.alza.cz/foto/f3/SG/SGR_BF_O120W.jpg</img>
   </row>
   <row>
-    <index>5936</index>
+    <index>5929</index>
     <ID>APWCB125a1b3</ID>
     <Title>AlzaPower Core USB-A (M) to USB-A (F) 2.0, 1.5m bílý</Title>
     <Cena>129.0</Cena>
@@ -65308,7 +65231,7 @@
     <img>https://cdn.alza.cz/foto/f3/AP/APWCB125a1b3.jpg</img>
   </row>
   <row>
-    <index>5937</index>
+    <index>5930</index>
     <ID>APWCB125a2a1</ID>
     <Title>AlzaPower Core USB-A (M) to USB-A (M) 2.0, 0.5m černý</Title>
     <Cena>71.0</Cena>
@@ -65319,7 +65242,7 @@
     <img>https://cdn.alza.cz/foto/f3/AP/APWCB125a2a1.jpg</img>
   </row>
   <row>
-    <index>5938</index>
+    <index>5931</index>
     <ID>APWCB125a2a3</ID>
     <Title>AlzaPower Core USB-A (M) to USB-A (M) 2.0, 1.5m černý</Title>
     <Cena>139.0</Cena>
@@ -65330,7 +65253,7 @@
     <img>https://cdn.alza.cz/foto/f3/AP/APWCB125a2a3.jpg</img>
   </row>
   <row>
-    <index>5939</index>
+    <index>5932</index>
     <ID>AGDPCT0276_openbox</ID>
     <Title>AlzaGuard Crystal Clear TPU case pro Google Pixel 6a 5G</Title>
     <Cena>169.0</Cena>
@@ -65341,7 +65264,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0276.jpg</img>
   </row>
   <row>
-    <index>5940</index>
+    <index>5933</index>
     <ID>AGDPCMM53e_openbox</ID>
     <Title>AlzaGuard Matte Case Compatible with MagSafe pro iPhone 14 Pro světle fialový</Title>
     <Cena>329.0</Cena>
@@ -65352,7 +65275,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCMM53e.jpg</img>
   </row>
   <row>
-    <index>5941</index>
+    <index>5934</index>
     <ID>AGDPCT0300_newish</ID>
     <Title>AlzaGuard Crystal Clear TPU case pro Xiaomi Redmi Note 12 Pro 5G</Title>
     <Cena>149.0</Cena>
@@ -65363,7 +65286,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0300.jpg</img>
   </row>
   <row>
-    <index>5942</index>
+    <index>5935</index>
     <ID>AGDPCT0369</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Honor X6a</Title>
     <Cena>118.0</Cena>
@@ -65374,7 +65297,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0369.jpg</img>
   </row>
   <row>
-    <index>5943</index>
+    <index>5936</index>
     <ID>AGDPCT282</ID>
     <Title>AlzaGuard Protective Flip Cover pro Honor Pad X9 černé</Title>
     <Cena>499.0</Cena>
@@ -65385,7 +65308,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT282.jpg</img>
   </row>
   <row>
-    <index>5944</index>
+    <index>5937</index>
     <ID>AGDPCT0355</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Samsung Galaxy S23 FE</Title>
     <Cena>169.0</Cena>
@@ -65396,7 +65319,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0355.jpg</img>
   </row>
   <row>
-    <index>5945</index>
+    <index>5938</index>
     <ID>AGDPCT0365</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Samsung Galaxy A55 5G</Title>
     <Cena>169.0</Cena>
@@ -65407,7 +65330,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0365.jpg</img>
   </row>
   <row>
-    <index>5946</index>
+    <index>5939</index>
     <ID>AGDPCT0364</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Samsung Galaxy A35 5G</Title>
     <Cena>169.0</Cena>
@@ -65418,7 +65341,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0364.jpg</img>
   </row>
   <row>
-    <index>5947</index>
+    <index>5940</index>
     <ID>AGDPCT0366</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Xiaomi 13T</Title>
     <Cena>169.0</Cena>
@@ -65429,7 +65352,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0366.jpg</img>
   </row>
   <row>
-    <index>5948</index>
+    <index>5941</index>
     <ID>AGDPCT361a</ID>
     <Title>AlzaGuard Matte TPU Case pro Samsung Galaxy A05 černý</Title>
     <Cena>100.0</Cena>
@@ -65440,7 +65363,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT361a.jpg</img>
   </row>
   <row>
-    <index>5949</index>
+    <index>5942</index>
     <ID>AGDPCT0370</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Honor X8</Title>
     <Cena>169.0</Cena>
@@ -65451,7 +65374,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0370.jpg</img>
   </row>
   <row>
-    <index>5950</index>
+    <index>5943</index>
     <ID>AGDPCT0356</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Samsung Galaxy S24</Title>
     <Cena>169.0</Cena>
@@ -65462,7 +65385,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0356.jpg</img>
   </row>
   <row>
-    <index>5951</index>
+    <index>5944</index>
     <ID>AGDPCT0359</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Samsung Galaxy M34</Title>
     <Cena>85.0</Cena>
@@ -65473,7 +65396,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0359.jpg</img>
   </row>
   <row>
-    <index>5952</index>
+    <index>5945</index>
     <ID>AGDPCT0358</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Samsung Galaxy S24 Ultra</Title>
     <Cena>169.0</Cena>
@@ -65484,7 +65407,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0358.jpg</img>
   </row>
   <row>
-    <index>5953</index>
+    <index>5946</index>
     <ID>AGDPCT0372</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Honor Magic5 Lite 5G</Title>
     <Cena>169.0</Cena>
@@ -65495,7 +65418,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0372.jpg</img>
   </row>
   <row>
-    <index>5954</index>
+    <index>5947</index>
     <ID>AGDPCT0368</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro HTC U23 Pro</Title>
     <Cena>169.0</Cena>
@@ -65506,7 +65429,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0368.jpg</img>
   </row>
   <row>
-    <index>5955</index>
+    <index>5948</index>
     <ID>AGDPCT0357</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Samsung Galaxy S24+</Title>
     <Cena>169.0</Cena>
@@ -65517,7 +65440,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0357.jpg</img>
   </row>
   <row>
-    <index>5956</index>
+    <index>5949</index>
     <ID>AGDPCT0376</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Motorola Moto G14</Title>
     <Cena>169.0</Cena>
@@ -65528,7 +65451,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0376.jpg</img>
   </row>
   <row>
-    <index>5957</index>
+    <index>5950</index>
     <ID>AGDPCT0363</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Samsung Galaxy A25 5G</Title>
     <Cena>118.0</Cena>
@@ -65539,7 +65462,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0363.jpg</img>
   </row>
   <row>
-    <index>5958</index>
+    <index>5951</index>
     <ID>AGDPCT0362</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Samsung Galaxy A15 5G</Title>
     <Cena>169.0</Cena>
@@ -65550,7 +65473,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0362.jpg</img>
   </row>
   <row>
-    <index>5959</index>
+    <index>5952</index>
     <ID>AGDPCT0361</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Samsung Galaxy A05</Title>
     <Cena>85.0</Cena>
@@ -65561,7 +65484,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0361.jpg</img>
   </row>
   <row>
-    <index>5960</index>
+    <index>5953</index>
     <ID>AGDPCT0377</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Motorola Moto G54 5G</Title>
     <Cena>169.0</Cena>
@@ -65572,7 +65495,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0377.jpg</img>
   </row>
   <row>
-    <index>5961</index>
+    <index>5954</index>
     <ID>AGDPCT0371</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Honor X8a</Title>
     <Cena>169.0</Cena>
@@ -65583,7 +65506,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0371.jpg</img>
   </row>
   <row>
-    <index>5962</index>
+    <index>5955</index>
     <ID>AGDPCT0373</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Motorola EDGE 30 Neo</Title>
     <Cena>110.0</Cena>
@@ -65594,7 +65517,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0373.jpg</img>
   </row>
   <row>
-    <index>5963</index>
+    <index>5956</index>
     <ID>AGDPCT0378</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Motorola Moto G72</Title>
     <Cena>169.0</Cena>
@@ -65605,7 +65528,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0378.jpg</img>
   </row>
   <row>
-    <index>5964</index>
+    <index>5957</index>
     <ID>AGDPCT0379</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Motorola Moto G84 5G</Title>
     <Cena>169.0</Cena>
@@ -65616,7 +65539,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0379.jpg</img>
   </row>
   <row>
-    <index>5965</index>
+    <index>5958</index>
     <ID>AGDPCT0380</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Samsung Galaxy A05s</Title>
     <Cena>169.0</Cena>
@@ -65627,7 +65550,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0380.jpg</img>
   </row>
   <row>
-    <index>5966</index>
+    <index>5959</index>
     <ID>AGDPCT0374</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Motorola EDGE 40 Neo</Title>
     <Cena>169.0</Cena>
@@ -65638,7 +65561,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0374.jpg</img>
   </row>
   <row>
-    <index>5967</index>
+    <index>5960</index>
     <ID>AGDTCT53</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Xiaomi Redmi Pad SE</Title>
     <Cena>299.0</Cena>
@@ -65649,7 +65572,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDTCT53.jpg</img>
   </row>
   <row>
-    <index>5968</index>
+    <index>5961</index>
     <ID>AGDPCT356a</ID>
     <Title>AlzaGuard Matte TPU Case pro Samsung Galaxy S24 černý</Title>
     <Cena>199.0</Cena>
@@ -65660,7 +65583,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT356a.jpg</img>
   </row>
   <row>
-    <index>5969</index>
+    <index>5962</index>
     <ID>AGDTCT49</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Samsung Galaxy Tab S9 FE</Title>
     <Cena>299.0</Cena>
@@ -65671,7 +65594,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDTCT49.jpg</img>
   </row>
   <row>
-    <index>5970</index>
+    <index>5963</index>
     <ID>AGDPCT356b</ID>
     <Title>AlzaGuard Matte TPU Case pro Samsung Galaxy S24 červený</Title>
     <Cena>139.0</Cena>
@@ -65682,7 +65605,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT356b.jpg</img>
   </row>
   <row>
-    <index>5971</index>
+    <index>5964</index>
     <ID>AGDPCT357b</ID>
     <Title>AlzaGuard Matte TPU Case pro Samsung Galaxy S24+ červený</Title>
     <Cena>100.0</Cena>
@@ -65693,7 +65616,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT357b.jpg</img>
   </row>
   <row>
-    <index>5972</index>
+    <index>5965</index>
     <ID>AGDPCT356c</ID>
     <Title>AlzaGuard Matte TPU Case pro Samsung Galaxy S24 modrý</Title>
     <Cena>119.0</Cena>
@@ -65704,7 +65627,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT356c.jpg</img>
   </row>
   <row>
-    <index>5973</index>
+    <index>5966</index>
     <ID>AGDPCT357c</ID>
     <Title>AlzaGuard Matte TPU Case pro Samsung Galaxy S24+ modrý</Title>
     <Cena>100.0</Cena>
@@ -65715,7 +65638,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT357c.jpg</img>
   </row>
   <row>
-    <index>5974</index>
+    <index>5967</index>
     <ID>AGDPCT356d</ID>
     <Title>AlzaGuard Matte TPU Case pro Samsung Galaxy S24 růžový</Title>
     <Cena>100.0</Cena>
@@ -65726,7 +65649,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT356d.jpg</img>
   </row>
   <row>
-    <index>5975</index>
+    <index>5968</index>
     <ID>AGDPCT357d</ID>
     <Title>AlzaGuard Matte TPU Case pro Samsung Galaxy S24+ růžový</Title>
     <Cena>100.0</Cena>
@@ -65737,7 +65660,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT357d.jpg</img>
   </row>
   <row>
-    <index>5976</index>
+    <index>5969</index>
     <ID>AGDPCT358a</ID>
     <Title>AlzaGuard Matte TPU Case pro Samsung Galaxy S24 Ultra černý</Title>
     <Cena>199.0</Cena>
@@ -65748,7 +65671,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT358a.jpg</img>
   </row>
   <row>
-    <index>5977</index>
+    <index>5970</index>
     <ID>AGDPCT358c</ID>
     <Title>AlzaGuard Matte TPU Case pro Samsung Galaxy S24 Ultra modrý</Title>
     <Cena>199.0</Cena>
@@ -65759,7 +65682,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT358c.jpg</img>
   </row>
   <row>
-    <index>5978</index>
+    <index>5971</index>
     <ID>AGDPCT357a</ID>
     <Title>AlzaGuard Matte TPU Case pro Samsung Galaxy S24+ černý</Title>
     <Cena>139.0</Cena>
@@ -65770,7 +65693,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT357a.jpg</img>
   </row>
   <row>
-    <index>5979</index>
+    <index>5972</index>
     <ID>AGDPCT358d</ID>
     <Title>AlzaGuard Matte TPU Case pro Samsung Galaxy S24 Ultra růžový</Title>
     <Cena>100.0</Cena>
@@ -65781,7 +65704,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT358d.jpg</img>
   </row>
   <row>
-    <index>5980</index>
+    <index>5973</index>
     <ID>AGDPCT361d</ID>
     <Title>AlzaGuard Matte TPU Case pro Samsung Galaxy A05 růžový</Title>
     <Cena>100.0</Cena>
@@ -65792,7 +65715,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT361d.jpg</img>
   </row>
   <row>
-    <index>5981</index>
+    <index>5974</index>
     <ID>AGDPCT362a</ID>
     <Title>AlzaGuard Matte TPU Case pro Samsung Galaxy A15 5G černý</Title>
     <Cena>199.0</Cena>
@@ -65803,7 +65726,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT362a.jpg</img>
   </row>
   <row>
-    <index>5982</index>
+    <index>5975</index>
     <ID>AGDPCT361b</ID>
     <Title>AlzaGuard Matte TPU Case pro Samsung Galaxy A05 červený</Title>
     <Cena>100.0</Cena>
@@ -65814,7 +65737,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT361b.jpg</img>
   </row>
   <row>
-    <index>5983</index>
+    <index>5976</index>
     <ID>AGDPCT362b</ID>
     <Title>AlzaGuard Matte TPU Case pro Samsung Galaxy A15 5G červený</Title>
     <Cena>139.0</Cena>
@@ -65825,7 +65748,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT362b.jpg</img>
   </row>
   <row>
-    <index>5984</index>
+    <index>5977</index>
     <ID>AGDPCT358b</ID>
     <Title>AlzaGuard Matte TPU Case pro Samsung Galaxy S24 Ultra červený</Title>
     <Cena>100.0</Cena>
@@ -65836,7 +65759,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT358b.jpg</img>
   </row>
   <row>
-    <index>5985</index>
+    <index>5978</index>
     <ID>AGDPCT362c</ID>
     <Title>AlzaGuard Matte TPU Case pro Samsung Galaxy A15 5G modrý</Title>
     <Cena>139.0</Cena>
@@ -65847,7 +65770,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT362c.jpg</img>
   </row>
   <row>
-    <index>5986</index>
+    <index>5979</index>
     <ID>AGDPCT363a</ID>
     <Title>AlzaGuard Matte TPU Case pro Samsung Galaxy A25 5G černý</Title>
     <Cena>199.0</Cena>
@@ -65858,7 +65781,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT363a.jpg</img>
   </row>
   <row>
-    <index>5987</index>
+    <index>5980</index>
     <ID>AGDPCT361c</ID>
     <Title>AlzaGuard Matte TPU Case pro Samsung Galaxy A05 modrý</Title>
     <Cena>100.0</Cena>
@@ -65869,7 +65792,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT361c.jpg</img>
   </row>
   <row>
-    <index>5988</index>
+    <index>5981</index>
     <ID>AGDPCT363b</ID>
     <Title>AlzaGuard Matte TPU Case pro Samsung Galaxy A25 5G červený</Title>
     <Cena>199.0</Cena>
@@ -65880,7 +65803,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT363b.jpg</img>
   </row>
   <row>
-    <index>5989</index>
+    <index>5982</index>
     <ID>AGDPCT364b</ID>
     <Title>AlzaGuard Matte TPU Case pro Samsung Galaxy A35 5G červený</Title>
     <Cena>129.0</Cena>
@@ -65891,7 +65814,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT364b.jpg</img>
   </row>
   <row>
-    <index>5990</index>
+    <index>5983</index>
     <ID>AGDPCT364c</ID>
     <Title>AlzaGuard Matte TPU Case pro Samsung Galaxy A35 5G modrý</Title>
     <Cena>199.0</Cena>
@@ -65902,7 +65825,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT364c.jpg</img>
   </row>
   <row>
-    <index>5991</index>
+    <index>5984</index>
     <ID>AGDPCT363d</ID>
     <Title>AlzaGuard Matte TPU Case pro Samsung Galaxy A25 5G růžový</Title>
     <Cena>199.0</Cena>
@@ -65913,7 +65836,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT363d.jpg</img>
   </row>
   <row>
-    <index>5992</index>
+    <index>5985</index>
     <ID>AGDPCT364d</ID>
     <Title>AlzaGuard Matte TPU Case pro Samsung Galaxy A35 5G růžový</Title>
     <Cena>139.0</Cena>
@@ -65924,7 +65847,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT364d.jpg</img>
   </row>
   <row>
-    <index>5993</index>
+    <index>5986</index>
     <ID>AGDPCT363c</ID>
     <Title>AlzaGuard Matte TPU Case pro Samsung Galaxy A25 5G modrý</Title>
     <Cena>199.0</Cena>
@@ -65935,7 +65858,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT363c.jpg</img>
   </row>
   <row>
-    <index>5994</index>
+    <index>5987</index>
     <ID>AGDPCT365b</ID>
     <Title>AlzaGuard Matte TPU Case pro Samsung Galaxy A55 5G červený</Title>
     <Cena>139.0</Cena>
@@ -65946,7 +65869,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT365b.jpg</img>
   </row>
   <row>
-    <index>5995</index>
+    <index>5988</index>
     <ID>AGDPCT362d</ID>
     <Title>AlzaGuard Matte TPU Case pro Samsung Galaxy A15 5G růžový</Title>
     <Cena>139.0</Cena>
@@ -65957,7 +65880,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT362d.jpg</img>
   </row>
   <row>
-    <index>5996</index>
+    <index>5989</index>
     <ID>AGDPCT364a</ID>
     <Title>AlzaGuard Matte TPU Case pro Samsung Galaxy A35 5G černý</Title>
     <Cena>199.0</Cena>
@@ -65968,7 +65891,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT364a.jpg</img>
   </row>
   <row>
-    <index>5997</index>
+    <index>5990</index>
     <ID>AGDPCT365c</ID>
     <Title>AlzaGuard Matte TPU Case pro Samsung Galaxy A55 5G modrý</Title>
     <Cena>199.0</Cena>
@@ -65979,7 +65902,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT365c.jpg</img>
   </row>
   <row>
-    <index>5998</index>
+    <index>5991</index>
     <ID>AGDPCT355c</ID>
     <Title>AlzaGuard Matte TPU Case pro Samsung Galaxy S23 FE modrý</Title>
     <Cena>129.0</Cena>
@@ -65990,7 +65913,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT355c.jpg</img>
   </row>
   <row>
-    <index>5999</index>
+    <index>5992</index>
     <ID>AGDPCT365d</ID>
     <Title>AlzaGuard Matte TPU Case pro Samsung Galaxy A55 5G růžový</Title>
     <Cena>199.0</Cena>
@@ -66001,7 +65924,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT365d.jpg</img>
   </row>
   <row>
-    <index>6000</index>
+    <index>5993</index>
     <ID>AGDPCT320a</ID>
     <Title>AlzaGuard Matte TPU Case pro Xiaomi Redmi 12C černý</Title>
     <Cena>100.0</Cena>
@@ -66012,7 +65935,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT320a.jpg</img>
   </row>
   <row>
-    <index>6001</index>
+    <index>5994</index>
     <ID>AGDPCT355a</ID>
     <Title>AlzaGuard Matte TPU Case pro Samsung Galaxy S23 FE černý</Title>
     <Cena>199.0</Cena>
@@ -66023,7 +65946,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT355a.jpg</img>
   </row>
   <row>
-    <index>6002</index>
+    <index>5995</index>
     <ID>AGDPCT355b</ID>
     <Title>AlzaGuard Matte TPU Case pro Samsung Galaxy S23 FE červený</Title>
     <Cena>139.0</Cena>
@@ -66034,7 +65957,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT355b.jpg</img>
   </row>
   <row>
-    <index>6003</index>
+    <index>5996</index>
     <ID>AGDPCT320b</ID>
     <Title>AlzaGuard Matte TPU Case pro Xiaomi Redmi 12C červený</Title>
     <Cena>100.0</Cena>
@@ -66045,7 +65968,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT320b.jpg</img>
   </row>
   <row>
-    <index>6004</index>
+    <index>5997</index>
     <ID>AGDPCT320c</ID>
     <Title>AlzaGuard Matte TPU Case pro Xiaomi Redmi 12C modrý</Title>
     <Cena>99.0</Cena>
@@ -66056,7 +65979,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT320c.jpg</img>
   </row>
   <row>
-    <index>6005</index>
+    <index>5998</index>
     <ID>AGDPCT365a</ID>
     <Title>AlzaGuard Matte TPU Case pro Samsung Galaxy A55 5G černý</Title>
     <Cena>199.0</Cena>
@@ -66067,7 +65990,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT365a.jpg</img>
   </row>
   <row>
-    <index>6006</index>
+    <index>5999</index>
     <ID>AGDPCT355d</ID>
     <Title>AlzaGuard Matte TPU Case pro Samsung Galaxy S23 FE růžový</Title>
     <Cena>139.0</Cena>
@@ -66078,7 +66001,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT355d.jpg</img>
   </row>
   <row>
-    <index>6007</index>
+    <index>6000</index>
     <ID>AGDPCT350a</ID>
     <Title>AlzaGuard Matte TPU Case pro Realme 11 Pro 5G / 11 Pro+ 5G černý</Title>
     <Cena>100.0</Cena>
@@ -66089,7 +66012,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT350a.jpg</img>
   </row>
   <row>
-    <index>6008</index>
+    <index>6001</index>
     <ID>AGDPCT303a</ID>
     <Title>AlzaGuard Matte TPU Case pro Samsung Galaxy A34 5G černý</Title>
     <Cena>139.0</Cena>
@@ -66100,7 +66023,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT303a.jpg</img>
   </row>
   <row>
-    <index>6009</index>
+    <index>6002</index>
     <ID>AGDPCT359a</ID>
     <Title>AlzaGuard Matte TPU Case pro Samsung Galaxy M34 5G černý</Title>
     <Cena>100.0</Cena>
@@ -66111,7 +66034,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT359a.jpg</img>
   </row>
   <row>
-    <index>6010</index>
+    <index>6003</index>
     <ID>AGDPCT304a</ID>
     <Title>AlzaGuard Matte TPU Case pro Samsung Galaxy A54 5G černý</Title>
     <Cena>199.0</Cena>
@@ -66122,7 +66045,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT304a.jpg</img>
   </row>
   <row>
-    <index>6011</index>
+    <index>6004</index>
     <ID>AGDPCT360a</ID>
     <Title>AlzaGuard Matte TPU Case pro Samsung Galaxy M54 černý</Title>
     <Cena>100.0</Cena>
@@ -66133,7 +66056,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT360a.jpg</img>
   </row>
   <row>
-    <index>6012</index>
+    <index>6005</index>
     <ID>AGDPCTS113</ID>
     <Title>AlzaGuard Shockproof Case pro Samsung Galaxy S24</Title>
     <Cena>139.0</Cena>
@@ -66144,7 +66067,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCTS113.jpg</img>
   </row>
   <row>
-    <index>6013</index>
+    <index>6006</index>
     <ID>AGDPCT302a</ID>
     <Title>AlzaGuard Matte TPU Case pro Samsung Galaxy A14 / A14 5G černý</Title>
     <Cena>100.0</Cena>
@@ -66155,7 +66078,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT302a.jpg</img>
   </row>
   <row>
-    <index>6014</index>
+    <index>6007</index>
     <ID>AGDPCTS114</ID>
     <Title>AlzaGuard Shockproof Case pro Samsung Galaxy S24+</Title>
     <Cena>100.0</Cena>
@@ -66166,7 +66089,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCTS114.jpg</img>
   </row>
   <row>
-    <index>6015</index>
+    <index>6008</index>
     <ID>AGDPCT320d</ID>
     <Title>AlzaGuard Matte TPU Case pro Xiaomi Redmi 12C růžový</Title>
     <Cena>100.0</Cena>
@@ -66177,7 +66100,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT320d.jpg</img>
   </row>
   <row>
-    <index>6016</index>
+    <index>6009</index>
     <ID>AGDPCT272a</ID>
     <Title>AlzaGuard Matte TPU Case pro Samsung Galaxy A23 5G černý</Title>
     <Cena>100.0</Cena>
@@ -66188,7 +66111,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT272a.jpg</img>
   </row>
   <row>
-    <index>6017</index>
+    <index>6010</index>
     <ID>AGDPCTS115</ID>
     <Title>AlzaGuard Shockproof Case pro Samsung Galaxy S24 Ultra</Title>
     <Cena>139.0</Cena>
@@ -66199,7 +66122,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCTS115.jpg</img>
   </row>
   <row>
-    <index>6018</index>
+    <index>6011</index>
     <ID>AGDPCTS120</ID>
     <Title>AlzaGuard Shockproof Case pro Samsung Galaxy A35 5G</Title>
     <Cena>199.0</Cena>
@@ -66210,7 +66133,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCTS120.jpg</img>
   </row>
   <row>
-    <index>6019</index>
+    <index>6012</index>
     <ID>AGDPCTS118</ID>
     <Title>AlzaGuard Shockproof Case pro Samsung Galaxy A15 5G</Title>
     <Cena>199.0</Cena>
@@ -66221,7 +66144,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCTS118.jpg</img>
   </row>
   <row>
-    <index>6020</index>
+    <index>6013</index>
     <ID>AGDPCTS121</ID>
     <Title>AlzaGuard Shockproof Case pro Samsung Galaxy A55 5G</Title>
     <Cena>129.0</Cena>
@@ -66232,7 +66155,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCTS121.jpg</img>
   </row>
   <row>
-    <index>6021</index>
+    <index>6014</index>
     <ID>AGDPCTS116</ID>
     <Title>AlzaGuard Shockproof Case pro Samsung Galaxy M34</Title>
     <Cena>100.0</Cena>
@@ -66243,7 +66166,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCTS116.jpg</img>
   </row>
   <row>
-    <index>6022</index>
+    <index>6015</index>
     <ID>AGDPCTS112</ID>
     <Title>AlzaGuard Shockproof Case pro Samsung Galaxy S23 FE</Title>
     <Cena>199.0</Cena>
@@ -66254,7 +66177,7 @@
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCTS112.jpg</img>
   </row>
   <row>
-    <index>6023</index>
+    <index>6016</index>
     <ID>AGDPCT342a</ID>
     <Title>AlzaGuard Matte TPU Case pro Google Pixel 8 černý</Title>
     <Cena>169.0</Cena>
@@ -66263,5 +66186,82 @@
     <PN>AGD-PCT342B</PN>
     <URL>https://www.alza.cz/alzaguard-matte-tpu-case-pro-google-pixel-8-cerny-d7996430.htm</URL>
     <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT342a.jpg</img>
+  </row>
+  <row>
+    <index>6017</index>
+    <ID>AGPCS0052a_openbox</ID>
+    <Title>AlzaGuard Premium Liquid Silicone Case pro iPhone 13 Mini černé</Title>
+    <Cena>279.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
+    <EAN>8595691029185</EAN>
+    <PN>AGD-PCS0052B</PN>
+    <URL>https://www.alza.cz/alzaguard-premium-liquid-silicone-case-pro-iphone-13-mini-cerne-levne-d6752187.htm</URL>
+    <img>https://cdn.alza.cz/foto/f3/AG/AGPCS0052a.jpg</img>
+  </row>
+  <row>
+    <index>6018</index>
+    <ID>LPRGT54</ID>
+    <Title>La Proromance grilovací sada 17 kusů</Title>
+    <Cena>349.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
+    <EAN>8595691046960</EAN>
+    <PN>LPR-BBQS17PCS</PN>
+    <URL>https://www.alza.cz/hobby//la-proromance-bbq-set-17-pcs-d7106478.htm</URL>
+    <img>https://cdn.alza.cz/foto/f3/LP/LPRGT54.jpg</img>
+  </row>
+  <row>
+    <index>6019</index>
+    <ID>LPRGT59</ID>
+    <Title>La Proromance grilovací kleště</Title>
+    <Cena>99.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
+    <EAN>8595691047011</EAN>
+    <PN>LPR-BBQTO</PN>
+    <URL>https://www.alza.cz/hobby//la-proromance-bbq-tongs-d7106484.htm</URL>
+    <img>https://cdn.alza.cz/foto/f3/LP/LPRGT59.jpg</img>
+  </row>
+  <row>
+    <index>6020</index>
+    <ID>FRDGT076</ID>
+    <Title>FERRIDA odlamovací nůž 25mm</Title>
+    <Cena>29.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
+    <EAN>8595691043969</EAN>
+    <PN>FRD-SOK25MM</PN>
+    <URL>https://www.alza.cz/hobby//ferrida-snap-off-knive-25mm-d7106790.htm</URL>
+    <img>https://cdn.alza.cz/foto/f3/FR/FRDGT076.jpg</img>
+  </row>
+  <row>
+    <index>6021</index>
+    <ID>AGDPCT0203_openbox</ID>
+    <Title>AlzaGuard Crystal Clear TPU case pro POCO M4 Pro 5G</Title>
+    <Cena>169.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
+    <EAN>8595691041798</EAN>
+    <PN>AGD-PCT0203Z</PN>
+    <URL>https://www.alza.cz/alzaguard-crystal-clear-tpu-case-pro-poco-m4-pro-5g-levne-d7108349.htm</URL>
+    <img>https://cdn.alza.cz/foto/f3/AG/AGDPCT0203.jpg</img>
+  </row>
+  <row>
+    <index>6022</index>
+    <ID>SPTbery131</ID>
+    <Title>Bery Jones Arašídový krém jemný 1000 g</Title>
+    <Cena>239.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
+    <EAN>8595691049725</EAN>
+    <PN>8595691049725</PN>
+    <URL>https://www.alza.cz/sport//bery-jones-arasidovy-krem-jemny-1000-g-d7064105.htm</URL>
+    <img>https://cdn.alza.cz/foto/f3/SP/SPTbery131.jpg</img>
+  </row>
+  <row>
+    <index>6023</index>
+    <ID>SPTbery132</ID>
+    <Title>Bery Jones Arašídový krém křupavý 1000 g</Title>
+    <Cena>239.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
+    <EAN>8595691049732</EAN>
+    <PN>8595691049732</PN>
+    <URL>https://www.alza.cz/sport/bery-jones-arasidovy-krem-krupavy-1000-g-d7064106.htm</URL>
+    <img>https://cdn.alza.cz/foto/f3/SP/SPTbery132.jpg</img>
   </row>
 </data>
