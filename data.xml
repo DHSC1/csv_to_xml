@@ -4,7 +4,7 @@
     <index>0</index>
     <ID>SGR_VT_K910B_newish</ID>
     <Title>Siguro VT-K910B TURBOVac Star BLDC</Title>
-    <Cena>3959.0</Cena>
+    <Cena>3869.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691092905</EAN>
     <PN>SGR-VT-K910B</PN>
@@ -92,8 +92,8 @@
     <index>8</index>
     <ID>SGR_MP_S600SU_openbox</ID>
     <Title>Siguro MP-S600SU Multi Chef tlakový</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>1819.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8595691040647</EAN>
     <PN>SGR-MP-S600SU</PN>
     <URL>https://www.alza.cz/siguro-mp-s600su-multi-chef-tlakovy-levne-d7327870.htm</URL>
@@ -291,7 +291,7 @@
     <ID>SGR_HR_I450B</ID>
     <Title>Siguro HR-I450B Twilight Flow</Title>
     <Cena>2499.0</Cena>
-    <Dostupnost>in stock</Dostupnost>
+    <Dostupnost>on way</Dostupnost>
     <EAN>8596690006153</EAN>
     <PN>SGR-HR-I450B</PN>
     <URL>https://www.alza.cz/siguro-hr-i450b-twilight-flow-d13002996.htm</URL>
@@ -422,7 +422,7 @@
     <index>38</index>
     <ID>AEY1110_newish</ID>
     <Title>AlzaErgo Slatwall SWDM210 Úchyty bílé</Title>
-    <Cena>689.0</Cena>
+    <Cena>679.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691001969</EAN>
     <PN>APW-EGSWDM210W</PN>
@@ -565,7 +565,7 @@
     <index>51</index>
     <ID>AGDPCS441c_openbox</ID>
     <Title>AlzaGuard Premium Silicone Case pro Samsung Galaxy S25 5G žlutý</Title>
-    <Cena>229.0</Cena>
+    <Cena>219.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8596690001516</EAN>
     <PN>AGD-PCS441Y</PN>
@@ -675,7 +675,7 @@
     <index>61</index>
     <ID>AGDWCT007_openbox</ID>
     <Title>AlzaGuard WaterProof Active Shield Case černé</Title>
-    <Cena>299.0</Cena>
+    <Cena>259.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691077346</EAN>
     <PN>AGD-WCP0002B</PN>
@@ -719,7 +719,7 @@
     <index>65</index>
     <ID>AEY0915f_closeout</ID>
     <Title>AlzaErgo FXL10B Frame XL fixní 60"-100"</Title>
-    <Cena>1089.0</Cena>
+    <Cena>1059.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691030792</EAN>
     <PN>APW-EGTMFXL10B</PN>
@@ -741,7 +741,7 @@
     <index>67</index>
     <ID>AGDBCF476b_openbox</ID>
     <Title>AlzaGuard Book Flip Case pro iPhone 17 červené</Title>
-    <Cena>199.0</Cena>
+    <Cena>219.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8596690011843</EAN>
     <PN>AGD-BCF476R</PN>
@@ -862,7 +862,7 @@
     <index>78</index>
     <ID>SGR_CF_D160W_openbox</ID>
     <Title>Siguro CF-D16W Fast Freeze 142</Title>
-    <Cena>6649.0</Cena>
+    <Cena>6439.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691039924</EAN>
     <PN>SGR-CF-D160W</PN>
@@ -983,8 +983,8 @@
     <index>89</index>
     <ID>APWHA30</ID>
     <Title>AlzaPower USB hub USB-C (M) na 3× USB-A 3.0 (F) a Card Reader bílý</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>349.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8595691082883</EAN>
     <PN>APW-HCC4ASDW</PN>
     <URL>https://www.alza.cz/alzapower-usb-hub-usb-c-m-na-3-usb-a-3-0-f-a-card-reader-bily-d12321805.htm</URL>
@@ -1137,7 +1137,7 @@
     <index>103</index>
     <ID>AET004940a_openbox</ID>
     <Title>Eternico Office ErgoFoam Wrist Rest WR10 černá</Title>
-    <Cena>399.0</Cena>
+    <Cena>359.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691047585</EAN>
     <PN>AET-WRF10B</PN>
@@ -1258,7 +1258,7 @@
     <index>114</index>
     <ID>SPTstorm028_closeout</ID>
     <Title>Stormred Seahawk</Title>
-    <Cena>2989.0</Cena>
+    <Cena>2939.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>4891223132670</EAN>
     <PN>SPTstorm028</PN>
@@ -1280,8 +1280,8 @@
     <index>116</index>
     <ID>AET3901_openbox</ID>
     <Title>Eternico Wireless Keyboard Touchpad KSB5250 - CZ/SK</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>449.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8595691090079</EAN>
     <PN>AET-KSB5250CSBN</PN>
     <URL>https://www.alza.cz/eternico-wireless-keyboard-touchpad-ksb5250-cz-sk-levne-d12816157.htm</URL>
@@ -1302,7 +1302,7 @@
     <index>118</index>
     <ID>APWBTE030_openbox</ID>
     <Title>AlzaPower Core PRO ANC černá</Title>
-    <Cena>689.0</Cena>
+    <Cena>629.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691090222</EAN>
     <PN>APW-BTECP1B</PN>
@@ -1445,8 +1445,8 @@
     <index>131</index>
     <ID>SPTbery125</ID>
     <Title>Bery Jones Kukuřice pražená BBQ 500g</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>99.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8595691040357</EAN>
     <PN>8595691040357</PN>
     <URL>https://www.alza.cz/sport/bery-jones-kukurice-prazena-bbq-500g-d6856659.htm</URL>
@@ -1577,8 +1577,8 @@
     <index>143</index>
     <ID>AEY0944_newish</ID>
     <Title>AlzaErgo M505B Ceiling kloubový 23"-42"</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>419.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8594177956281</EAN>
     <PN>APW-EGTMM505B</PN>
     <URL>https://www.alza.cz/alzaergo-m505b-ceiling-kloubovy-23-42-sleva-d6233339.htm</URL>
@@ -1610,7 +1610,7 @@
     <index>146</index>
     <ID>AGDPCT437b_openbox</ID>
     <Title>AlzaGuard Matte TPU Case pro Samsung Galaxy A16 červený</Title>
-    <Cena>92.0</Cena>
+    <Cena>91.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691096446</EAN>
     <PN>AGD-PCT437R</PN>
@@ -1665,7 +1665,7 @@
     <index>151</index>
     <ID>AGDTCT52_openbox</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Lenovo Tab P12</Title>
-    <Cena>73.0</Cena>
+    <Cena>70.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691069952</EAN>
     <PN>AGD-TCT58Z</PN>
@@ -1676,7 +1676,7 @@
     <index>152</index>
     <ID>SGR_HD_XA002B_newish</ID>
     <Title>Siguro Tukový filtr pro HD-B550B</Title>
-    <Cena>329.0</Cena>
+    <Cena>359.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691055252</EAN>
     <PN>SGR-HD-XA002B</PN>
@@ -1786,7 +1786,7 @@
     <index>162</index>
     <ID>AGDPCT357a_openbox</ID>
     <Title>AlzaGuard Matte TPU Case pro Samsung Galaxy S24+ černý</Title>
-    <Cena>73.0</Cena>
+    <Cena>72.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691070026</EAN>
     <PN>AGD-PCT357B</PN>
@@ -1995,7 +1995,7 @@
     <index>181</index>
     <ID>SGR_SC_N640SU_openbox</ID>
     <Title>Siguro SC-N640SU Chytrá kuchyňská váha</Title>
-    <Cena>749.0</Cena>
+    <Cena>719.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691099386</EAN>
     <PN>SGR-SC-N640SU</PN>
@@ -2160,8 +2160,8 @@
     <index>196</index>
     <ID>AGDPCMM45c</ID>
     <Title>AlzaGuard Matte Case Compatible with MagSafe pro iPhone 14 tmavě modrý</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>349.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8595691064698</EAN>
     <PN>AGD-PCMM45L</PN>
     <URL>https://www.alza.cz/alzaguard-matte-case-with-magsafe-for-iphone-14-tmave-modry-d7790539.htm</URL>
@@ -2292,7 +2292,7 @@
     <index>208</index>
     <ID>AGDPCLM479a_openbox</ID>
     <Title>AlzaGuard Luxe Detach Lanyard Case Compatible with MagSafe pro iPhone 17 Pro Max černý</Title>
-    <Cena>399.0</Cena>
+    <Cena>389.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8596690008812</EAN>
     <PN>AGD-PCLM479B</PN>
@@ -2468,8 +2468,8 @@
     <index>224</index>
     <ID>AEY0925_openbox</ID>
     <Title>AlzaErgo T215B Curved sklopný 32"-55"</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>309.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8594177956090</EAN>
     <PN>APW-EGTMT215B</PN>
     <URL>https://www.alza.cz/alzaergo-t215b-curved-sklopny-32-55-levne-d5680078.htm</URL>
@@ -2611,7 +2611,7 @@
     <index>237</index>
     <ID>AGDPCT406a_openbox</ID>
     <Title>AlzaGuard Matte TPU Case pro Xiaomi Redmi Note 13 Pro 5G / POCO X6 5G černý</Title>
-    <Cena>63.0</Cena>
+    <Cena>64.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691083323</EAN>
     <PN>AGD-PCT406B</PN>
@@ -2710,7 +2710,7 @@
     <index>246</index>
     <ID>SGR_MD_C231Y_closeout</ID>
     <Title>Siguro MD-C231Y Premium</Title>
-    <Cena>20490.0</Cena>
+    <Cena>20190.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691078015</EAN>
     <PN>SGR-MD-C231Y</PN>
@@ -2776,7 +2776,7 @@
     <index>252</index>
     <ID>SGR_HO_B311B_openbox</ID>
     <Title>Siguro Coelodonta 2.0 B311B 11 žeber</Title>
-    <Cena>1559.0</Cena>
+    <Cena>1539.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8596690005712</EAN>
     <PN>SGR-HO-B311B</PN>
@@ -2853,8 +2853,8 @@
     <index>259</index>
     <ID>APWCB082h_openbox</ID>
     <Title>AlzaPower MagCore 2in1 USB-A to Micro USB/USB-C 1m černý</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>219.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8595691017878</EAN>
     <PN>APW-CBMG30010B</PN>
     <URL>https://www.alza.cz/alzapower-magcore-2in1-usb-a-to-micro-usb-usb-c-1m-cerny-levne-d6748560.htm</URL>
@@ -2908,8 +2908,8 @@
     <index>264</index>
     <ID>APWCBP5107_openbox</ID>
     <Title>AlzaPower Patch CAT5E UTP 10m šedý</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>139.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8595691024173</EAN>
     <PN>APW-CBP5EU0100Y</PN>
     <URL>https://www.alza.cz/alzapower-patch-cat5e-utp-10m-sedy-levne-d6862779.htm</URL>
@@ -2930,7 +2930,7 @@
     <index>266</index>
     <ID>APWPS206_closeout</ID>
     <Title>AlzaPower Station Hades 1484 Wh</Title>
-    <Cena>18190.0</Cena>
+    <Cena>17990.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691032864</EAN>
     <PN>APW-PS500</PN>
@@ -3139,8 +3139,8 @@
     <index>285</index>
     <ID>SGR_LM_G530W</ID>
     <Title>Siguro LM-G530W Pure Beauty Mirana White nemlžící 70cm</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>3499.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8595691085433</EAN>
     <PN>SGR-LM-G530W</PN>
     <URL>https://www.alza.cz/hobby/siguro-lm-g530w-pure-beauty-mirana-white-d12387114.htm</URL>
@@ -3304,8 +3304,8 @@
     <index>300</index>
     <ID>APW_QR22EMB_6_openbox</ID>
     <Title>Eternico Essential with Metal Buckle Universal Quick Release 22mm Cloud White</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>169.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8595691077735</EAN>
     <PN>AET-QR22EMB-ClWh</PN>
     <URL>https://www.alza.cz/eternico-essential-with-metal-buckle-universal-quick-release-22mm-cloud-white-levne-d12469938.htm</URL>
@@ -3315,8 +3315,8 @@
     <index>301</index>
     <ID>SPTprot01_openbox</ID>
     <Title>Campgo TY7053</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>809.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8595691073355</EAN>
     <PN>8595691073355</PN>
     <URL>https://www.alza.cz/sport/campgo-ty7053-levne-d6869039.htm</URL>
@@ -3337,8 +3337,8 @@
     <index>303</index>
     <ID>APWCB088h1</ID>
     <Title>AlzaPower AluCore USB-A to Lightning MFi (C189) 3m černý</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>339.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8595691056822</EAN>
     <PN>APW-CBMFI18903B</PN>
     <URL>https://www.alza.cz//alzapower-alucore-lightning-mfi-c189-3m-cerny-d7598120.htm</URL>
@@ -3502,7 +3502,7 @@
     <index>318</index>
     <ID>AET_SUSP_1_openbox</ID>
     <Title>Eternico Sporty pro Samsung Galaxy Watch Ultra 47mm black</Title>
-    <Cena>229.0</Cena>
+    <Cena>239.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8596690012109</EAN>
     <PN>AET-SUSP-bl</PN>
@@ -3755,7 +3755,7 @@
     <index>341</index>
     <ID>AGDTCT73_openbox</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Samsung Galaxy Tab S9+ / S10+</Title>
-    <Cena>85.0</Cena>
+    <Cena>81.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691093889</EAN>
     <PN>AGD-TCT82Z</PN>
@@ -3799,8 +3799,8 @@
     <index>345</index>
     <ID>SGR_AP_K500W_openbox</ID>
     <Title>Siguro Air Master WiFi K500W</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>3559.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8595691031195</EAN>
     <PN>SGR-AP-K500W</PN>
     <URL>https://www.alza.cz/siguro-air-master-wifi-k500w-levne-d7134033.htm</URL>
@@ -4250,7 +4250,7 @@
     <index>386</index>
     <ID>SGRHGK250_newish</ID>
     <Title>Siguro Sada dětských plastových ramínek Velvet Line, šedé, 5 ks</Title>
-    <Cena>88.0</Cena>
+    <Cena>87.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691009736</EAN>
     <PN>SGR-HGKP5Y</PN>
@@ -4349,7 +4349,7 @@
     <index>395</index>
     <ID>SGR_RV_L650B_openbox</ID>
     <Title>Siguro RV-L65 Infinity CZ EN Black</Title>
-    <Cena>6029.0</Cena>
+    <Cena>5949.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691014617</EAN>
     <PN>SGR-RV-L650B</PN>
@@ -4679,7 +4679,7 @@
     <index>425</index>
     <ID>AEY0980j_openbox</ID>
     <Title>AlzaErgo M260B Super Slim kloubový 23"-55"</Title>
-    <Cena>589.0</Cena>
+    <Cena>539.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691020816</EAN>
     <PN>APW-EGTMM260B</PN>
@@ -4745,8 +4745,8 @@
     <index>431</index>
     <ID>APWPB160s</ID>
     <Title>AlzaPower Metal 20000mAh Fast Charge + PD3.0 stříbrná</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>849.0</Cena>
+    <Dostupnost>on way</Dostupnost>
     <EAN>8594177958490</EAN>
     <PN>APW-PBM20CFS</PN>
     <URL>https://www.alza.cz//alzapower-metal-20000mah-fast-charge-pd3-0-stribrna-d5683595.htm</URL>
@@ -4910,7 +4910,7 @@
     <index>446</index>
     <ID>SGR_FN_T571B_openbox</ID>
     <Title>Siguro West Wind T571B</Title>
-    <Cena>2549.0</Cena>
+    <Cena>2519.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691076714</EAN>
     <PN>SGR-FN-T571B</PN>
@@ -5086,7 +5086,7 @@
     <index>462</index>
     <ID>AEY0973l_openbox</ID>
     <Title>AlzaErgo MXL620W Advanced XL kloubový 43"-100"</Title>
-    <Cena>3459.0</Cena>
+    <Cena>3429.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691030822</EAN>
     <PN>APW-EGTMMXL620W</PN>
@@ -5108,8 +5108,8 @@
     <index>464</index>
     <ID>AGDBCF0087</ID>
     <Title>AlzaGuard Book Flip Case pro Motorola Moto G15 Power černé</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>249.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8596690004142</EAN>
     <PN>AGD-BCF466B</PN>
     <URL>https://www.alza.cz/alzaguard-book-flip-case-pro-motorola-moto-g15-power-cerne-d12802408.htm</URL>
@@ -5218,8 +5218,8 @@
     <index>474</index>
     <ID>AEY020402b</ID>
     <Title>AlzaPower A110C Fast Charge 20W bílá</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>269.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8595691061550</EAN>
     <PN>APW-CCA110W</PN>
     <URL>https://www.alza.cz/alzapower-a110-fast-charge-20w-bila-d7855169.htm</URL>
@@ -5284,7 +5284,7 @@
     <index>480</index>
     <ID>RPTGC0350b_closeout</ID>
     <Title>Rapture GRAND PRIX červená</Title>
-    <Cena>4539.0</Cena>
+    <Cena>4479.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691032635</EAN>
     <PN>RPT-GCGC13R</PN>
@@ -5394,8 +5394,8 @@
     <index>490</index>
     <ID>AGDBCF0057_openbox</ID>
     <Title>AlzaGuard Book Flip Case pro Samsung Galaxy A52/A52 5G/A52s 5G černé</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>229.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8595691095609</EAN>
     <PN>AGD-BCF0057B</PN>
     <URL>https://www.alza.cz/alzaguard-book-flip-case-pro-samsung-galaxy-a52-a52-5g-a52s-5g-cerne-levne-d12815813.htm</URL>
@@ -5515,7 +5515,7 @@
     <index>501</index>
     <ID>ETK700Sa_openbox</ID>
     <Title>Eternico K700S Wireless šedá - CZ/SK</Title>
-    <Cena>799.0</Cena>
+    <Cena>809.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8596690010723</EAN>
     <PN>ET-K700SWCSY</PN>
@@ -5669,8 +5669,8 @@
     <index>515</index>
     <ID>AGDTCF116_openbox</ID>
     <Title>AlzaGuard Protective Flip Cover pro Xiaomi Redmi Pad Pro 4G / 5G modrý</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>219.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8595691093957</EAN>
     <PN>AGD-TCF76L</PN>
     <URL>https://www.alza.cz/alzaguard-protective-flip-cover-pro-xiaomi-redmi-pad-pro-4g-5g-modry-levne-d12775509.htm</URL>
@@ -5702,7 +5702,7 @@
     <index>518</index>
     <ID>RPTGMK003s_openbox</ID>
     <Title>Rapture X-RAY Wireless Gateron G Pro 3.0 Red černá - CZ/SK</Title>
-    <Cena>1479.0</Cena>
+    <Cena>1359.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691086508</EAN>
     <PN>RPT-GKW100GRDB</PN>
@@ -5922,7 +5922,7 @@
     <index>538</index>
     <ID>SGR_HS_R450Y_openbox</ID>
     <Title>Siguro Reindeer Hot &amp; Cool R450Y WiFi</Title>
-    <Cena>2939.0</Cena>
+    <Cena>2849.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8596690005330</EAN>
     <PN>SGR-HS-R450Y</PN>
@@ -5955,8 +5955,8 @@
     <index>541</index>
     <ID>APWPB172_newish</ID>
     <Title>AlzaPower Garnet 10000mAh Power Delivery (22,5W) bílá</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>539.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8595691076257</EAN>
     <PN>APW-PBG10PDW</PN>
     <URL>https://www.alza.cz/alzapower-garnet-10000mah-power-delivery-22-5w-bila-sleva-d12374468.htm</URL>
@@ -6021,7 +6021,7 @@
     <index>547</index>
     <ID>APW_AWAY_82_42_openbox</ID>
     <Title>Eternico Airy pro Apple Watch 42mm / 44mm / 45mm / Ultra 49mm Solid Black</Title>
-    <Cena>179.0</Cena>
+    <Cena>189.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691049428</EAN>
     <PN>AET-AWAY-SoBl-42</PN>
@@ -6274,7 +6274,7 @@
     <index>570</index>
     <ID>AETAW139_openbox</ID>
     <Title>Eternico Elegance Metal pro Apple Watch 38mm / 40mm / 41mm silver</Title>
-    <Cena>439.0</Cena>
+    <Cena>429.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691082401</EAN>
     <PN>AET-AWMTL-si-38</PN>
@@ -6813,8 +6813,8 @@
     <index>619</index>
     <ID>AGDPCT57a_openbox</ID>
     <Title>AlzaGuard Matte Case Compatible with Magsafe pro iPhone 16 černý</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>319.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8595691083644</EAN>
     <PN>AGD-PCMM57B</PN>
     <URL>https://www.alza.cz/alzaguard-matte-case-compatible-with-magsafe-pro-iphone-16-cerny-levne-d12595308.htm</URL>
@@ -6890,7 +6890,7 @@
     <index>626</index>
     <ID>APW_AWAY_38_42_openbox</ID>
     <Title>Eternico Airy pro Apple Watch 42mm / 44mm / 45mm / Ultra 49mm Bunny Pink</Title>
-    <Cena>219.0</Cena>
+    <Cena>239.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691048988</EAN>
     <PN>AET-AWAY-BuPi-42</PN>
@@ -7297,8 +7297,8 @@
     <index>663</index>
     <ID>AGDSCS002B</ID>
     <Title>AlzaGuard Premium Silicone Case pro Samsung Galaxy Buds Live / Pro / FE / 2 / 2 Pro černé</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>199.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8595691037326</EAN>
     <PN>AGD-SCS002B</PN>
     <URL>https://www.alza.cz/alzaguard-premium-silicone-case-pro-samsung-galaxy-buds-live-pro-fe-2-2-pro-cerne-d6969242.htm</URL>
@@ -7308,7 +7308,7 @@
     <index>664</index>
     <ID>SGR_AC_F280B_newish</ID>
     <Title>Siguro AC-F280B Mistral 12</Title>
-    <Cena>4949.0</Cena>
+    <Cena>5059.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691094756</EAN>
     <PN>SGR-AC-F280B</PN>
@@ -7363,7 +7363,7 @@
     <index>669</index>
     <ID>AGDPCT0301_openbox</ID>
     <Title>AlzaGuard Crystal Clear TPU case pro Xiaomi Redmi Note 12 Pro+ / 12 Explorer Edition</Title>
-    <Cena>66.0</Cena>
+    <Cena>62.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691058697</EAN>
     <PN>AGD-PCT0301Z</PN>
@@ -7396,7 +7396,7 @@
     <index>672</index>
     <ID>AEY0858w_openbox</ID>
     <Title>AlzaErgo Arm D110TW Ultimate SteelBar bílý</Title>
-    <Cena>3989.0</Cena>
+    <Cena>4559.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8596690010990</EAN>
     <PN>AE-EGAR-D110TW</PN>
@@ -7617,7 +7617,7 @@
     <ID>AGDTGB001</ID>
     <Title>AlzaGuard Glass Protector pro Nintento Switch 2</Title>
     <Cena>299.0</Cena>
-    <Dostupnost>in stock</Dostupnost>
+    <Dostupnost>on way</Dostupnost>
     <EAN>8596690015858</EAN>
     <PN>AGD-TGN001ZA</PN>
     <URL>https://www.alza.cz/gaming/alzaguard-glass-protector-pro-nintento-switch-2-d13089554.htm</URL>
@@ -7759,8 +7759,8 @@
     <index>705</index>
     <ID>AEY02040016a_openbox</ID>
     <Title>AlzaPower G520CA Fast Charge 45W bílá</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>579.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8595691090307</EAN>
     <PN>APW-CCG520CAW</PN>
     <URL>https://www.alza.cz/alzapower-g520ca-fast-charge-45w-bila-levne-d12814572.htm</URL>
@@ -7836,7 +7836,7 @@
     <index>712</index>
     <ID>SGR_AD_F300LW_openbox</ID>
     <Title>Siguro Anise Swallowtail F300LW</Title>
-    <Cena>779.0</Cena>
+    <Cena>789.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691027891</EAN>
     <PN>SGR-AD-F300LW</PN>
@@ -8001,7 +8001,7 @@
     <index>727</index>
     <ID>APWPB275</ID>
     <Title>AlzaPower BigFoot 50000mAh Power Delivery (100W) černá</Title>
-    <Cena>2490.0</Cena>
+    <Cena>2499.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8596690010310</EAN>
     <PN>APW-PBBF50PDB</PN>
@@ -8221,7 +8221,7 @@
     <index>747</index>
     <ID>AGDTGF276a_openbox</ID>
     <Title>AlzaGuard 2.5D Case Friendly Glass pro Samsung Galaxy S24 FE</Title>
-    <Cena>95.0</Cena>
+    <Cena>96.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8596690002957</EAN>
     <PN>AGD-TGF276P2</PN>
@@ -8298,7 +8298,7 @@
     <index>754</index>
     <ID>AGDTGC0175a_openbox</ID>
     <Title>AlzaGuard 2.5D Case Friendly Glass pro iPhone 12 / 12 Pro</Title>
-    <Cena>93.0</Cena>
+    <Cena>94.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8596690002537</EAN>
     <PN>AGD-TGC0175P2</PN>
@@ -8441,7 +8441,7 @@
     <index>767</index>
     <ID>APWCB088a1_openbox</ID>
     <Title>AlzaPower Core USB-A to Lightning MFi (C189) 0.5m černý</Title>
-    <Cena>189.0</Cena>
+    <Cena>179.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691056594</EAN>
     <PN>APW-CBMFI18910B</PN>
@@ -8474,8 +8474,8 @@
     <index>770</index>
     <ID>AEY0858b_openbox</ID>
     <Title>AlzaErgo Arm D110TB Ultimate SteelBar černý</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>4459.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8596690011003</EAN>
     <PN>AE-EGAR-D110TB</PN>
     <URL>https://www.alza.cz/alzaergo-arm-d110tb-ultimate-steelbar-cerny-levne-d13198682.htm</URL>
@@ -8551,7 +8551,7 @@
     <index>777</index>
     <ID>APWHE002_openbox</ID>
     <Title>AlzaPower M.2 USB 3.1 Gen 2 SATA/NVMe SSD Drive Enclosure - vesmírně šedý</Title>
-    <Cena>659.0</Cena>
+    <Cena>669.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691080896</EAN>
     <PN>APW-SEC01NSS</PN>
@@ -8617,8 +8617,8 @@
     <index>783</index>
     <ID>AGDGLMW1_openbox</ID>
     <Title>AlzaGuard Genuine Leather Wallet Compatible with Magsafe černá</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>379.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8595691081305</EAN>
     <PN>AGD-GLMW1B</PN>
     <URL>https://www.alza.cz/alzaguard-genuine-leather-wallet-compatible-with-magsafe-cerna-levne-d12369185.htm</URL>
@@ -8650,7 +8650,7 @@
     <index>786</index>
     <ID>RPTGM009a_openbox</ID>
     <Title>Rapture WRAITH ULTIMATE, černá</Title>
-    <Cena>2069.0</Cena>
+    <Cena>1979.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691094138</EAN>
     <PN>RPT-GMW3950HS01B</PN>
@@ -9068,8 +9068,8 @@
     <index>824</index>
     <ID>AGDPCM04d_openbox</ID>
     <Title>AlzaGuard Matte Case pro Samsung Galaxy A56 5G šedý</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>259.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8596690004524</EAN>
     <PN>AGD-PCM440E</PN>
     <URL>https://www.alza.cz/alzaguard-matte-case-pro-samsung-galaxy-a56-5g-sedy-levne-d12924878.htm</URL>
@@ -9112,8 +9112,8 @@
     <index>828</index>
     <ID>APW_AWAY_17_38_openbox</ID>
     <Title>Eternico Airy pro Apple Watch 38mm / 40mm / 41mm Dark Red and Pink edge</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>229.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8595691048773</EAN>
     <PN>AET-AWAY-DaReP-38</PN>
     <URL>https://www.alza.cz/eternico-airy-pro-apple-watch-38mm-40mm-41mm-dark-red-and-pink-edge-levne-d7460965.htm</URL>
@@ -9145,7 +9145,7 @@
     <index>831</index>
     <ID>SPTtss0044_newish</ID>
     <Title>Campgo Petrus</Title>
-    <Cena>449.0</Cena>
+    <Cena>439.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>SPTtss0044</EAN>
     <PN>XP017</PN>
@@ -9167,7 +9167,7 @@
     <index>833</index>
     <ID>SGR_WM_T711W_newish</ID>
     <Title>Siguro WM-T711W Steam Pro</Title>
-    <Cena>8499.0</Cena>
+    <Cena>8599.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691061345</EAN>
     <PN>SGR-WM-T711W</PN>
@@ -9530,7 +9530,7 @@
     <index>866</index>
     <ID>SGR_RV_G570B_openbox</ID>
     <Title>Siguro RV-G57 Cleanbot CZ Black</Title>
-    <Cena>4119.0</Cena>
+    <Cena>4059.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691014594</EAN>
     <PN>SGR-RV-G570B</PN>
@@ -9574,7 +9574,7 @@
     <index>870</index>
     <ID>AGDPCT0259_openbox</ID>
     <Title>AlzaGuard Crystal Clear TPU case pro Xiaomi Redmi Note 11 Pro+ 5G</Title>
-    <Cena>68.0</Cena>
+    <Cena>89.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691053074</EAN>
     <PN>AGD-PCT0259Z</PN>
@@ -9640,8 +9640,8 @@
     <index>876</index>
     <ID>SGR_KM_X009</ID>
     <Title>Siguro Náhradní nádoba pro kuchyňský robot</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>999.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8595691077391</EAN>
     <PN>SGR-KM-X009</PN>
     <URL>https://www.alza.cz/siguro-mk-x009-nahradni-nadoba-pro-kuchynsky-robot-sgr-km-m3xxw-d8591913.htm</URL>
@@ -9750,7 +9750,7 @@
     <index>886</index>
     <ID>APWHA10_openbox</ID>
     <Title>AlzaPower AluCore USB-C (M) na 4× USB-A (F) vesmírně šedá</Title>
-    <Cena>349.0</Cena>
+    <Cena>309.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691023671</EAN>
     <PN>APW-HCA4A1Y</PN>
@@ -9794,7 +9794,7 @@
     <index>890</index>
     <ID>AGDPCS0041_openbox</ID>
     <Title>AlzaGuard Shockproof Case pro iPhone 13</Title>
-    <Cena>97.0</Cena>
+    <Cena>98.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691029031</EAN>
     <PN>AGD-PCTS0041Z</PN>
@@ -9882,7 +9882,7 @@
     <index>898</index>
     <ID>APWCB150b2_openbox</ID>
     <Title>AlzaPower Core DisplayPort (M) na HDMI (M) 4K 1.5m černý</Title>
-    <Cena>299.0</Cena>
+    <Cena>279.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691030624</EAN>
     <PN>APW-CBDPHD415B</PN>
@@ -9926,7 +9926,7 @@
     <index>902</index>
     <ID>AET3001a_openbox</ID>
     <Title>Eternico Wireless KS3001 - CZ/SK</Title>
-    <Cena>539.0</Cena>
+    <Cena>489.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691030716</EAN>
     <PN>AET-KS3001CSYN</PN>
@@ -10091,7 +10091,7 @@
     <index>917</index>
     <ID>AGDWCT010_openbox</ID>
     <Title>AlzaGuard WaterProof Active Shield Case růžové</Title>
-    <Cena>289.0</Cena>
+    <Cena>269.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691077377</EAN>
     <PN>AGD-WCP0002P</PN>
@@ -10498,7 +10498,7 @@
     <index>954</index>
     <ID>SGR_EK_R750L_newish</ID>
     <Title>Siguro Canberra R750L</Title>
-    <Cena>619.0</Cena>
+    <Cena>519.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8596690001691</EAN>
     <PN>SGR-EK-R750L</PN>
@@ -10509,8 +10509,8 @@
     <index>955</index>
     <ID>APWPB282</ID>
     <Title>AlzaPower Vision 10000mAh Power Delivery (100W) stříbrná</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>1299.0</Cena>
+    <Dostupnost>on way</Dostupnost>
     <EAN>8596690002025</EAN>
     <PN>APW-PBVI10PDG</PN>
     <URL>https://www.alza.cz/alzapower-vision-10000mah-power-delivery-130w-stribrna-d12907569.htm</URL>
@@ -10740,7 +10740,7 @@
     <index>976</index>
     <ID>AEY0755d_openbox</ID>
     <Title>AlzaErgo PCM210 černý</Title>
-    <Cena>1179.0</Cena>
+    <Cena>1189.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691046908</EAN>
     <PN>APW-EGPCM210B</PN>
@@ -10817,7 +10817,7 @@
     <index>983</index>
     <ID>AGDPCMM478b_openbox</ID>
     <Title>AlzaGuard Matte Case Compatible with MagSafe pro iPhone 17 Pro černý</Title>
-    <Cena>379.0</Cena>
+    <Cena>389.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8596690006856</EAN>
     <PN>AGD-PCMM478B</PN>
@@ -10938,8 +10938,8 @@
     <index>994</index>
     <ID>AGDTGB159a</ID>
     <Title>AlzaGuard 2.5D FullCover Glass pro Google Pixel 9</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>279.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8596690003121</EAN>
     <PN>AGD-TGB159P2</PN>
     <URL>https://www.alza.cz/alzaguard-2-5d-fullcover-glass-pro-google-pixel-9-2ks-v-baleni-d12804748.htm</URL>
@@ -11115,7 +11115,7 @@
     <ID>SGR_HB_I260B</ID>
     <Title>Siguro Induction Cooker Pro Elite I260B</Title>
     <Cena>4999.0</Cena>
-    <Dostupnost>on way</Dostupnost>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8596690001950</EAN>
     <PN>SGR-HB-I260B</PN>
     <URL>https://www.alza.cz/siguro-hb-i260b-induction-cooker-pro-elite-d12982560.htm</URL>
@@ -11422,8 +11422,8 @@
     <index>1038</index>
     <ID>APWCB1222f_openbox</ID>
     <Title>AlzaPower AluCore USB-C to USB-C 2.0 100W 0.5m černý</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>239.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8595691008579</EAN>
     <PN>APW-CBTC7005B</PN>
     <URL>https://www.alza.cz/alzapower-alucore-usb-c-to-usb-c-2-0-100w-0-5m-cerny-levne-d6546385.htm</URL>
@@ -11730,7 +11730,7 @@
     <index>1066</index>
     <ID>ETK800Sa_openbox</ID>
     <Title>Eternico K800S Wireless šedá - CZ/SK</Title>
-    <Cena>1389.0</Cena>
+    <Cena>1269.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8596690010747</EAN>
     <PN>ET-K800SWRCSY</PN>
@@ -12016,8 +12016,8 @@
     <index>1092</index>
     <ID>AETG043_openbox</ID>
     <Title>Eternico Essential pro Garmin QuickFit 22mm oranžový</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>329.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8594177959237</EAN>
     <PN>AET-GRQRSLC75O-22</PN>
     <URL>https://www.alza.cz/eternico-essential-pro-garmin-quickfit-22mm-oranzovy-levne-d5895000.htm</URL>
@@ -12093,7 +12093,7 @@
     <index>1099</index>
     <ID>SGR_AC_I160W_openbox</ID>
     <Title>Siguro AC-I160W Breeze 16</Title>
-    <Cena>8959.0</Cena>
+    <Cena>8679.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691055757</EAN>
     <PN>SGR-AC-I160W</PN>
@@ -12203,8 +12203,8 @@
     <index>1109</index>
     <ID>AGDPCL476a_openbox</ID>
     <Title>AlzaGuard Luxe Lanyard Case pro iPhone 17 černý</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>249.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN/>
     <PN>AGD-PCL476B</PN>
     <URL>https://www.alza.cz/alzaguard-luxe-lanyard-case-pro-iphone-17-cerny-levne-d13199833.htm</URL>
@@ -12214,7 +12214,7 @@
     <index>1110</index>
     <ID>AGDTCF123_openbox</ID>
     <Title>AlzaGuard Protective Flip Cover pro Samsung Galaxy Tab S10 Ultra malinově červený</Title>
-    <Cena>149.0</Cena>
+    <Cena>179.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691094022</EAN>
     <PN>AGD-TCF78RR</PN>
@@ -12302,7 +12302,7 @@
     <index>1118</index>
     <ID>SGR_RC_R700B_openbox</ID>
     <Title>Siguro RC-R700B Rice Master Digital s napařovákem</Title>
-    <Cena>1469.0</Cena>
+    <Cena>1359.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691039498</EAN>
     <PN>SGR-RC-R700B</PN>
@@ -12324,7 +12324,7 @@
     <index>1120</index>
     <ID>AEY0857w_openbox</ID>
     <Title>AlzaErgo Arm D110W Heavy Duty Ultimate bílý</Title>
-    <Cena>3999.0</Cena>
+    <Cena>4049.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8596690010976</EAN>
     <PN>AE-EGAR-D110W</PN>
@@ -12357,7 +12357,7 @@
     <index>1123</index>
     <ID>APWCB503i_openbox</ID>
     <Title>AlzaPower Core Premium HDMI 2.1 High Speed 8K 5m černý</Title>
-    <Cena>479.0</Cena>
+    <Cena>469.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691034011</EAN>
     <PN>APW-CBHD21S050B</PN>
@@ -12390,8 +12390,8 @@
     <index>1126</index>
     <ID>SGR_EB_P200BE</ID>
     <Title>Siguro Cosy Heaven P200BE</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>699.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8596690006047</EAN>
     <PN>SGR-EB-P200BE</PN>
     <URL>https://www.alza.cz/siguro-cosy-heaven-p200be-d13067403.htm</URL>
@@ -12445,7 +12445,7 @@
     <index>1131</index>
     <ID>APWCB088b3_openbox</ID>
     <Title>AlzaPower Core USB-A to Lightning MFi (C189) 1m bílý</Title>
-    <Cena>219.0</Cena>
+    <Cena>229.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691056631</EAN>
     <PN>APW-CBMFI18911W</PN>
@@ -12467,7 +12467,7 @@
     <index>1133</index>
     <ID>AEY0650d_openbox</ID>
     <Title>AlzaErgo CM110 bílá</Title>
-    <Cena>479.0</Cena>
+    <Cena>489.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691002058</EAN>
     <PN>APW-EGCMS110W</PN>
@@ -12577,8 +12577,8 @@
     <index>1143</index>
     <ID>RPTGMK003b_openbox</ID>
     <Title>Rapture X-RAY Outemu Red černá - CZ/SK</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>889.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8595691034769</EAN>
     <PN>RPT-GMKFX12B</PN>
     <URL>https://www.alza.cz/rapture-x-ray-outemu-red-cerna-cz-sk-levne-d7011413.htm</URL>
@@ -12654,7 +12654,7 @@
     <index>1150</index>
     <ID>SGR_HU_M150W_openbox</ID>
     <Title>Siguro Zen Mist M150W</Title>
-    <Cena>689.0</Cena>
+    <Cena>629.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8596690010013</EAN>
     <PN>SGR-HU-M150W</PN>
@@ -12786,7 +12786,7 @@
     <index>1162</index>
     <ID>SGR_MK_P600B_openbox</ID>
     <Title>Siguro Konvička na mléko Elite Brew, 600 ml</Title>
-    <Cena>459.0</Cena>
+    <Cena>449.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691088052</EAN>
     <PN>SGR-MK-P600B</PN>
@@ -13094,7 +13094,7 @@
     <index>1190</index>
     <ID>AEY0832d_openbox</ID>
     <Title>AlzaErgo Arm D42B Wall</Title>
-    <Cena>1449.0</Cena>
+    <Cena>1439.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691061307</EAN>
     <PN>APW-EGARD42WB</PN>
@@ -13226,7 +13226,7 @@
     <index>1202</index>
     <ID>SGR_IC_G180B_newish</ID>
     <Title>Siguro IC-G180B Smart Cook Pro Solo</Title>
-    <Cena>1169.0</Cena>
+    <Cena>1199.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691047677</EAN>
     <PN>SGR-IC-G180B</PN>
@@ -13523,7 +13523,7 @@
     <index>1229</index>
     <ID>SGR_IB_K621S_openbox</ID>
     <Title>Siguro Essentials Plus, 122×38 cm, stříbrné</Title>
-    <Cena>1099.0</Cena>
+    <Cena>1089.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691056488</EAN>
     <PN>SGR-IB-K621S</PN>
@@ -13776,7 +13776,7 @@
     <index>1252</index>
     <ID>AGDTCT63_newish</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro iPad Pro 13" M4 (2024)</Title>
-    <Cena>43.0</Cena>
+    <Cena>84.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691081954</EAN>
     <PN>AGD-TCT69Z</PN>
@@ -13832,7 +13832,7 @@
     <ID>APWPB160t</ID>
     <Title>AlzaPower Metal Gen2 10000mAh Power Delivery (22,5W) černá</Title>
     <Cena>599.0</Cena>
-    <Dostupnost>on way</Dostupnost>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8596690000038</EAN>
     <PN>APW-PBM10PDB</PN>
     <URL>https://www.alza.cz/alzapower-metal-gen2-10000mah-power-delivery-22-5w-cerna-d12907556.htm</URL>
@@ -13875,7 +13875,7 @@
     <index>1261</index>
     <ID>APW_QF22E_6_openbox</ID>
     <Title>Eternico Essential pro Garmin Quickfit 22mm Cool Lava</Title>
-    <Cena>219.0</Cena>
+    <Cena>209.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691060218</EAN>
     <PN>AET-QF22E-CoLa</PN>
@@ -13985,7 +13985,7 @@
     <index>1271</index>
     <ID>SPTtss0005_openbox</ID>
     <Title>Campgo Kinari 7</Title>
-    <Cena>859.0</Cena>
+    <Cena>849.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691073805</EAN>
     <PN>8595691073805</PN>
@@ -14194,8 +14194,8 @@
     <index>1290</index>
     <ID>AGDTGB180a</ID>
     <Title>AlzaGuard 2.5D FullCover Glass pro Xiaomi Redmi Note 14 4G/5G</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>279.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8596690003503</EAN>
     <PN>AGD-TGB180P2</PN>
     <URL>https://www.alza.cz/alzaguard-2-5d-fullcover-glass-pro-xiaomi-redmi-note-14-4g-5g-2ks-v-baleni-d12804803.htm</URL>
@@ -14315,7 +14315,7 @@
     <index>1301</index>
     <ID>AGDPCMS476d_openbox</ID>
     <Title>AlzaGuard Silicone Case Compatible with Magsafe pro iPhone 17 růžový</Title>
-    <Cena>349.0</Cena>
+    <Cena>339.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8596690007273</EAN>
     <PN>AGD-PCMS476P</PN>
@@ -14359,8 +14359,8 @@
     <index>1305</index>
     <ID>AGDPCT49b</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone 7 / 8 / SE 2020 / SE 2022 červený</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>99.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8595691067675</EAN>
     <PN>AGD-PCT49R</PN>
     <URL>https://www.alza.cz/alzaguard-matte-tpu-case-pro-iphone-7-8-se-2020-se-2022-cerveny-d7859739.htm</URL>
@@ -14623,8 +14623,8 @@
     <index>1329</index>
     <ID>AGD-WCP10a_openbox</ID>
     <Title>AlzaGuard Elite Hero Case pro Apple Watch 40mm čiré</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>219.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8595691093575</EAN>
     <PN>AGD-WCP1Z</PN>
     <URL>https://www.alza.cz/alzaguard-elite-hero-case-pro-apple-watch-40mm-cire-levne-d12838178.htm</URL>
@@ -14656,7 +14656,7 @@
     <index>1332</index>
     <ID>AEY0830_openbox</ID>
     <Title>AlzaErgo Arm D35B</Title>
-    <Cena>1189.0</Cena>
+    <Cena>1159.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8594177957608</EAN>
     <PN>APW-EGARD35B</PN>
@@ -14810,7 +14810,7 @@
     <index>1346</index>
     <ID>AGDPCT385a_newish</ID>
     <Title>AlzaGuard Matte TPU Case pro Xiaomi Redmi Note 13 4G černý</Title>
-    <Cena>38.0</Cena>
+    <Cena>84.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691080209</EAN>
     <PN>AGD-PCT385B</PN>
@@ -14843,7 +14843,7 @@
     <index>1349</index>
     <ID>AGDPCT427a_openbox</ID>
     <Title>AlzaGuard Matte TPU Case pro OnePlus Nord CE 4 5G černé</Title>
-    <Cena>26.0</Cena>
+    <Cena>27.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691088823</EAN>
     <PN>AGD-PCT427B</PN>
@@ -14876,7 +14876,7 @@
     <index>1352</index>
     <ID>AGDTGB160_openbox</ID>
     <Title>AlzaGuard 2.5D FullCover Glass Protector pro Google Pixel 9 Pro</Title>
-    <Cena>269.0</Cena>
+    <Cena>259.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691079678</EAN>
     <PN>AGD-TGB160</PN>
@@ -14997,7 +14997,7 @@
     <index>1363</index>
     <ID>AGDBTH06a_openbox</ID>
     <Title>AlzaGuard Premium Hero Tag with FindMy černý - 4ks v balení</Title>
-    <Cena>1289.0</Cena>
+    <Cena>1239.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8596690004906</EAN>
     <PN>AGD-BTPH01Bp4</PN>
@@ -15338,7 +15338,7 @@
     <index>1394</index>
     <ID>SGR_KM_F20XX03_openbox</ID>
     <Title>Siguro mlýnek na maso pro kuchyňské roboty</Title>
-    <Cena>699.0</Cena>
+    <Cena>899.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691088021</EAN>
     <PN>SGR-KM-F20XX03</PN>
@@ -15349,7 +15349,7 @@
     <index>1395</index>
     <ID>AGDPCT0379_newish</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Motorola Moto G84 5G</Title>
-    <Cena>78.0</Cena>
+    <Cena>77.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691069907</EAN>
     <PN>AGD-PCT379Z</PN>
@@ -15481,7 +15481,7 @@
     <index>1407</index>
     <ID>AGDPCL003b_openbox</ID>
     <Title>AlzaGuard Luxe Lanyard Case pro iPhone 13 Mini růžový</Title>
-    <Cena>239.0</Cena>
+    <Cena>219.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8596690000885</EAN>
     <PN>AGD-PCL003P</PN>
@@ -15591,7 +15591,7 @@
     <index>1417</index>
     <ID>AGDBCF0006_newish</ID>
     <Title>AlzaGuard Book Flip Case pro iPhone 15 černé</Title>
-    <Cena>109.0</Cena>
+    <Cena>209.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691075991</EAN>
     <PN>AGD-BCF0006B</PN>
@@ -15712,7 +15712,7 @@
     <index>1428</index>
     <ID>APWPH0612_openbox</ID>
     <Title>AlzaPower Holder Compatible with Magsafe AMS100 černý</Title>
-    <Cena>379.0</Cena>
+    <Cena>369.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691076776</EAN>
     <PN>APW-PHAMSP08B</PN>
@@ -15899,8 +15899,8 @@
     <index>1445</index>
     <ID>AGDPCT470a</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Xiaomi Redmi Note 14 4G</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>99.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8596690002131</EAN>
     <PN>AGD-PCT470Z</PN>
     <URL>https://www.alza.cz/alzaguard-crystal-clear-tpu-case-pro-xiaomi-redmi-note-14-4g-d12789517.htm</URL>
@@ -15932,7 +15932,7 @@
     <index>1448</index>
     <ID>AET004390a_openbox</ID>
     <Title>Eternico Office Vertical Mouse MVS390 černá</Title>
-    <Cena>449.0</Cena>
+    <Cena>429.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691051049</EAN>
     <PN>AET-MVS390B</PN>
@@ -16031,7 +16031,7 @@
     <index>1457</index>
     <ID>SGR_SC_N640SU_newish</ID>
     <Title>Siguro SC-N640SU Chytrá kuchyňská váha</Title>
-    <Cena>719.0</Cena>
+    <Cena>679.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691099386</EAN>
     <PN>SGR-SC-N640SU</PN>
@@ -16262,7 +16262,7 @@
     <index>1478</index>
     <ID>SGR_RV_R800B_closeout</ID>
     <Title>Siguro RV-R800B TURBOVac Navigator Pro AI</Title>
-    <Cena>7119.0</Cena>
+    <Cena>6399.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691082159</EAN>
     <PN>SGR-RV-R800B</PN>
@@ -16460,8 +16460,8 @@
     <index>1496</index>
     <ID>APWCB091c_openbox</ID>
     <Title>AlzaPower AluCore USB-C to Lightning MFi 1m stříbrný</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>279.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8594177955154</EAN>
     <PN>APW-CBMFI9401S</PN>
     <URL>https://www.alza.cz/alzapower-alucore-usb-c-to-lightning-mfi-1m-stribrny-levne-d5645279.htm</URL>
@@ -16515,7 +16515,7 @@
     <index>1501</index>
     <ID>RPTGC0370b_openbox</ID>
     <Title>Rapture FRIGATE černá</Title>
-    <Cena>5929.0</Cena>
+    <Cena>5389.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691052046</EAN>
     <PN>RPT-GCFP120B</PN>
@@ -16713,8 +16713,8 @@
     <index>1519</index>
     <ID>SGR_GW_C360Z</ID>
     <Title>Siguro Sada sklenic na bílé víno Locus, 360 ml, 6 ks</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>349.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8595691047059</EAN>
     <PN>SGR-GW-C360Z</PN>
     <URL>https://www.alza.cz//siguro-sada-sklenic-na-bile-vino-locus-360-ml-6-ks-d7294055.htm</URL>
@@ -16735,7 +16735,7 @@
     <index>1521</index>
     <ID>AGDPCMT479b_openbox</ID>
     <Title>AlzaGuard Clear TPU Case Compatible with Magsafe pro iPhone 17 Pro Max - černé</Title>
-    <Cena>289.0</Cena>
+    <Cena>299.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8596690007198</EAN>
     <PN>AGD-PCMT479B</PN>
@@ -16812,7 +16812,7 @@
     <index>1528</index>
     <ID>APWPS212_newish</ID>
     <Title>AlzaPower Station Zeus 3250 Wh</Title>
-    <Cena>46190.0</Cena>
+    <Cena>45590.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691032895</EAN>
     <PN>APW-PS700</PN>
@@ -16889,7 +16889,7 @@
     <index>1535</index>
     <ID>AGDPCT0445_openbox</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Xiaomi Redmi Note 14 Pro 5G</Title>
-    <Cena>95.0</Cena>
+    <Cena>94.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691096033</EAN>
     <PN>AGD-PCT445Z</PN>
@@ -16966,7 +16966,7 @@
     <index>1542</index>
     <ID>AEY0832b_openbox</ID>
     <Title>AlzaErgo Arm S41B Wall</Title>
-    <Cena>1369.0</Cena>
+    <Cena>1389.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691020069</EAN>
     <PN>APW-EGARS41B</PN>
@@ -17142,7 +17142,7 @@
     <index>1558</index>
     <ID>AGDTGT60_openbox</ID>
     <Title>AlzaGuard Glass Protector pro Samsung Galaxy Tab A9</Title>
-    <Cena>329.0</Cena>
+    <Cena>339.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691079685</EAN>
     <PN>AGD-TGT0060Z</PN>
@@ -17153,7 +17153,7 @@
     <index>1559</index>
     <ID>AGDPCT0426_openbox</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Samsung Galaxy S24 FE</Title>
-    <Cena>91.0</Cena>
+    <Cena>92.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691088663</EAN>
     <PN>AGD-PCT426Z</PN>
@@ -17230,7 +17230,7 @@
     <index>1566</index>
     <ID>AEY1110_openbox</ID>
     <Title>AlzaErgo Slatwall SWDM210 Úchyty bílé</Title>
-    <Cena>759.0</Cena>
+    <Cena>709.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691001969</EAN>
     <PN>APW-EGSWDM210W</PN>
@@ -17285,7 +17285,7 @@
     <index>1571</index>
     <ID>SPTstorm004b_newish</ID>
     <Title>Stormred Část 2/3 - 427 cm - Classic</Title>
-    <Cena>909.0</Cena>
+    <Cena>859.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>SPTstorm004b</EAN>
     <PN>SPTstorm004b</PN>
@@ -17318,7 +17318,7 @@
     <index>1574</index>
     <ID>AGDPCT463_openbox</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro POCO X7</Title>
-    <Cena>55.0</Cena>
+    <Cena>57.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8596690000663</EAN>
     <PN>AGD-PCT463Z</PN>
@@ -17351,7 +17351,7 @@
     <index>1577</index>
     <ID>SGR_OR_K605BB_openbox</ID>
     <Title>Siguro Příborník do zásuvky Bamboo, 5 přihrádek</Title>
-    <Cena>209.0</Cena>
+    <Cena>199.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691089493</EAN>
     <PN>SGR-OR-K605BB</PN>
@@ -17406,7 +17406,7 @@
     <index>1582</index>
     <ID>APWCC580da_openbox</ID>
     <Title>AlzaPower Car Charger X565 USB-A + USB-C + Cable Power Delivery 65W stříbrná</Title>
-    <Cena>379.0</Cena>
+    <Cena>369.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8596690010259</EAN>
     <PN>APW-CC2PD01CS</PN>
@@ -17571,8 +17571,8 @@
     <index>1597</index>
     <ID>AEY0752_openbox</ID>
     <Title>AlzaErgo Stand LS210 černý</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>359.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8595691011098</EAN>
     <PN>APW-EGLS210B</PN>
     <URL>https://www.alza.cz/alzaergo-stand-ls210-cerny-levne-d6749783.htm</URL>
@@ -17593,7 +17593,7 @@
     <index>1599</index>
     <ID>AET2370b_openbox</ID>
     <Title>Eternico Wireless Keyboard KS2370 stříbrnobílá - CZ/SK</Title>
-    <Cena>429.0</Cena>
+    <Cena>399.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691090130</EAN>
     <PN>AET-KS2370CSSWN</PN>
@@ -17736,7 +17736,7 @@
     <index>1612</index>
     <ID>AETAW157_openbox</ID>
     <Title>Eternico Elegance Milanese pro Xiaomi Smart Band 8 / 9 / 10 rose gold</Title>
-    <Cena>239.0</Cena>
+    <Cena>229.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691082586</EAN>
     <PN>AET-MB8MNS-rogo</PN>
@@ -17769,7 +17769,7 @@
     <index>1615</index>
     <ID>AGDTCT93_newish</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro HONOR MagicPad 2</Title>
-    <Cena>55.0</Cena>
+    <Cena>54.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8596690008973</EAN>
     <PN>AGD-TCT90Z</PN>
@@ -17978,7 +17978,7 @@
     <index>1634</index>
     <ID>SGR_SK_N610W_openbox</ID>
     <Title>Siguro SK-N610W Pure Beauty Manicure Salon</Title>
-    <Cena>949.0</Cena>
+    <Cena>939.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691043631</EAN>
     <PN>SGR-SK-N610W</PN>
@@ -18077,8 +18077,8 @@
     <index>1643</index>
     <ID>AGDWCA4_openbox</ID>
     <Title>AlzaGuard Ultra Slim Aramid Case pro Apple Watch 42mm</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>709.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN/>
     <PN>AGD-WCA5B</PN>
     <URL>https://www.alza.cz/alzaguard-ultra-slim-aramid-case-pro-apple-watch-42mm-levne-d13199879.htm</URL>
@@ -18110,7 +18110,7 @@
     <index>1646</index>
     <ID>AGDPCLM476c_newish</ID>
     <Title>AlzaGuard Luxe Detach Lanyard Case Compatible with MagSafe pro iPhone 17 šedý</Title>
-    <Cena>359.0</Cena>
+    <Cena>349.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8596690008744</EAN>
     <PN>AGD-PCLM476Y</PN>
@@ -18484,7 +18484,7 @@
     <index>1680</index>
     <ID>APWCB503c_openbox</ID>
     <Title>AlzaPower Core Premium HDMI 2.1 High Speed 8K 1.5m černý</Title>
-    <Cena>269.0</Cena>
+    <Cena>279.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691033953</EAN>
     <PN>APW-CBHD21S015B</PN>
@@ -18506,7 +18506,7 @@
     <index>1682</index>
     <ID>SGR_WB_I130SU_newish</ID>
     <Title>Siguro Odpadkový koš SmartSort stříbrný, nádoba na odpad, 30 l</Title>
-    <Cena>1459.0</Cena>
+    <Cena>1799.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8596690001905</EAN>
     <PN>SGR-WB-I130SU</PN>
@@ -18550,8 +18550,8 @@
     <index>1686</index>
     <ID>APWPB283</ID>
     <Title>AlzaPower Vision 20000mAh Power Delivery (100W) stříbrná</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>1799.0</Cena>
+    <Dostupnost>on way</Dostupnost>
     <EAN>8596690002032</EAN>
     <PN>APW-PBVI20PDG</PN>
     <URL>https://www.alza.cz/alzapower-vision-20000mah-power-delivery-130w-stribrna-d12907570.htm</URL>
@@ -18584,7 +18584,7 @@
     <ID>AGDTGC497</ID>
     <Title>AlzaGuard 2.5D Case Friendly Glass pro Samsung Galaxy S25 FE</Title>
     <Cena>99.0</Cena>
-    <Dostupnost>in stock</Dostupnost>
+    <Dostupnost>on way</Dostupnost>
     <EAN>8596690014981</EAN>
     <PN>AGD-TGC497</PN>
     <URL>https://www.alza.cz/alzaguard-2-5d-case-friendly-glass-pro-samsung-galaxy-s25-fe-d13070061.htm</URL>
@@ -18616,7 +18616,7 @@
     <index>1692</index>
     <ID>AGDPCT81b_openbox</ID>
     <Title>AlzaGuard Matte Case Compatible with Magsafe pro Samsung Galaxy S25+ růžový</Title>
-    <Cena>309.0</Cena>
+    <Cena>299.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8596690004302</EAN>
     <PN>AGD-PCMM442P</PN>
@@ -18627,7 +18627,7 @@
     <index>1693</index>
     <ID>RPTGMK006h_openbox</ID>
     <Title>Rapture FOXTROT HE, Gateron Dual-Rail White, černá - CZ/SK</Title>
-    <Cena>2369.0</Cena>
+    <Cena>2299.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8596690005576</EAN>
     <PN>RPT-GK98GWHE04B</PN>
@@ -18638,7 +18638,7 @@
     <index>1694</index>
     <ID>AEY0949_newish</ID>
     <Title>AlzaErgo M120B Secure Pivot kloubový 13"-42"</Title>
-    <Cena>719.0</Cena>
+    <Cena>709.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8594177956335</EAN>
     <PN>APW-EGTMM120B</PN>
@@ -18682,7 +18682,7 @@
     <index>1698</index>
     <ID>AGDPCT69a_openbox</ID>
     <Title>AlzaGuard Matte Case Compatible with Magsafe pro iPhone 13 mini tmavě zelený</Title>
-    <Cena>319.0</Cena>
+    <Cena>309.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691091809</EAN>
     <PN>AGD-PCMM70DE</PN>
@@ -18759,8 +18759,8 @@
     <index>1705</index>
     <ID>SGR_SK_U690W_openbox</ID>
     <Title>Siguro SK-U690W Pure Beauty</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>1899.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8595691017663</EAN>
     <PN>SGR-SK-U690W</PN>
     <URL>https://www.alza.cz/siguro-sk-u690w-pure-beauty-levne-d7209994.htm</URL>
@@ -18792,8 +18792,8 @@
     <index>1708</index>
     <ID>SGR_AD_G450LW_newish</ID>
     <Title>Siguro Hourglass nebulizační G450LW</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>1089.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8596690010501</EAN>
     <PN>SGR-AD-G450LW</PN>
     <URL>https://www.alza.cz/siguro-hourglass-nebulizacni-g450lw-sleva-d13182722.htm</URL>
@@ -18869,7 +18869,7 @@
     <index>1715</index>
     <ID>SGR_AC_F280B_openbox</ID>
     <Title>Siguro AC-F280B Mistral 12</Title>
-    <Cena>4949.0</Cena>
+    <Cena>5169.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691094756</EAN>
     <PN>SGR-AC-F280B</PN>
@@ -18913,8 +18913,8 @@
     <index>1719</index>
     <ID>APWCB116s</ID>
     <Title>AlzaPower Core USB-A to USB-C 3.2 Gen 1 5Gbp 1m bílý</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>199.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8594177952443</EAN>
     <PN>APW-CBTC0041W</PN>
     <URL>https://www.alza.cz//alzapower-core-usb-c-3-1-gen1?dq=5472814</URL>
@@ -19067,7 +19067,7 @@
     <index>1733</index>
     <ID>AEO0432_openbox</ID>
     <Title>AlzaErgo Chair Oasis 1 černá</Title>
-    <Cena>4309.0</Cena>
+    <Cena>4269.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691097443</EAN>
     <PN>AE-EGOC-OA1B</PN>
@@ -19166,8 +19166,8 @@
     <index>1742</index>
     <ID>AGDGLMW1_newish</ID>
     <Title>AlzaGuard Genuine Leather Wallet Compatible with Magsafe černá</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>359.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN/>
     <PN>AGD-GLMW1B</PN>
     <URL>https://www.alza.cz/alzaguard-genuine-leather-wallet-compatible-with-magsafe-cerna-sleva-d13199826.htm</URL>
@@ -19188,7 +19188,7 @@
     <index>1744</index>
     <ID>APWCB709mb_openbox</ID>
     <Title>AlzaPower HDMI (M) to VGA (F) 0.18m matný černý</Title>
-    <Cena>219.0</Cena>
+    <Cena>229.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8594177958766</EAN>
     <PN>APW-ADHDVG01A</PN>
@@ -19210,7 +19210,7 @@
     <index>1746</index>
     <ID>AEZ0600b_openbox</ID>
     <Title>AlzaErgo Table ET1 NewGen Noha s Motorem černá</Title>
-    <Cena>1879.0</Cena>
+    <Cena>1849.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691021004</EAN>
     <PN>APW-EGSPLET1B</PN>
@@ -19265,8 +19265,8 @@
     <index>1751</index>
     <ID>SPTbery124</ID>
     <Title>Bery Jones Směs kešu a arašídů - med a mořská sůl 500g</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>279.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8595691040340</EAN>
     <PN>8595691040340</PN>
     <URL>https://www.alza.cz/sport/bery-jones-smes-kesu-a-arasidu-med-a-morska-sul-500g-d6856658.htm</URL>
@@ -19408,8 +19408,8 @@
     <index>1764</index>
     <ID>SGR_VT_R350B_openbox</ID>
     <Title>Siguro VT-R350B TURBOVac 2in1</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>2089.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8595691063356</EAN>
     <PN>SGR-VT-R350B</PN>
     <URL>https://www.alza.cz/siguro-vt-r350b-turbovac-2in1-levne-d12647663.htm</URL>
@@ -19507,7 +19507,7 @@
     <index>1773</index>
     <ID>AGDTGER008_openbox</ID>
     <Title>AlzaGuard 3D Elite Resin Glass pro iPhone 13 Mini</Title>
-    <Cena>329.0</Cena>
+    <Cena>319.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691083057</EAN>
     <PN>AGD-TGER008B</PN>
@@ -19573,7 +19573,7 @@
     <index>1779</index>
     <ID>SGR_AC_H280B_openbox</ID>
     <Title>Siguro AC-H280B Mistral 14</Title>
-    <Cena>8519.0</Cena>
+    <Cena>8399.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691094763</EAN>
     <PN>SGR-AC-H280B</PN>
@@ -19728,7 +19728,7 @@
     <ID>SGR_LM_L751B</ID>
     <Title>Siguro LM-L751B Pure Beauty Black Vision</Title>
     <Cena>799.0</Cena>
-    <Dostupnost>on way</Dostupnost>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8595691047592</EAN>
     <PN>SGR-LM-L751B</PN>
     <URL>https://www.alza.cz//siguro-lm-l751b-pure-beauty-black-vision-d7370999.htm</URL>
@@ -19936,7 +19936,7 @@
     <index>1812</index>
     <ID>AGDBTH09c_newish</ID>
     <Title>AlzaGuard Premium Hero Tag with FindMy žlutý</Title>
-    <Cena>459.0</Cena>
+    <Cena>439.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691089325</EAN>
     <PN>AGD-BTPH01Y</PN>
@@ -19958,8 +19958,8 @@
     <index>1814</index>
     <ID>AGDPCT0326_openbox</ID>
     <Title>AlzaGuard Crystal Clear TPU case pro iPhone 15 Pro Max</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>88.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8595691062656</EAN>
     <PN>AGD-PCT0326Z</PN>
     <URL>https://www.alza.cz/alzaguard-crystal-clear-tpu-case-pro-iphone-15-pro-max-levne-d7949666.htm</URL>
@@ -20002,8 +20002,8 @@
     <index>1818</index>
     <ID>STR_DB_ADJ02</ID>
     <Title>Stormred Nastavitelná činka 40 kg</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>4999.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8595691094855</EAN>
     <PN>STR-DB-ADJ02</PN>
     <URL>https://www.alza.cz/sport/stormred-nastavitelna-cinka-40-kg-d12648398.htm</URL>
@@ -20178,7 +20178,7 @@
     <index>1834</index>
     <ID>SGR_VT_K900B_openbox</ID>
     <Title>Siguro VT-K900B TURBOVac Star BLDC</Title>
-    <Cena>4739.0</Cena>
+    <Cena>4679.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691076813</EAN>
     <PN>SGR-VT-K900B</PN>
@@ -20222,7 +20222,7 @@
     <index>1838</index>
     <ID>RPTGC0500d_openbox</ID>
     <Title>Rapture DREADNOUGHT bílá</Title>
-    <Cena>6709.0</Cena>
+    <Cena>7749.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691032673</EAN>
     <PN>RPT-GCDT15W</PN>
@@ -20266,7 +20266,7 @@
     <index>1842</index>
     <ID>SGRIM210_newish</ID>
     <Title>Siguro IM210 Ice Touch</Title>
-    <Cena>2999.0</Cena>
+    <Cena>3479.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691010763</EAN>
     <PN>SGR-IM210-B12SS</PN>
@@ -20376,7 +20376,7 @@
     <index>1852</index>
     <ID>SGR_BF_A241Y_closeout</ID>
     <Title>Siguro BF-A241Y Premium</Title>
-    <Cena>15390.0</Cena>
+    <Cena>15190.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691085716</EAN>
     <PN>SGR-BF-A241Y</PN>
@@ -20541,8 +20541,8 @@
     <index>1867</index>
     <ID>SGR_CO_E480B_openbox</ID>
     <Title>Siguro CO-E480SU Perfect Roast &amp; Grill</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>2179.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8595691058185</EAN>
     <PN>SGR-CO-E480B</PN>
     <URL>https://www.alza.cz/siguro-co-e480su-perfect-roast-grill-levne-d7925653.htm</URL>
@@ -20629,7 +20629,7 @@
     <index>1875</index>
     <ID>AGDPCAM08_openbox</ID>
     <Title>AlzaGuard Ultra Slim Aramid Case Compatible with MagSafe pro iPhone 17</Title>
-    <Cena>1129.0</Cena>
+    <Cena>1149.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8596690005811</EAN>
     <PN>AGD-PCAM476B</PN>
@@ -20651,7 +20651,7 @@
     <index>1877</index>
     <ID>SGR_HP_M450X01_openbox</ID>
     <Title>Siguro stropní držák pro HP-M450W</Title>
-    <Cena>229.0</Cena>
+    <Cena>219.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8596690005453</EAN>
     <PN>SGR-HP-M450X01</PN>
@@ -20915,7 +20915,7 @@
     <index>1901</index>
     <ID>AEY1022d_openbox</ID>
     <Title>AlzaErgo Projector Mount C22W Advanced bílý</Title>
-    <Cena>1159.0</Cena>
+    <Cena>1179.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691010954</EAN>
     <PN>APW-EGPMC22W</PN>
@@ -20981,7 +20981,7 @@
     <index>1907</index>
     <ID>APWHC51b_openbox</ID>
     <Title>AlzaPower Metal USB-C Dock Station 7v1 Dual Screen vesmírně šedý</Title>
-    <Cena>1359.0</Cena>
+    <Cena>1699.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691087192</EAN>
     <PN>APW-HCA72SY</PN>
@@ -20992,7 +20992,7 @@
     <index>1908</index>
     <ID>SGR_EK_P360W_openbox</ID>
     <Title>Siguro EK-P360W Perth</Title>
-    <Cena>899.0</Cena>
+    <Cena>879.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691076431</EAN>
     <PN>SGR-EK-P360W</PN>
@@ -21157,7 +21157,7 @@
     <index>1923</index>
     <ID>SGR_ST_D400W_openbox</ID>
     <Title>Siguro ST-D400W Eider</Title>
-    <Cena>1139.0</Cena>
+    <Cena>1129.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691040302</EAN>
     <PN>SGR-ST-D400W</PN>
@@ -21355,7 +21355,7 @@
     <index>1941</index>
     <ID>AEY0944_openbox</ID>
     <Title>AlzaErgo M505B Ceiling kloubový 23"-42"</Title>
-    <Cena>489.0</Cena>
+    <Cena>449.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8594177956281</EAN>
     <PN>APW-EGTMM505B</PN>
@@ -21751,7 +21751,7 @@
     <index>1977</index>
     <ID>APWLED-0014a_openbox</ID>
     <Title>AlzaPower LED 1.8-32W, G4, 2700K, 14 × 46 mm, set 2ks</Title>
-    <Cena>99.0</Cena>
+    <Cena>109.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691086478</EAN>
     <PN>APW-LBG4-1.82700KC21</PN>
@@ -21806,8 +21806,8 @@
     <index>1982</index>
     <ID>APWPB182_openbox</ID>
     <Title>AlzaPower Qi2 Ultra Slim 5000mAh Compatible with MagSafe PD (20W) tmavě modrá</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>1229.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8595691097726</EAN>
     <PN>APW-PBQ05PDB</PN>
     <URL>https://www.alza.cz/alzapower-qi2-ultra-slim-5000mah-compatible-with-magsafe-pd-20w-tmave-modra-levne-d12947837.htm</URL>
@@ -22015,7 +22015,7 @@
     <index>2001</index>
     <ID>AEY0780_openbox</ID>
     <Title>AlzaErgo Riser ER210 bílý</Title>
-    <Cena>779.0</Cena>
+    <Cena>799.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691002102</EAN>
     <PN>APW-EGER210W</PN>
@@ -22081,7 +22081,7 @@
     <index>2007</index>
     <ID>RPTGMK006a_openbox</ID>
     <Title>Rapture FOXTROT Wired, Gateron G Pro 3.0 Red, černá - CZ/SK</Title>
-    <Cena>1359.0</Cena>
+    <Cena>1269.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691087420</EAN>
     <PN>RPT-GK98GRDB</PN>
@@ -22554,7 +22554,7 @@
     <index>2050</index>
     <ID>SGR_HO_B311W_openbox</ID>
     <Title>Siguro Coelodonta 2.0 B311W 11 žeber</Title>
-    <Cena>1389.0</Cena>
+    <Cena>1369.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691063424</EAN>
     <PN>SGR-HO-B311W</PN>
@@ -22741,7 +22741,7 @@
     <index>2067</index>
     <ID>AGDTCMT9_openbox</ID>
     <Title>AlzaGuard Matte TPU Case pro Apple iPad Air 11" M2 2024 a 11" M3 2025 a Apple Pencil</Title>
-    <Cena>289.0</Cena>
+    <Cena>299.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691083880</EAN>
     <PN>AGD-TCMT9B</PN>
@@ -23115,7 +23115,7 @@
     <index>2101</index>
     <ID>APWCB150a5_openbox</ID>
     <Title>AlzaPower Core DisplayPort (M) na HDMI (M)FullHD 5m černý</Title>
-    <Cena>329.0</Cena>
+    <Cena>289.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691030600</EAN>
     <PN>APW-CBDPHDF50B</PN>
@@ -23456,7 +23456,7 @@
     <index>2132</index>
     <ID>SGR_IM_F560SU_newish</ID>
     <Title>Siguro IM-F560SU Ice King</Title>
-    <Cena>3849.0</Cena>
+    <Cena>4399.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691069129</EAN>
     <PN>SGR-IM-F560SU</PN>
@@ -23511,7 +23511,7 @@
     <index>2137</index>
     <ID>SGR_SC_P460K_newish</ID>
     <Title>Siguro SC-P460K Watermelon</Title>
-    <Cena>289.0</Cena>
+    <Cena>279.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691089226</EAN>
     <PN>SGR-SC-P460K</PN>
@@ -23577,7 +23577,7 @@
     <index>2143</index>
     <ID>AGDPCT0265_newish</ID>
     <Title>AlzaGuard Crystal Clear TPU case pro iPhone 14</Title>
-    <Cena>75.0</Cena>
+    <Cena>74.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691053135</EAN>
     <PN>AGD-PCT0265Z</PN>
@@ -23687,7 +23687,7 @@
     <index>2153</index>
     <ID>AGDBTH09b_newish</ID>
     <Title>AlzaGuard Premium Hero Tag with FindMy modrý</Title>
-    <Cena>449.0</Cena>
+    <Cena>439.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691089318</EAN>
     <PN>AGD-BTPH01L</PN>
@@ -23918,7 +23918,7 @@
     <index>2174</index>
     <ID>SGR_MO_C190S_openbox</ID>
     <Title>Siguro MO-C190S Grill</Title>
-    <Cena>2469.0</Cena>
+    <Cena>2419.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691069136</EAN>
     <PN>SGR-MO-C190S</PN>
@@ -23984,8 +23984,8 @@
     <index>2180</index>
     <ID>AGDPCMM479h_openbox</ID>
     <Title>AlzaGuard Matte Case Compatible with MagSafe pro iPhone 17 Pro Max tmavě modrý</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>389.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8596690007020</EAN>
     <PN>AGD-PCMM479L</PN>
     <URL>https://www.alza.cz/alzaguard-matte-case-compatible-with-magsafe-pro-iphone-17-pro-max-tmave-modry-levne-d13096171.htm</URL>
@@ -23995,7 +23995,7 @@
     <index>2181</index>
     <ID>AGDTCF0054_openbox</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Lenovo Tab M10 Plus (3rd Gen)</Title>
-    <Cena>93.0</Cena>
+    <Cena>95.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691058468</EAN>
     <PN>AGD-TCT0044Z</PN>
@@ -24303,8 +24303,8 @@
     <index>2209</index>
     <ID>APW_XMI5AY_13</ID>
     <Title>Eternico Airy pro Xiaomi Mi band 5 / 6 / 7 Baby Pink</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>149.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8595691059977</EAN>
     <PN>AET-XMI7AY-BaPi</PN>
     <URL>https://www.alza.cz/eternico-airy-pro-xiaomi-mi-band-5-6-7-baby-pink-d7631333.htm</URL>
@@ -24380,7 +24380,7 @@
     <index>2216</index>
     <ID>AGDPCT0129_openbox</ID>
     <Title>AlzaGuard Crystal Clear TPU case pro Samsung Galaxy S21 FE</Title>
-    <Cena>94.0</Cena>
+    <Cena>93.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691016819</EAN>
     <PN>AGD-PCT0129Z</PN>
@@ -24644,8 +24644,8 @@
     <index>2240</index>
     <ID>AEO0435_openbox</ID>
     <Title>AlzaErgo Chair Wave 1 černá</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>4939.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8595691077599</EAN>
     <PN>APW-EGOCW1B</PN>
     <URL>https://www.alza.cz/alzaergo-chair-wave-1-cerna-levne-d12463879.htm</URL>
@@ -24666,7 +24666,7 @@
     <index>2242</index>
     <ID>AGDPCS446d_openbox</ID>
     <Title>AlzaGuard Premium Silicone Case pro Xiaomi Redmi Note 14 Pro+ světle zelený</Title>
-    <Cena>169.0</Cena>
+    <Cena>219.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8596690001486</EAN>
     <PN>AGD-PCS446E</PN>
@@ -24809,8 +24809,8 @@
     <index>2255</index>
     <ID>STR_DB_NEO03</ID>
     <Title>Stormred Činky neoprenové 2x3 kg</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>399.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8595691094381</EAN>
     <PN>STR-DB-NEO03</PN>
     <URL>https://www.alza.cz/sport/stormred-cinky-neoprenove-2x3-kg-d12648367.htm</URL>
@@ -24908,7 +24908,7 @@
     <index>2264</index>
     <ID>AGDTCF117_openbox</ID>
     <Title>AlzaGuard Protective Flip Cover pro Xiaomi Redmi Pad Pro 4G / 5G malinově červený</Title>
-    <Cena>259.0</Cena>
+    <Cena>269.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691093964</EAN>
     <PN>AGD-TCF76RR</PN>
@@ -25018,7 +25018,7 @@
     <index>2274</index>
     <ID>BLMND05_openbox</ID>
     <Title>PCB stents for BLM-CC27L/BLM-CC45L</Title>
-    <Cena>65.0</Cena>
+    <Cena>64.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>BLMND05</EAN>
     <PN>BLMND05</PN>
@@ -25062,7 +25062,7 @@
     <index>2278</index>
     <ID>AGDTCF0058_openbox</ID>
     <Title>AlzaGuard Protective Flip Cover pro Lenovo Tab M10 Plus (3rd Gen)</Title>
-    <Cena>70.0</Cena>
+    <Cena>68.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691058505</EAN>
     <PN>AGD-TCF0044B</PN>
@@ -25183,7 +25183,7 @@
     <index>2289</index>
     <ID>APWCB088f1_openbox</ID>
     <Title>AlzaPower AluCore USB-A to Lightning MFi (C189) 1m černý</Title>
-    <Cena>269.0</Cena>
+    <Cena>219.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691056747</EAN>
     <PN>APW-CBMFI18901B</PN>
@@ -25227,7 +25227,7 @@
     <index>2293</index>
     <ID>SGR_AC_H280W_openbox</ID>
     <Title>Siguro AC-H280W Mistral 14</Title>
-    <Cena>6719.0</Cena>
+    <Cena>6599.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691077216</EAN>
     <PN>SGR-AC-H280W</PN>
@@ -25260,8 +25260,8 @@
     <index>2296</index>
     <ID>AEY0849_openbox</ID>
     <Title>AlzaErgo Arm S60B černý</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>1419.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8595691002089</EAN>
     <PN>APW-EGARS60B</PN>
     <URL>https://www.alza.cz/alzaergo-arm-s60b-cerny-levne-d6203107.htm</URL>
@@ -25557,7 +25557,7 @@
     <index>2323</index>
     <ID>AGDPCT0420_openbox</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Motorola Moto E14</Title>
-    <Cena>69.0</Cena>
+    <Cena>89.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691088601</EAN>
     <PN>AGD-PCT420Z</PN>
@@ -25579,7 +25579,7 @@
     <index>2325</index>
     <ID>APWCB713x2_openbox</ID>
     <Title>AlzaPower DisplayPort (M) to HDMI (F) 4K 30Hz černý</Title>
-    <Cena>229.0</Cena>
+    <Cena>219.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691030464</EAN>
     <PN>APW-ADDPHD2B</PN>
@@ -25601,7 +25601,7 @@
     <index>2327</index>
     <ID>AEY0916c_openbox</ID>
     <Title>AlzaErgo TXL05B Frame XL sklopný 43"-90"</Title>
-    <Cena>909.0</Cena>
+    <Cena>859.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8594177958285</EAN>
     <PN>APW-EGTMTXL05B</PN>
@@ -25612,7 +25612,7 @@
     <index>2328</index>
     <ID>AET2360b_openbox</ID>
     <Title>Eternico Wireless Keyboard KS2360 CZ/SK</Title>
-    <Cena>469.0</Cena>
+    <Cena>459.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691086386</EAN>
     <PN>AET-KS2360CSYN</PN>
@@ -25788,7 +25788,7 @@
     <index>2344</index>
     <ID>AEY09852_openbox</ID>
     <Title>AlzaErgo TV Cart TC310B Essential 37"-70" černý</Title>
-    <Cena>3959.0</Cena>
+    <Cena>3919.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691045116</EAN>
     <PN>APW-EGTC310B</PN>
@@ -25832,8 +25832,8 @@
     <index>2348</index>
     <ID>SGR_LM_G760Z</ID>
     <Title>Siguro LM-G760Z Pure Beauty Soundiva nemlžící s Bluetooth 80 × 60cm</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>4999.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8595691085426</EAN>
     <PN>SGR-LM-G760Z</PN>
     <URL>https://www.alza.cz/hobby/siguro-lm-g760z-pure-beauty-soundiva-d12387113.htm</URL>
@@ -26008,8 +26008,8 @@
     <index>2364</index>
     <ID>AGDPCMM478e_openbox</ID>
     <Title>AlzaGuard Matte Case Compatible with MagSafe pro iPhone 17 Pro světle fialový</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>279.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8596690006887</EAN>
     <PN>AGD-PCMM478V</PN>
     <URL>https://www.alza.cz/alzaguard-matte-case-compatible-with-magsafe-pro-iphone-17-pro-svetle-fialovy-levne-d13099346.htm</URL>
@@ -26041,7 +26041,7 @@
     <index>2367</index>
     <ID>AGDTCF121_newish</ID>
     <Title>AlzaGuard Protective Flip Cover pro Samsung Galaxy Tab S10 Ultra černý</Title>
-    <Cena>289.0</Cena>
+    <Cena>279.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691094008</EAN>
     <PN>AGD-TCF78B</PN>
@@ -26107,7 +26107,7 @@
     <index>2373</index>
     <ID>AGDPCT392a_openbox</ID>
     <Title>AlzaGuard Matte TPU Case pro Google Pixel 9 Pro černý</Title>
-    <Cena>85.0</Cena>
+    <Cena>89.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691080247</EAN>
     <PN>AGD-PCT392B</PN>
@@ -26140,7 +26140,7 @@
     <index>2376</index>
     <ID>APWBTS080b_openbox</ID>
     <Title>AlzaPower Quest 40, černý</Title>
-    <Cena>1679.0</Cena>
+    <Cena>1529.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691099614</EAN>
     <PN>APW-BTSQL1B</PN>
@@ -26151,7 +26151,7 @@
     <index>2377</index>
     <ID>AEY0856w_openbox</ID>
     <Title>AlzaErgo Arm S110W Heavy Duty Ultimate bílý</Title>
-    <Cena>3149.0</Cena>
+    <Cena>3219.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8596690010952</EAN>
     <PN>AE-EGAR-S110W</PN>
@@ -26195,7 +26195,7 @@
     <index>2381</index>
     <ID>APWCB503a_openbox</ID>
     <Title>AlzaPower Core Premium HDMI 2.1 High Speed 8K 1m černý</Title>
-    <Cena>219.0</Cena>
+    <Cena>209.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691033939</EAN>
     <PN>APW-CBHD21S010B</PN>
@@ -26206,7 +26206,7 @@
     <index>2382</index>
     <ID>AGDPCT470d_openbox</ID>
     <Title>AlzaGuard Matte TPU Case pro Xiaomi Redmi Note 14 4G růžový</Title>
-    <Cena>94.0</Cena>
+    <Cena>93.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8596690002162</EAN>
     <PN>AGD-PCT470P</PN>
@@ -26305,7 +26305,7 @@
     <index>2391</index>
     <ID>WMSW002_newish</ID>
     <Title>WowME Nexus</Title>
-    <Cena>2659.0</Cena>
+    <Cena>2629.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691091465</EAN>
     <PN>WM-SW002</PN>
@@ -26316,7 +26316,7 @@
     <index>2392</index>
     <ID>AGDTCF133_openbox</ID>
     <Title>AlzaGuard Protective Flip Cover pro Honor Pad X8a černý</Title>
-    <Cena>489.0</Cena>
+    <Cena>469.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691083958</EAN>
     <PN>AGD-TCF84B</PN>
@@ -26404,7 +26404,7 @@
     <index>2400</index>
     <ID>APWHA53_openbox</ID>
     <Title>AlzaPower FlatCore USB-C (M) na 4× USB-A 3.2 Gen 1 (F) černý</Title>
-    <Cena>339.0</Cena>
+    <Cena>319.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691046885</EAN>
     <PN>APW-HCCF4A3B</PN>
@@ -26514,7 +26514,7 @@
     <index>2410</index>
     <ID>AGDPCT386a_openbox</ID>
     <Title>AlzaGuard Matte TPU Case pro Xiaomi Redmi Note 13 Pro 4G černý</Title>
-    <Cena>66.0</Cena>
+    <Cena>89.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691080216</EAN>
     <PN>AGD-PCT386B</PN>
@@ -26613,7 +26613,7 @@
     <index>2419</index>
     <ID>AGDPCTS123_openbox</ID>
     <Title>AlzaGuard Shockproof Case pro Xiaomi Redmi Note 13 4G</Title>
-    <Cena>92.0</Cena>
+    <Cena>91.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691080438</EAN>
     <PN>AGD-PCTS123Z</PN>
@@ -26635,7 +26635,7 @@
     <index>2421</index>
     <ID>AETS043_openbox</ID>
     <Title>Eternico Essential Vertical Grain Rose Gold Buckle universal Quick Release 20mm růžovo zlatý</Title>
-    <Cena>219.0</Cena>
+    <Cena>209.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8594177959770</EAN>
     <PN>AET-SMQRVEG25RG-20</PN>
@@ -26712,7 +26712,7 @@
     <index>2428</index>
     <ID>AGDPCT385a_openbox</ID>
     <Title>AlzaGuard Matte TPU Case pro Xiaomi Redmi Note 13 4G černý</Title>
-    <Cena>39.0</Cena>
+    <Cena>89.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691080209</EAN>
     <PN>AGD-PCT385B</PN>
@@ -26888,8 +26888,8 @@
     <index>2444</index>
     <ID>APWCB701d_openbox</ID>
     <Title>AlzaPower Core USB-A (M) to MiniUSB 1m - černý</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>96.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8595691090680</EAN>
     <PN>APW-CBUAMI010B</PN>
     <URL>https://www.alza.cz/alzapower-core-usb-a-m-to-miniusb-1m-cerny-levne-d12797806.htm</URL>
@@ -26954,7 +26954,7 @@
     <index>2450</index>
     <ID>AGDPCT468_openbox</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Motorola Moto G75 5G</Title>
-    <Cena>55.0</Cena>
+    <Cena>54.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8596690000816</EAN>
     <PN>AGD-PCT468Z</PN>
@@ -26998,7 +26998,7 @@
     <index>2454</index>
     <ID>AGDPCT500a_openbox</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Google Pixel 10 Pro XL</Title>
-    <Cena>159.0</Cena>
+    <Cena>149.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8596690014219</EAN>
     <PN>AGD-PCT500Z</PN>
@@ -27009,8 +27009,8 @@
     <index>2455</index>
     <ID>AGDTCF87_openbox</ID>
     <Title>AlzaGuard Protective Flip Cover pro Lenovo Tab M11 černé</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>459.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8595691080513</EAN>
     <PN>AGD-TCF66B</PN>
     <URL>https://www.alza.cz/alzaguard-protective-flip-cover-pro-lenovo-tab-m11-cerne-levne-d12347170.htm</URL>
@@ -27427,7 +27427,7 @@
     <index>2493</index>
     <ID>AGDBCF0055_openbox</ID>
     <Title>AlzaGuard Book Flip Case pro Sony Xperia 10 VI černé</Title>
-    <Cena>159.0</Cena>
+    <Cena>219.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691095586</EAN>
     <PN>AGD-BCF0055B</PN>
@@ -27471,7 +27471,7 @@
     <index>2497</index>
     <ID>AGDBCF0040_openbox</ID>
     <Title>AlzaGuard Book Flip Case pro iPhone 16 černé</Title>
-    <Cena>169.0</Cena>
+    <Cena>179.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691084771</EAN>
     <PN>AGD-BCF0040B</PN>
@@ -27647,7 +27647,7 @@
     <index>2513</index>
     <ID>SGR_KM_F20XX02_openbox</ID>
     <Title>Siguro mixér pro kuchyňské roboty</Title>
-    <Cena>559.0</Cena>
+    <Cena>719.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691088014</EAN>
     <PN>SGR-KM-F20XX02</PN>
@@ -27779,7 +27779,7 @@
     <index>2525</index>
     <ID>SGR_HU_S100W_openbox</ID>
     <Title>Siguro Vital Steam S100W</Title>
-    <Cena>2759.0</Cena>
+    <Cena>2699.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8596690009987</EAN>
     <PN>SGR-HU-S100W</PN>
@@ -27977,7 +27977,7 @@
     <index>2543</index>
     <ID>AGDSCS003e_openbox</ID>
     <Title>AlzaGuard Premium Silicone Case pro Samsung Galaxy Buds 3 / Pro červené</Title>
-    <Cena>179.0</Cena>
+    <Cena>189.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691093353</EAN>
     <PN>AGD-SCS003R</PN>
@@ -28010,7 +28010,7 @@
     <index>2546</index>
     <ID>AEY0901_openbox</ID>
     <Title>AlzaErgo TE320 Essential sklopný 23"-43"</Title>
-    <Cena>249.0</Cena>
+    <Cena>239.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691064049</EAN>
     <PN>APW-EGTMTE320B</PN>
@@ -28021,8 +28021,8 @@
     <index>2547</index>
     <ID>SGR_EB_C150Y_openbox</ID>
     <Title>Siguro Cosy Nest C150Y</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>809.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8595691050578</EAN>
     <PN>SGR-EB-C150Y</PN>
     <URL>https://www.alza.cz/siguro-cosy-nest-c150y-levne-d7980674.htm</URL>
@@ -28043,7 +28043,7 @@
     <index>2549</index>
     <ID>AGDPCS445d_openbox</ID>
     <Title>AlzaGuard Premium Silicone Case pro Xiaomi Redmi Note 14 Pro 5G světle zelený</Title>
-    <Cena>219.0</Cena>
+    <Cena>199.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8596690001448</EAN>
     <PN>AGD-PCS445E</PN>
@@ -28098,7 +28098,7 @@
     <index>2554</index>
     <ID>AGDPCT0425_openbox</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Xiaomi Redmi 13</Title>
-    <Cena>49.0</Cena>
+    <Cena>89.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691088656</EAN>
     <PN>AGD-PCT425Z</PN>
@@ -28318,8 +28318,8 @@
     <index>2574</index>
     <ID>SPTbery043</ID>
     <Title>Bery Jones Pistácie pražené solené 1kg</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>459.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8595691007268</EAN>
     <PN>8595691007268</PN>
     <URL>https://www.alza.cz/sport/bery-jones-pistacie-prazene-solene-1kg-d6222993.htm</URL>
@@ -28384,7 +28384,7 @@
     <index>2580</index>
     <ID>AGDPCT0333_newish</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Xiaomi Redmi 12</Title>
-    <Cena>29.0</Cena>
+    <Cena>84.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691066340</EAN>
     <PN>AGD-PCT333Z</PN>
@@ -28461,7 +28461,7 @@
     <index>2587</index>
     <ID>APWCB124b1_newish</ID>
     <Title>AlzaPower AluCore USB-C to USB-C 3.2 Gen 2 100W 1m černý</Title>
-    <Cena>309.0</Cena>
+    <Cena>299.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691061116</EAN>
     <PN>APW-CBTC3210AB</PN>
@@ -28517,7 +28517,7 @@
     <ID>SGR_LM_B550R</ID>
     <Title>Siguro Pure Beauty Cassie B550R</Title>
     <Cena>799.0</Cena>
-    <Dostupnost>on way</Dostupnost>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8596690011164</EAN>
     <PN>SGR-LM-B550R</PN>
     <URL>https://www.alza.cz/siguro-pure-beauty-cassie-b550r-d13064783.htm</URL>
@@ -28637,7 +28637,7 @@
     <index>2603</index>
     <ID>AGDPCL013b_openbox</ID>
     <Title>AlzaGuard Luxe Lanyard Case pro Samsung Galaxy S25+ 5G růžový</Title>
-    <Cena>169.0</Cena>
+    <Cena>219.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8596690001080</EAN>
     <PN>AGD-PCL013P</PN>
@@ -28681,7 +28681,7 @@
     <index>2607</index>
     <ID>AGDTGF258a_openbox</ID>
     <Title>AlzaGuard 2.5D Case Friendly Glass pro Nothing Phone (2a)/(2a) Plus</Title>
-    <Cena>93.0</Cena>
+    <Cena>92.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8596690002698</EAN>
     <PN>AGD-TGF258P2</PN>
@@ -28791,8 +28791,8 @@
     <index>2617</index>
     <ID>APWLED-305</ID>
     <Title>AlzaPower LLT-61WDW Led Table lamp 3W, bílá</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>449.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8595691085761</EAN>
     <PN>APW-LLT-61WDW</PN>
     <URL>https://www.alza.cz/alzapower-llt-61wdw-led-table-lamp-5-5w-bila-d12586434.htm</URL>
@@ -28813,8 +28813,8 @@
     <index>2619</index>
     <ID>SPTcam011_openbox</ID>
     <Title>Campgo T9</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>719.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8595691073041</EAN>
     <PN>T9</PN>
     <URL>https://www.alza.cz/sport/campgo-t9-levne-d6241743.htm</URL>
@@ -29209,7 +29209,7 @@
     <index>2655</index>
     <ID>APWCOG06a4_openbox</ID>
     <Title>AlzaPower Cable Box Basic Medium bílý</Title>
-    <Cena>329.0</Cena>
+    <Cena>339.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691003024</EAN>
     <PN>APW-COGCB01MW</PN>
@@ -29253,7 +29253,7 @@
     <index>2659</index>
     <ID>AGDPCT0357_openbox</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Samsung Galaxy S24+</Title>
-    <Cena>83.0</Cena>
+    <Cena>80.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691069693</EAN>
     <PN>AGD-PCT357Z</PN>
@@ -29462,7 +29462,7 @@
     <index>2678</index>
     <ID>SGR_VD_G200W_openbox</ID>
     <Title>Siguro VD-G200W Swift Cleaner HEPA</Title>
-    <Cena>1689.0</Cena>
+    <Cena>1669.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691060874</EAN>
     <PN>SGR-VD-G200W</PN>
@@ -29506,7 +29506,7 @@
     <index>2682</index>
     <ID>APWCB504a3_openbox</ID>
     <Title>AlzaPower AluCore Premium HDMI 2.1 High Speed 8K 2m černý</Title>
-    <Cena>299.0</Cena>
+    <Cena>289.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691034059</EAN>
     <PN>APW-CBHD21N020B</PN>
@@ -29595,7 +29595,7 @@
     <ID>APWPB160ta</ID>
     <Title>AlzaPower Metal Gen2 10000mAh Power Delivery (22,5W) stříbrná</Title>
     <Cena>599.0</Cena>
-    <Dostupnost>in stock</Dostupnost>
+    <Dostupnost>on way</Dostupnost>
     <EAN>8596690000045</EAN>
     <PN>APW-PBM10PDS</PN>
     <URL>https://www.alza.cz/alzapower-metal-gen2-10000mah-power-delivery-22-5w-stribrna-d12907557.htm</URL>
@@ -29682,7 +29682,7 @@
     <index>2698</index>
     <ID>AET3002c_openbox</ID>
     <Title>Eternico Wireless KSB3002S - US</Title>
-    <Cena>539.0</Cena>
+    <Cena>489.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691064001</EAN>
     <PN>AET-KSB3002USS</PN>
@@ -29715,7 +29715,7 @@
     <index>2701</index>
     <ID>AGDPCT0447_openbox</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Xiaomi Redmi 14C / POCO C75 4G / Redmi 14R 5G</Title>
-    <Cena>90.0</Cena>
+    <Cena>89.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691096057</EAN>
     <PN>AGD-PCT447Z</PN>
@@ -29814,8 +29814,8 @@
     <index>2710</index>
     <ID>STR_DB_NEO12</ID>
     <Title>Stormred Sada činek 12 kg</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>799.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8595691094435</EAN>
     <PN>STR-DB-NEO12</PN>
     <URL>https://www.alza.cz/sport/stormred-sada-cinek-12-kg-d12648368.htm</URL>
@@ -29869,7 +29869,7 @@
     <index>2715</index>
     <ID>AGDPCTS134_openbox</ID>
     <Title>AlzaGuard Shockproof Case pro Samsung Galaxy S24 FE</Title>
-    <Cena>87.0</Cena>
+    <Cena>89.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691088854</EAN>
     <PN>AGD-PCTS134Z</PN>
@@ -29880,8 +29880,8 @@
     <index>2716</index>
     <ID>APWPB284</ID>
     <Title>AlzaPower Vision 27600mAh Power Delivery (140W) stříbrná</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>2299.0</Cena>
+    <Dostupnost>on way</Dostupnost>
     <EAN>8596690002049</EAN>
     <PN>APW-PBVI27PDG</PN>
     <URL>https://www.alza.cz/alzapower-vision-27000mah-power-delivery-140w-stribrna-d12907571.htm</URL>
@@ -29968,8 +29968,8 @@
     <index>2724</index>
     <ID>SGR_GW_C200Z</ID>
     <Title>Siguro Sada sklenic na sekt Locus, 200 ml, 6 ks</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>379.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8595691047073</EAN>
     <PN>SGR-GW-C200Z</PN>
     <URL>https://www.alza.cz//siguro-sada-sklenic-na-sekt-locus-200-ml-6-ks-d7294056.htm</URL>
@@ -30133,7 +30133,7 @@
     <index>2739</index>
     <ID>SGR_HS_X001_openbox</ID>
     <Title>Siguro HS-X001 Dálkový ovladač pro SGR-HS-K500W</Title>
-    <Cena>69.0</Cena>
+    <Cena>67.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691047707</EAN>
     <PN>SGR-HS-X001</PN>
@@ -30298,7 +30298,7 @@
     <index>2754</index>
     <ID>SGR_HD_XCH006S_openbox</ID>
     <Title>Siguro Aluminium filter SGR-HD-U220S Silver</Title>
-    <Cena>389.0</Cena>
+    <Cena>379.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8596690002377</EAN>
     <PN>SGR-HD-XCH006S</PN>
@@ -30353,7 +30353,7 @@
     <index>2759</index>
     <ID>AGDWCT007_newish</ID>
     <Title>AlzaGuard WaterProof Active Shield Case černé</Title>
-    <Cena>259.0</Cena>
+    <Cena>249.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691077346</EAN>
     <PN>AGD-WCP0002B</PN>
@@ -30804,7 +30804,7 @@
     <index>2800</index>
     <ID>SGR_CD_T840W_openbox</ID>
     <Title>Siguro Sušák na prádlo Vertical, 40 m, White</Title>
-    <Cena>939.0</Cena>
+    <Cena>929.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691093421</EAN>
     <PN>SGR-CD-T840W</PN>
@@ -30948,7 +30948,7 @@
     <ID>SGR_HB_C251B</ID>
     <Title>Siguro Glass Cooker Pro C251B</Title>
     <Cena>3799.0</Cena>
-    <Dostupnost>on way</Dostupnost>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8596690001837</EAN>
     <PN>SGR-HB-C251B</PN>
     <URL>https://www.alza.cz/siguro-hb-c251b-glass-cooker-pro-d12982557.htm</URL>
@@ -31167,7 +31167,7 @@
     <index>2833</index>
     <ID>AGDACL017_openbox</ID>
     <Title>AlzaGuard Genuine Leather Case pro AirPods 3 (2021) sedlově hnědé</Title>
-    <Cena>289.0</Cena>
+    <Cena>299.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691081350</EAN>
     <PN>AGD-ACL7C</PN>
@@ -31277,7 +31277,7 @@
     <index>2843</index>
     <ID>AGDPCTS480_openbox</ID>
     <Title>AlzaGuard Shockproof Case pro Samsung Galaxy S25 Edge</Title>
-    <Cena>55.0</Cena>
+    <Cena>54.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8596690008508</EAN>
     <PN>AGD-PCTS480Z</PN>
@@ -31387,7 +31387,7 @@
     <index>2853</index>
     <ID>AGDWCH0005_openbox</ID>
     <Title>AlzaGuard Crystal Clear TPU HalfCase pro Apple Watch 41mm</Title>
-    <Cena>57.0</Cena>
+    <Cena>56.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691039818</EAN>
     <PN>AGD-WCH0005Z</PN>
@@ -31475,7 +31475,7 @@
     <index>2861</index>
     <ID>APWCCC520b_openbox</ID>
     <Title>AlzaPower Car Charger C520 Fast Charge + Power Delivery 30W černá</Title>
-    <Cena>209.0</Cena>
+    <Cena>199.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8594177958063</EAN>
     <PN>APW-CC2Q3P3AB</PN>
@@ -31508,7 +31508,7 @@
     <index>2864</index>
     <ID>AEY0975l_openbox</ID>
     <Title>AlzaErgo M460B Ultra Slim kloubový 37"-80"</Title>
-    <Cena>1569.0</Cena>
+    <Cena>1579.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691020724</EAN>
     <PN>APW-EGTMM460B</PN>
@@ -31519,7 +31519,7 @@
     <index>2865</index>
     <ID>AEY02040023a_openbox</ID>
     <Title>AlzaPower G610CCA Fast Charge 67W bílá</Title>
-    <Cena>579.0</Cena>
+    <Cena>539.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691090321</EAN>
     <PN>APW-CCG610CCAW</PN>
@@ -31541,7 +31541,7 @@
     <index>2867</index>
     <ID>AGDPCTS131_openbox</ID>
     <Title>AlzaGuard Shockproof Case pro Xiaomi Redmi Note 13 5G</Title>
-    <Cena>94.0</Cena>
+    <Cena>95.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691084184</EAN>
     <PN>AGD-PCTS131Z</PN>
@@ -31618,7 +31618,7 @@
     <index>2874</index>
     <ID>APWCB125i_openbox</ID>
     <Title>AlzaPower Core USB-C to USB-C USB4 100W 0.5m černý</Title>
-    <Cena>489.0</Cena>
+    <Cena>449.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691037654</EAN>
     <PN>APW-CBTC4405B</PN>
@@ -31695,7 +31695,7 @@
     <index>2881</index>
     <ID>APWCB504a5_openbox</ID>
     <Title>AlzaPower AluCore Premium HDMI 2.1 High Speed 8K 5m černý</Title>
-    <Cena>499.0</Cena>
+    <Cena>509.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691034073</EAN>
     <PN>APW-CBHD21N050B</PN>
@@ -31717,8 +31717,8 @@
     <index>2883</index>
     <ID>AEY0929_openbox</ID>
     <Title>AlzaErgo T220B Low Profile sklopný 32"-55"</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>539.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8594177956137</EAN>
     <PN>APW-EGTMT220B</PN>
     <URL>https://www.alza.cz/alzaergo-t220b-low-profile-sklopny-32-55-levne-d5751472.htm</URL>
@@ -31739,7 +31739,7 @@
     <index>2885</index>
     <ID>AGDPCMT26_openbox</ID>
     <Title>AlzaGuard Clear TPU Case Compatible with Magsafe pro iPhone 15 černé</Title>
-    <Cena>339.0</Cena>
+    <Cena>359.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691084887</EAN>
     <PN>AGD-PCMT26B</PN>
@@ -31794,7 +31794,7 @@
     <index>2890</index>
     <ID>AEY0974d_openbox</ID>
     <Title>AlzaErgo T425B Ultra Slim sklopný 32"-55"</Title>
-    <Cena>1069.0</Cena>
+    <Cena>989.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691011067</EAN>
     <PN>APW-EGTMT425B</PN>
@@ -31816,7 +31816,7 @@
     <index>2892</index>
     <ID>AETAW149_openbox</ID>
     <Title>Eternico Elegance Milanese pro Universal Quick Release 20mm rose gold</Title>
-    <Cena>239.0</Cena>
+    <Cena>249.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691082500</EAN>
     <PN>AET-QR20MNS-rogo</PN>
@@ -31882,7 +31882,7 @@
     <index>2898</index>
     <ID>AGDTCT63_openbox</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro iPad Pro 13" M4 (2024)</Title>
-    <Cena>49.0</Cena>
+    <Cena>89.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691081954</EAN>
     <PN>AGD-TCT69Z</PN>
@@ -31959,7 +31959,7 @@
     <index>2905</index>
     <ID>AGDPCMT35_openbox</ID>
     <Title>AlzaGuard Clear TPU Case Compatible with Magsafe pro iPhone 16 Pro Max černé</Title>
-    <Cena>279.0</Cena>
+    <Cena>359.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691084955</EAN>
     <PN>AGD-PCMT35B</PN>
@@ -32003,7 +32003,7 @@
     <index>2909</index>
     <ID>AET00465_openbox</ID>
     <Title>Eternico Wireless mouse MSB465</Title>
-    <Cena>409.0</Cena>
+    <Cena>419.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691087161</EAN>
     <PN>AET-MSB465B</PN>
@@ -32245,7 +32245,7 @@
     <index>2931</index>
     <ID>AET3002a_openbox</ID>
     <Title>Eternico Wireless KSB3002RBW - CZ/SK</Title>
-    <Cena>689.0</Cena>
+    <Cena>679.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691063981</EAN>
     <PN>AET-KSB3002CSSRBW</PN>
@@ -32278,7 +32278,7 @@
     <index>2934</index>
     <ID>AEO0440_newish</ID>
     <Title>AlzaErgo Chair Streamline 1 šedá</Title>
-    <Cena>4549.0</Cena>
+    <Cena>4489.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691047660</EAN>
     <PN>APW-EGOCS1Y</PN>
@@ -32311,7 +32311,7 @@
     <index>2937</index>
     <ID>AGDTC0016_newish</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Samsung Galaxy Tab S6 Lite / Tab S6 Lite 2024</Title>
-    <Cena>89.0</Cena>
+    <Cena>87.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691018684</EAN>
     <PN>AGD-TCT0016Z</PN>
@@ -32410,7 +32410,7 @@
     <index>2946</index>
     <ID>SGR_WB_I130SU_openbox</ID>
     <Title>Siguro Odpadkový koš SmartSort stříbrný, nádoba na odpad, 30 l</Title>
-    <Cena>1479.0</Cena>
+    <Cena>1899.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8596690001905</EAN>
     <PN>SGR-WB-I130SU</PN>
@@ -32466,7 +32466,7 @@
     <ID>AEY0M003a</ID>
     <Title>AlzaPower MG8103CA Fast Charger 100W černá</Title>
     <Cena>1299.0</Cena>
-    <Dostupnost>in stock</Dostupnost>
+    <Dostupnost>on way</Dostupnost>
     <EAN>8595691082074</EAN>
     <PN>APW-MG8103CAB</PN>
     <URL>https://www.alza.cz/alzapower-mg8103ca-fast-charger-100w-cerna-d12584637.htm</URL>
@@ -32498,8 +32498,8 @@
     <index>2954</index>
     <ID>AGDTCT105_openbox</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Xiaomi Redmi Pad 2</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>279.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8596690014769</EAN>
     <PN>AGD-TCT105Z</PN>
     <URL>https://www.alza.cz/alzaguard-crystal-clear-tpu-case-pro-xiaomi-redmi-pad-2-levne-d13198311.htm</URL>
@@ -32773,7 +32773,7 @@
     <index>2979</index>
     <ID>RPTGM011a_openbox</ID>
     <Title>Rapture VENOM V2, černá</Title>
-    <Cena>489.0</Cena>
+    <Cena>449.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691098587</EAN>
     <PN>RPT-GM3327KS03B</PN>
@@ -32850,7 +32850,7 @@
     <index>2986</index>
     <ID>RPTMA002a_openbox</ID>
     <Title>Rapture UMBRA SX černý</Title>
-    <Cena>1319.0</Cena>
+    <Cena>1289.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8596690012352</EAN>
     <PN>RPT-MAS002B</PN>
@@ -33059,7 +33059,7 @@
     <index>3005</index>
     <ID>AGDECT002_openbox</ID>
     <Title>AlzaGuard E-reader Case for Ebook pro Amazon Kindle Paperwhite 5 2021 vesmírně šedý</Title>
-    <Cena>49.0</Cena>
+    <Cena>89.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691090017</EAN>
     <PN>AGD-ECT002Y</PN>
@@ -33213,7 +33213,7 @@
     <index>3019</index>
     <ID>AGD_MWP002V_openbox</ID>
     <Title>AlzaGuard PU Leather Card Wallet Compatible with Magsafe - šeříková</Title>
-    <Cena>229.0</Cena>
+    <Cena>219.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8596690015605</EAN>
     <PN>AGD-MWP002V</PN>
@@ -33444,7 +33444,7 @@
     <index>3040</index>
     <ID>AEY0655f_openbox</ID>
     <Title>AlzaErgo CM105 bílá</Title>
-    <Cena>199.0</Cena>
+    <Cena>209.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691002546</EAN>
     <PN>APW-EGCMC105W</PN>
@@ -33488,7 +33488,7 @@
     <index>3044</index>
     <ID>APWPB274a</ID>
     <Title>AlzaPower WorkMate 25000mAh Power Delivery (140W) černo-šedá</Title>
-    <Cena>1690.0</Cena>
+    <Cena>1699.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8596690011096</EAN>
     <PN>APW-PBWM25PDB</PN>
@@ -33576,7 +33576,7 @@
     <index>3052</index>
     <ID>SGR_SJ_P500BE_closeout</ID>
     <Title>Siguro SJ-P500BE Juice Pure Press</Title>
-    <Cena>1699.0</Cena>
+    <Cena>1679.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8596690000151</EAN>
     <PN>SGR-SJ-P500BE</PN>
@@ -33698,7 +33698,7 @@
     <ID>SGR_AF_G351W</ID>
     <Title>Siguro AF-G351W Easy Fry Plus</Title>
     <Cena>1299.0</Cena>
-    <Dostupnost>in stock</Dostupnost>
+    <Dostupnost>on way</Dostupnost>
     <EAN>8595691098723</EAN>
     <PN>SGR-AF-G351W</PN>
     <URL>https://www.alza.cz/siguro-af-g251b-easy-fry-plus-d12709430.htm</URL>
@@ -33763,7 +33763,7 @@
     <index>3069</index>
     <ID>AEY0804f_newish</ID>
     <Title>AlzaErgo TTE-03 160×80 cm lamino kaštan</Title>
-    <Cena>1909.0</Cena>
+    <Cena>1889.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8594177957837</EAN>
     <PN>APW-EGTTM15C</PN>
@@ -33774,7 +33774,7 @@
     <index>3070</index>
     <ID>AEY0825_openbox</ID>
     <Title>AlzaErgo Arm D30B</Title>
-    <Cena>1579.0</Cena>
+    <Cena>1529.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8594177957554</EAN>
     <PN>APW-EGARD30B</PN>
@@ -33807,8 +33807,8 @@
     <index>3073</index>
     <ID>APWPB160tc_openbox</ID>
     <Title>AlzaPower Metal Gen2 20000mAh Power Delivery (22,5W) stříbrná</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>889.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8596690000069</EAN>
     <PN>APW-PBM20PDS</PN>
     <URL>https://www.alza.cz/alzapower-metal-gen2-20000mah-power-delivery-22-5w-stribrna-levne-d13142186.htm</URL>
@@ -34269,8 +34269,8 @@
     <index>3115</index>
     <ID>APWPB173_openbox</ID>
     <Title>AlzaPower Garnet 20000mAh Power Delivery (22,5W) černá</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>789.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8595691076264</EAN>
     <PN>APW-PBG20PDB</PN>
     <URL>https://www.alza.cz/alzapower-garnet-20000mah-power-delivery-22-5w-cerna-levne-d12342240.htm</URL>
@@ -34511,8 +34511,8 @@
     <index>3137</index>
     <ID>SGR_HB_I150B_openbox</ID>
     <Title>Siguro HB-I150B Dual</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>2909.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8595691045161</EAN>
     <PN>SGR-HB-I150B</PN>
     <URL>https://www.alza.cz/siguro-hb-i150b-dual-levne-d7579996.htm</URL>
@@ -34522,7 +34522,7 @@
     <index>3138</index>
     <ID>AGDTGC0356_openbox</ID>
     <Title>AlzaGuard 2.5D Case Friendly Glass Protector pro Realme 10</Title>
-    <Cena>60.0</Cena>
+    <Cena>59.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691062199</EAN>
     <PN>AGD-TGF0187</PN>
@@ -34687,7 +34687,7 @@
     <index>3153</index>
     <ID>SGR_BI_N130W_openbox</ID>
     <Title>Siguro BI-N130W Vivid</Title>
-    <Cena>12090.0</Cena>
+    <Cena>12490.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691063639</EAN>
     <PN>SGR-BI-N130W</PN>
@@ -34852,7 +34852,7 @@
     <index>3168</index>
     <ID>AEY0673_openbox</ID>
     <Title>AlzaErgo FR140 černá</Title>
-    <Cena>729.0</Cena>
+    <Cena>719.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691002515</EAN>
     <PN>APW-EGFR140B</PN>
@@ -35028,8 +35028,8 @@
     <index>3184</index>
     <ID>AGDPCMT476a_openbox</ID>
     <Title>AlzaGuard Crystal Clear TPU Case Compatible with Magsafe pro iPhone 17</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>139.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8596690007129</EAN>
     <PN>AGD-PCMT476Z</PN>
     <URL>https://www.alza.cz/alzaguard-crystal-clear-tpu-case-compatible-with-magsafe-pro-iphone-17-levne-d13108066.htm</URL>
@@ -35039,7 +35039,7 @@
     <index>3185</index>
     <ID>AGDBCF476c_openbox</ID>
     <Title>AlzaGuard Book Flip Case pro iPhone 17 modrozelené</Title>
-    <Cena>199.0</Cena>
+    <Cena>219.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8596690011850</EAN>
     <PN>AGD-BCF476T</PN>
@@ -35094,7 +35094,7 @@
     <index>3190</index>
     <ID>AGDPCT0432_openbox</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Google Pixel 9A</Title>
-    <Cena>94.0</Cena>
+    <Cena>95.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691095906</EAN>
     <PN>AGD-PCT432Z</PN>
@@ -35248,7 +35248,7 @@
     <index>3204</index>
     <ID>AEY0204_openbox</ID>
     <Title>AlzaPower A100 Fast Charge 20W černá</Title>
-    <Cena>349.0</Cena>
+    <Cena>339.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691007909</EAN>
     <PN>APW-CCA100B</PN>
@@ -35358,7 +35358,7 @@
     <index>3214</index>
     <ID>AEY0850b_openbox</ID>
     <Title>AlzaErgo Arm S100B Premium vesmírně černý</Title>
-    <Cena>1819.0</Cena>
+    <Cena>1839.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691020601</EAN>
     <PN>APW-EGARS100B</PN>
@@ -35501,7 +35501,7 @@
     <index>3227</index>
     <ID>AGDPCT265d_closeout</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone 14 růžový</Title>
-    <Cena>44.0</Cena>
+    <Cena>43.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691067392</EAN>
     <PN>AGD-PCT265P</PN>
@@ -35523,8 +35523,8 @@
     <index>3229</index>
     <ID>APWLED-0007c_openbox</ID>
     <Title>AlzaPower LED 18-115W, E27, G120, 2700K, 1 ks</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>119.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8595691087109</EAN>
     <PN>APW-LBG27-182700KM1</PN>
     <URL>https://www.alza.cz/alzapower-led-18-115w-e27-g120-2700k-1-ks-levne-d12795256.htm</URL>
@@ -35677,8 +35677,8 @@
     <index>3243</index>
     <ID>AGDPCT61c</ID>
     <Title>AlzaGuard Matte Case Compatible with Magsafe pro iPhone 13 pískově žlutý</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>349.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8595691091502</EAN>
     <PN>AGD-PCMM62SG</PN>
     <URL>https://www.alza.cz/alzaguard-matte-case-compatible-with-magsafe-pro-iphone-13-piskove-zluty-d12598387.htm</URL>
@@ -35699,7 +35699,7 @@
     <index>3245</index>
     <ID>SGR_HS_K500W_openbox</ID>
     <Title>Siguro HS-K500W Lemming</Title>
-    <Cena>2069.0</Cena>
+    <Cena>2049.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691042856</EAN>
     <PN>SGR-HS-K500W</PN>
@@ -35710,8 +35710,8 @@
     <index>3246</index>
     <ID>SGR_IC_B150B_openbox</ID>
     <Title>Siguro IC-B150 Smart Cook Mini</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>899.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8595691099652</EAN>
     <PN>SGR-IC-B150B</PN>
     <URL>https://www.alza.cz/siguro-ic-b150-smart-cook-mini-levne-d13046060.htm</URL>
@@ -35820,7 +35820,7 @@
     <index>3256</index>
     <ID>AGDPCF0029a_openbox</ID>
     <Title>AlzaGuard Luxe Detach Lanyard Case Compatible with MagSafe for iPhone 14 černý</Title>
-    <Cena>399.0</Cena>
+    <Cena>389.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8596690000762</EAN>
     <PN>AGD-PCF000025B</PN>
@@ -35864,7 +35864,7 @@
     <index>3260</index>
     <ID>AEY0811b_openbox</ID>
     <Title>AlzaErgo Arm AR2.1 černý</Title>
-    <Cena>1609.0</Cena>
+    <Cena>1579.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691004229</EAN>
     <PN>APW-EGARD02B</PN>
@@ -35908,7 +35908,7 @@
     <index>3264</index>
     <ID>AGDPCMS25a_openbox</ID>
     <Title>AlzaGuard Silicone Case Compatible with Magsafe pro iPhone 16 Pro černý</Title>
-    <Cena>319.0</Cena>
+    <Cena>179.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691085082</EAN>
     <PN>AGD-PCMS25B</PN>
@@ -35941,7 +35941,7 @@
     <index>3267</index>
     <ID>APWCB118b_openbox</ID>
     <Title>AlzaPower Core USB-C (M) to USB-C (F) 3.2 Gen 2, 1m černý</Title>
-    <Cena>229.0</Cena>
+    <Cena>219.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691047356</EAN>
     <PN>APW-CBTC00510B</PN>
@@ -35974,7 +35974,7 @@
     <index>3270</index>
     <ID>AGD_TGE480ZAP3_openbox</ID>
     <Title>AlzaGuard 2.5D Glass EasyFit pro Samsung Galaxy S25 Edge</Title>
-    <Cena>209.0</Cena>
+    <Cena>309.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8596690009260</EAN>
     <PN>AGD-TGB480ZAP3</PN>
@@ -36062,7 +36062,7 @@
     <index>3278</index>
     <ID>RPTGC0500b_newish</ID>
     <Title>Rapture DREADNOUGHT černá</Title>
-    <Cena>6309.0</Cena>
+    <Cena>7109.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691032666</EAN>
     <PN>RPT-GCDT15B</PN>
@@ -36106,8 +36106,8 @@
     <index>3282</index>
     <ID>APWPB274a_openbox</ID>
     <Title>AlzaPower WorkMate 25000mAh Power Delivery (140W) černo-šedá</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>1529.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8596690011096</EAN>
     <PN>APW-PBWM25PDB</PN>
     <URL>https://www.alza.cz/alzapower-workmate-25000mah-power-delivery-140w-cerno-seda-levne-d13171695.htm</URL>
@@ -36337,8 +36337,8 @@
     <index>3303</index>
     <ID>AEY1010_openbox</ID>
     <Title>AlzaErgo Projector Mount C10W bílý</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>379.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8594177958223</EAN>
     <PN>APW-EGPMC10W</PN>
     <URL>https://www.alza.cz/alzaergo-projector-mount-c10w-bily-levne-d6226204.htm</URL>
@@ -36370,7 +36370,7 @@
     <index>3306</index>
     <ID>APWHK02_openbox</ID>
     <Title>AlzaPower USB 2.0 2 In 4 Out KM Switch Selector černý</Title>
-    <Cena>489.0</Cena>
+    <Cena>449.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691055535</EAN>
     <PN>APW-KVM4IN2B</PN>
@@ -36546,8 +36546,8 @@
     <index>3322</index>
     <ID>SPTbery001</ID>
     <Title>Bery Jones Kešu natural WW240 0,5kg</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>229.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8595691006841</EAN>
     <PN>8595691006841</PN>
     <URL>https://www.alza.cz/sport/bery-jones-kesu-natural-w240-500g-d6222951.htm</URL>
@@ -36557,7 +36557,7 @@
     <index>3323</index>
     <ID>SGR_FN_P351B_newish</ID>
     <Title>Siguro Velvet Wind P351B</Title>
-    <Cena>739.0</Cena>
+    <Cena>759.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691014303</EAN>
     <PN>SGR-FN-P351B</PN>
@@ -36612,7 +36612,7 @@
     <index>3328</index>
     <ID>AEY0804f01_openbox</ID>
     <Title>AlzaErgo TTE-03 160×80 cm lamino šedý dub</Title>
-    <Cena>2399.0</Cena>
+    <Cena>2379.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691034851</EAN>
     <PN>APW-EGTT60GW</PN>
@@ -36645,7 +36645,7 @@
     <index>3331</index>
     <ID>AGDTCT68_openbox</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Lenovo Tab Plus 11.5"</Title>
-    <Cena>269.0</Cena>
+    <Cena>259.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691093834</EAN>
     <PN>AGD-TCT77Z</PN>
@@ -36733,7 +36733,7 @@
     <index>3339</index>
     <ID>AGDPCT441c_openbox</ID>
     <Title>AlzaGuard Matte TPU Case pro Samsung Galaxy S25+ modrý</Title>
-    <Cena>93.0</Cena>
+    <Cena>92.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691096651</EAN>
     <PN>AGD-PCT441L</PN>
@@ -37437,7 +37437,7 @@
     <index>3403</index>
     <ID>AGDEFG12a_openbox</ID>
     <Title>AlzaGuard 2.5D Glass EasyFit pro Samsung Galaxy A06s 5G</Title>
-    <Cena>38.0</Cena>
+    <Cena>37.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8596690003527</EAN>
     <PN>AGD-EFG12P3</PN>
@@ -37525,7 +37525,7 @@
     <index>3411</index>
     <ID>SGR_VD_G201B_openbox</ID>
     <Title>Siguro VD-G201B Swift Cleaner HEPA</Title>
-    <Cena>1669.0</Cena>
+    <Cena>1659.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691099218</EAN>
     <PN>SGR-VD-G201B</PN>
@@ -37569,7 +37569,7 @@
     <index>3415</index>
     <ID>APWCB130e_openbox</ID>
     <Title>AlzaPower Core DisplayPort 1.2 4K stíněný 1.5m černý</Title>
-    <Cena>199.0</Cena>
+    <Cena>189.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8594177958803</EAN>
     <PN>APW-CBDP115B</PN>
@@ -37921,7 +37921,7 @@
     <index>3447</index>
     <ID>SGRT2S1SS_openbox</ID>
     <Title>Siguro TO-T11SS-2S Double Slot</Title>
-    <Cena>619.0</Cena>
+    <Cena>579.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691025293</EAN>
     <PN>SGR-T11SS-2SM</PN>
@@ -38009,7 +38009,7 @@
     <index>3455</index>
     <ID>SGR_HO_B311B_newish</ID>
     <Title>Siguro Coelodonta 2.0 B311B 11 žeber</Title>
-    <Cena>1539.0</Cena>
+    <Cena>1519.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8596690005712</EAN>
     <PN>SGR-HO-B311B</PN>
@@ -38054,7 +38054,7 @@
     <ID>SGR_RC_S801W</ID>
     <Title>Siguro RC-S801W Rice Master Digital Induction s napařovákem</Title>
     <Cena>1999.0</Cena>
-    <Dostupnost>in stock</Dostupnost>
+    <Dostupnost>on way</Dostupnost>
     <EAN>8595691087932</EAN>
     <PN>SGR-RC-S801W</PN>
     <URL>https://www.alza.cz/siguro-rc-s801w-rice-master-digital-induction-s-naparovakem-d12472367.htm</URL>
@@ -38163,7 +38163,7 @@
     <index>3469</index>
     <ID>APWBTE010_openbox</ID>
     <Title>AlzaPower Mesa ANC černá</Title>
-    <Cena>1379.0</Cena>
+    <Cena>1259.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691090192</EAN>
     <PN>APW-BTEAP1B</PN>
@@ -38185,8 +38185,8 @@
     <index>3471</index>
     <ID>AGDBCF0038_openbox</ID>
     <Title>AlzaGuard Book Flip Case pro iPhone 12 / 12 Pro černé</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>229.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8595691081435</EAN>
     <PN>AGD-BCF38</PN>
     <URL>https://www.alza.cz/alzaguard-book-flip-case-pro-iphone-12-12-pro-cerne-levne-d12390658.htm</URL>
@@ -38240,7 +38240,7 @@
     <index>3476</index>
     <ID>SGR_EK_R750L_openbox</ID>
     <Title>Siguro Canberra R750L</Title>
-    <Cena>829.0</Cena>
+    <Cena>789.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8596690001691</EAN>
     <PN>SGR-EK-R750L</PN>
@@ -38482,7 +38482,7 @@
     <index>3498</index>
     <ID>SGR_EK_R750SU_openbox</ID>
     <Title>Siguro Canberra R750SU</Title>
-    <Cena>1259.0</Cena>
+    <Cena>1169.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8596690001646</EAN>
     <PN>SGR-EK-R750SU</PN>
@@ -38493,7 +38493,7 @@
     <index>3499</index>
     <ID>SGR_DH_P300W_openbox</ID>
     <Title>Siguro Orca P300W 20l WiFi</Title>
-    <Cena>5879.0</Cena>
+    <Cena>5819.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691031669</EAN>
     <PN>SGR-DH-P300W</PN>
@@ -38757,8 +38757,8 @@
     <index>3523</index>
     <ID>AEY0980f_newish</ID>
     <Title>AlzaErgo M250B Super Slim kloubový 23"-42"</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>409.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8595691020793</EAN>
     <PN>APW-EGTMM250B</PN>
     <URL>https://www.alza.cz/alzaergo-m250b-super-slim-kloubovy-23-42-sleva-d7093579.htm</URL>
@@ -38966,7 +38966,7 @@
     <index>3542</index>
     <ID>AEY0838_openbox</ID>
     <Title>AlzaErgo Arm O10B</Title>
-    <Cena>419.0</Cena>
+    <Cena>429.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8594177957684</EAN>
     <PN>APW-EGARO10B</PN>
@@ -39098,7 +39098,7 @@
     <index>3554</index>
     <ID>SGR_RV_M300B_openbox</ID>
     <Title>Siguro RV-M300B TURBOVac Navigator</Title>
-    <Cena>5639.0</Cena>
+    <Cena>5579.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691082142</EAN>
     <PN>SGR-RV-M300B</PN>
@@ -39120,7 +39120,7 @@
     <index>3556</index>
     <ID>AET004800a_openbox</ID>
     <Title>Eternico Wireless Mouse MS480 černá</Title>
-    <Cena>589.0</Cena>
+    <Cena>539.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691068856</EAN>
     <PN>AET-MS480B</PN>
@@ -39164,7 +39164,7 @@
     <index>3560</index>
     <ID>SGR_FN_T570W_newish</ID>
     <Title>Siguro West Wind T570W</Title>
-    <Cena>1679.0</Cena>
+    <Cena>1749.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691014280</EAN>
     <PN>SGR-FN-T570W</PN>
@@ -39219,7 +39219,7 @@
     <index>3565</index>
     <ID>AEY0831_openbox</ID>
     <Title>AlzaErgo Arm D40B</Title>
-    <Cena>1299.0</Cena>
+    <Cena>1289.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8594177957615</EAN>
     <PN>APW-EGARD40B</PN>
@@ -39307,8 +39307,8 @@
     <index>3573</index>
     <ID>AGDPCLM476a_openbox</ID>
     <Title>AlzaGuard Luxe Detach Lanyard Case Compatible with MagSafe pro iPhone 17 černý</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>359.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8596690008720</EAN>
     <PN>AGD-PCLM476B</PN>
     <URL>https://www.alza.cz/alzaguard-luxe-detach-lanyard-case-compatible-with-magsafe-pro-iphone-17-cerny-levne-d13093630.htm</URL>
@@ -39351,8 +39351,8 @@
     <index>3577</index>
     <ID>SGR_MM_S150Y_openbox</ID>
     <Title>Siguro Neck Relax S150Y</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>1339.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8596690009765</EAN>
     <PN>SGR-MM-S150Y</PN>
     <URL>https://www.alza.cz/siguro-neck-relax-s150y-levne-d13152333.htm</URL>
@@ -39527,7 +39527,7 @@
     <index>3593</index>
     <ID>AGDPCT467_openbox</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Motorola Moto G55 5G</Title>
-    <Cena>209.0</Cena>
+    <Cena>219.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8596690000809</EAN>
     <PN>AGD-PCT467Z</PN>
@@ -39582,7 +39582,7 @@
     <index>3598</index>
     <ID>AGDPCMM42f_openbox</ID>
     <Title>AlzaGuard Matte Case Compatible with MagSafe pro iPhone 13 žlutý</Title>
-    <Cena>299.0</Cena>
+    <Cena>309.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691064667</EAN>
     <PN>AGD-PCMM42Y</PN>
@@ -39736,7 +39736,7 @@
     <index>3612</index>
     <ID>AGDPCMM280_openbox</ID>
     <Title>AlzaGuard Protective Flip Cover pro Lenovo Tab P12 černé</Title>
-    <Cena>229.0</Cena>
+    <Cena>219.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691069648</EAN>
     <PN>AGD-TCF58B</PN>
@@ -39769,7 +39769,7 @@
     <index>3615</index>
     <ID>AGDEFG2_openbox</ID>
     <Title>AlzaGuard 2.5D Glass EasyFit 2 Pack pro Samsung Galaxy A25 5G s instalačním rámečkem</Title>
-    <Cena>289.0</Cena>
+    <Cena>309.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691084634</EAN>
     <PN>AGD-EFG2</PN>
@@ -39802,7 +39802,7 @@
     <index>3618</index>
     <ID>APWCB190c_openbox</ID>
     <Title>AlzaPower Core DisplayPort na VGA FullHD 3m černý</Title>
-    <Cena>289.0</Cena>
+    <Cena>269.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691090482</EAN>
     <PN>APW-CBDPVGA030B</PN>
@@ -40033,7 +40033,7 @@
     <index>3639</index>
     <ID>SGR_OR_K605BB_newish</ID>
     <Title>Siguro Příborník do zásuvky Bamboo, 5 přihrádek</Title>
-    <Cena>209.0</Cena>
+    <Cena>199.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691089493</EAN>
     <PN>SGR-OR-K605BB</PN>
@@ -40099,8 +40099,8 @@
     <index>3645</index>
     <ID>APWCB107b</ID>
     <Title>AlzaPower AluCore USB-A to USB-C 3.2 Gen 1 5Gbps 1m černý</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>259.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8594177952146</EAN>
     <PN>APW-CBTC0071B</PN>
     <URL>https://www.alza.cz/alzapower-alucore-usb-c-3-1-gen1?dq=5472809</URL>
@@ -40407,7 +40407,7 @@
     <index>3673</index>
     <ID>SGR_FO_G610Y_openbox</ID>
     <Title>Siguro Dóza na potraviny ViewStash, 1 l</Title>
-    <Cena>169.0</Cena>
+    <Cena>159.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691087451</EAN>
     <PN>SGR-FO-G610Y</PN>
@@ -40451,7 +40451,7 @@
     <index>3677</index>
     <ID>AGDTGC0254a_openbox</ID>
     <Title>AlzaGuard 2.5D Case Friendly Glass pro Samsung Galaxy A13 5G</Title>
-    <Cena>92.0</Cena>
+    <Cena>91.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8596690002766</EAN>
     <PN>AGD-TGF0085P2</PN>
@@ -40539,8 +40539,8 @@
     <index>3685</index>
     <ID>AGDBCF0064b_openbox</ID>
     <Title>AlzaGuard Book Flip Case pro Xiaomi Redmi Note 14 Pro 5G modrozelené</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>239.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8596690004036</EAN>
     <PN>AGD-BCF0064T</PN>
     <URL>https://www.alza.cz/alzaguard-book-flip-case-pro-xiaomi-redmi-note-14-pro-5g-modrozelene-levne-d13045786.htm</URL>
@@ -40616,7 +40616,7 @@
     <index>3692</index>
     <ID>SGR_HO_B311W_newish</ID>
     <Title>Siguro Coelodonta 2.0 B311W 11 žeber</Title>
-    <Cena>1389.0</Cena>
+    <Cena>1349.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691063424</EAN>
     <PN>SGR-HO-B311W</PN>
@@ -40781,8 +40781,8 @@
     <index>3707</index>
     <ID>APW_U20SP_3</ID>
     <Title>Eternico Sporty Universal Quick Release 20mm Vibrant Yellow and Black</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>149.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8595691048476</EAN>
     <PN>AET-U20SP-YeBl</PN>
     <URL>https://www.alza.cz/eternico-sporty-universal-quick-release-20mm-vibrant-yellow-and-black-d7248089.htm</URL>
@@ -40825,7 +40825,7 @@
     <index>3711</index>
     <ID>SGR_HS_G250W_openbox</ID>
     <Title>Siguro Warmee G250W</Title>
-    <Cena>1319.0</Cena>
+    <Cena>1269.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8596690011706</EAN>
     <PN>SGR-HS-G250W</PN>
@@ -41607,7 +41607,7 @@
     <ID>SGR_WM_A810W</ID>
     <Title>Siguro WM-F810W Steam Power</Title>
     <Cena>7999.0</Cena>
-    <Dostupnost>in stock</Dostupnost>
+    <Dostupnost>on way</Dostupnost>
     <EAN>8595691077438</EAN>
     <PN>SGR-WM-F810W</PN>
     <URL>https://www.alza.cz/siguro-sgr-wm-f810w-steam-power-d9888177.htm</URL>
@@ -41617,7 +41617,7 @@
     <index>3783</index>
     <ID>APWCB802_openbox</ID>
     <Title>AlzaPower Core Audio 3.5mm Jack (M) to 3.5mm Jack (M) 3m černý</Title>
-    <Cena>95.0</Cena>
+    <Cena>98.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691044522</EAN>
     <PN>APW-CBA3JM13B</PN>
@@ -41683,8 +41683,8 @@
     <index>3789</index>
     <ID>SGRTR002</ID>
     <Title>Siguro BO-L35 Built-in Hot Air Oven Black</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>6999.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8595691017144</EAN>
     <PN>SGR-BO-L350B</PN>
     <URL>https://www.alza.cz//siguro-bo-l35-built-in-hot-air-oven-black-d6799350.htm</URL>
@@ -41881,7 +41881,7 @@
     <index>3807</index>
     <ID>RPTMP201b_openbox</ID>
     <Title>Rapture RESPAWN XL bílá</Title>
-    <Cena>279.0</Cena>
+    <Cena>269.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691065060</EAN>
     <PN>RPT-MPXL90N2W</PN>
@@ -41980,8 +41980,8 @@
     <index>3816</index>
     <ID>AEY0740</ID>
     <Title>AlzaErgo Stand LD110 černý</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>899.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8595691020588</EAN>
     <PN>APW-EGLD110B</PN>
     <URL>https://www.alza.cz//alzaergo-stand-ld110-cerny-d6218691.htm</URL>
@@ -42123,7 +42123,7 @@
     <index>3829</index>
     <ID>AGDPCT486a_openbox</ID>
     <Title>AlzaGuard Matte TPU Case pro Google Pixel 10 5G černý</Title>
-    <Cena>97.0</Cena>
+    <Cena>98.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8596690008270</EAN>
     <PN>AGD-PCT486B</PN>
@@ -42200,7 +42200,7 @@
     <index>3836</index>
     <ID>APWCB1214k_openbox</ID>
     <Title>AlzaPower Core USB-C to USB-C 3.2 Gen 1 100W 1m bílý</Title>
-    <Cena>249.0</Cena>
+    <Cena>219.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691008654</EAN>
     <PN>APW-CBTC3010W</PN>
@@ -42552,7 +42552,7 @@
     <index>3868</index>
     <ID>AEY0855d_openbox</ID>
     <Title>AlzaErgo Arm S215S Space Saver USB stříbrný</Title>
-    <Cena>1599.0</Cena>
+    <Cena>1529.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691030846</EAN>
     <PN>APW-EGARSU215S</PN>
@@ -43135,7 +43135,7 @@
     <index>3921</index>
     <ID>AGDPCT430a_openbox</ID>
     <Title>AlzaGuard Matte TPU Case pro Xiaomi 14T Pro černé</Title>
-    <Cena>76.0</Cena>
+    <Cena>89.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691088847</EAN>
     <PN>AGD-PCT430B</PN>
@@ -43190,7 +43190,7 @@
     <index>3926</index>
     <ID>AGDECT001_openbox</ID>
     <Title>AlzaGuard E-reader Case for Ebook pro Amazon Kindle 2022 / 2024 vesmírně šedý</Title>
-    <Cena>259.0</Cena>
+    <Cena>249.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691090000</EAN>
     <PN>AGD-ECT001Y</PN>
@@ -43377,7 +43377,7 @@
     <index>3943</index>
     <ID>RPTGM003a_openbox</ID>
     <Title>Rapture COBRA černá</Title>
-    <Cena>689.0</Cena>
+    <Cena>629.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691034622</EAN>
     <PN>RPT-GMSC3325RB</PN>
@@ -43443,7 +43443,7 @@
     <index>3949</index>
     <ID>RPTGMK007a_openbox</ID>
     <Title>Rapture VICTOR HE, Kailh Mistral, černá - CZ/SK</Title>
-    <Cena>1669.0</Cena>
+    <Cena>1809.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8596690004722</EAN>
     <PN>RPT-GK75KMHE05B</PN>
@@ -43465,8 +43465,8 @@
     <index>3951</index>
     <ID>SPTcam010</ID>
     <Title>Campgo T8</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>599.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8595691073034</EAN>
     <PN>8595691073034</PN>
     <URL>https://www.alza.cz/sport//campgo-t8-d5872091.htm</URL>
@@ -43542,7 +43542,7 @@
     <index>3958</index>
     <ID>RPTGMK004k_openbox</ID>
     <Title>Rapture KILO V2 Wireless, Gateron G Pro 3.0 Red, černá - CZ/SK</Title>
-    <Cena>1289.0</Cena>
+    <Cena>1169.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691086607</EAN>
     <PN>RPT-GKW80GRDB</PN>
@@ -43993,7 +43993,7 @@
     <index>3999</index>
     <ID>AGDWCT010_newish</ID>
     <Title>AlzaGuard WaterProof Active Shield Case růžové</Title>
-    <Cena>269.0</Cena>
+    <Cena>249.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691077377</EAN>
     <PN>AGD-WCP0002P</PN>
@@ -44323,7 +44323,7 @@
     <index>4029</index>
     <ID>SPTstorm012c_openbox</ID>
     <Title>Stormred Část 3/3 - 457 cm - Pro</Title>
-    <Cena>1429.0</Cena>
+    <Cena>1369.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>SPTstorm012c</EAN>
     <PN>SPTstorm012c</PN>
@@ -44379,7 +44379,7 @@
     <ID>AEY0963</ID>
     <Title>AlzaErgo M230B Convey kloubový 32"-55"</Title>
     <Cena>1199.0</Cena>
-    <Dostupnost>on way</Dostupnost>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8594177956472</EAN>
     <PN>APW-EGTMM230B</PN>
     <URL>https://www.alza.cz//alzaergo-convey?dq=5628151</URL>
@@ -44433,7 +44433,7 @@
     <index>4039</index>
     <ID>APW_AD3J6J01B_openbox</ID>
     <Title>AlzaPower 3.5mm Jack (M) to 6.3mm Jack (F) Adapter černý</Title>
-    <Cena>94.0</Cena>
+    <Cena>95.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691099997</EAN>
     <PN>APW-AD3J6J01B</PN>
@@ -44532,8 +44532,8 @@
     <index>4048</index>
     <ID>AGDTGF263a_openbox</ID>
     <Title>AlzaGuard 2.5D Case Friendly Glass pro iPhone 16 Pro / 17 / 17 Pro</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>94.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8596690002643</EAN>
     <PN>AGD-TGF263P2</PN>
     <URL>https://www.alza.cz/alzaguard-2-5d-case-friendly-glass-pro-iphone-16-pro-17-17-pro-levne-d12926869.htm</URL>
@@ -44598,7 +44598,7 @@
     <index>4054</index>
     <ID>AGDPCL016a_openbox</ID>
     <Title>AlzaGuard Luxe Lanyard Case pro Samsung Galaxy A16 černý</Title>
-    <Cena>229.0</Cena>
+    <Cena>219.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8596690001134</EAN>
     <PN>AGD-PCL016B</PN>
@@ -44686,7 +44686,7 @@
     <index>4062</index>
     <ID>AGDTGW98_openbox</ID>
     <Title>AlzaGuard Flexglass pro Garmin Fenix 8 43mm</Title>
-    <Cena>109.0</Cena>
+    <Cena>129.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691098549</EAN>
     <PN>AGD-TGW98</PN>
@@ -44796,8 +44796,8 @@
     <index>4072</index>
     <ID>SGR_AF_P350B_openbox</ID>
     <Title>Siguro AF-P350B Vita Fry Plus</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>1409.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8595691090895</EAN>
     <PN>SGR-AF-P350B</PN>
     <URL>https://www.alza.cz/siguro-af-p350b-vita-fry-plus-levne-d13095426.htm</URL>
@@ -44906,7 +44906,7 @@
     <index>4082</index>
     <ID>AEY08040a1_newish</ID>
     <Title>AlzaErgo TTE-12 120×80 cm lamino černá</Title>
-    <Cena>1379.0</Cena>
+    <Cena>1359.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691034981</EAN>
     <PN>APW-EGTT20B</PN>
@@ -45038,7 +45038,7 @@
     <index>4094</index>
     <ID>AEY0915f_openbox</ID>
     <Title>AlzaErgo FXL10B Frame XL fixní 60"-100"</Title>
-    <Cena>1319.0</Cena>
+    <Cena>1329.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691030792</EAN>
     <PN>APW-EGTMFXL10B</PN>
@@ -45368,8 +45368,8 @@
     <index>4124</index>
     <ID>APWCB090q2_openbox</ID>
     <Title>AlzaPower Core USB-C to Lightning MFi 0.5m bílý</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>259.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8595691034141</EAN>
     <PN>APW-CBMFI94105W</PN>
     <URL>https://www.alza.cz/alzapower-core-usb-c-to-lightning-mfi-0-5m-bily-levne-d7294847.htm</URL>
@@ -45379,7 +45379,7 @@
     <index>4125</index>
     <ID>AEY0804a_openbox</ID>
     <Title>AlzaErgo TTE-01 140×80 cm bílý laminát</Title>
-    <Cena>1329.0</Cena>
+    <Cena>1319.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8594177957783</EAN>
     <PN>APW-EGTTS05L</PN>
@@ -45434,8 +45434,8 @@
     <index>4130</index>
     <ID>SGRDWGA02_openbox</ID>
     <Title>Siguro Termosklenice Capuccino, 170 ml, 2ks</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>199.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8595691011142</EAN>
     <PN>SGR-DWG170A2</PN>
     <URL>https://www.alza.cz/siguro-termosklenice-capuccino-170-ml-2ks-levne-d6834956.htm</URL>
@@ -45577,7 +45577,7 @@
     <index>4143</index>
     <ID>AGDBCF0084_openbox</ID>
     <Title>AlzaGuard Book Flip Case pro Honor Magic7 Pro černé</Title>
-    <Cena>229.0</Cena>
+    <Cena>219.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8596690004111</EAN>
     <PN>AGD-BCF457B</PN>
@@ -45643,7 +45643,7 @@
     <index>4149</index>
     <ID>AET3502_openbox</ID>
     <Title>Eternico Wireless Mechanical Keyboard MKS7010 - CZ/SK</Title>
-    <Cena>939.0</Cena>
+    <Cena>919.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691096965</EAN>
     <PN>AET-MKSB7010CSBRGB</PN>
@@ -45731,7 +45731,7 @@
     <index>4157</index>
     <ID>AEY0921_openbox</ID>
     <Title>AlzaErgo F310B Plate fixní 37"-70"</Title>
-    <Cena>469.0</Cena>
+    <Cena>459.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8594177956052</EAN>
     <PN>APW-EGTMF310B</PN>
@@ -45742,8 +45742,8 @@
     <index>4158</index>
     <ID>APWWC032_openbox</ID>
     <Title>AlzaPower WQT110 Wireless Qi2 Compatible with MagSafe Charger 15W černá</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>479.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8595691085570</EAN>
     <PN>APW-CCWQT110B</PN>
     <URL>https://www.alza.cz/alzapower-wqt110-wireless-qi2-compatible-with-magsafe-charger-15w-cerna-levne-d12942437.htm</URL>
@@ -45775,7 +45775,7 @@
     <index>4161</index>
     <ID>AGDTCF122_openbox</ID>
     <Title>AlzaGuard Protective Flip Cover pro Samsung Galaxy Tab S10 Ultra modrý</Title>
-    <Cena>199.0</Cena>
+    <Cena>219.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691094015</EAN>
     <PN>AGD-TCF78L</PN>
@@ -45874,7 +45874,7 @@
     <index>4170</index>
     <ID>AGDPCS426b_openbox</ID>
     <Title>AlzaGuard Premium Silicone Case pro Samsung Galaxy S24 FE světle modrý</Title>
-    <Cena>239.0</Cena>
+    <Cena>219.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8596690001547</EAN>
     <PN>AGD-PCS426L</PN>
@@ -45995,7 +45995,7 @@
     <index>4181</index>
     <ID>SGR_SK_U560W_openbox</ID>
     <Title>Siguro SK-U560W Pure Beauty Gentle Scrub</Title>
-    <Cena>889.0</Cena>
+    <Cena>899.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8596690004708</EAN>
     <PN>SGR-SK-U560W</PN>
@@ -46006,7 +46006,7 @@
     <index>4182</index>
     <ID>RPTLCD004_openbox</ID>
     <Title>27" Rapture VIDE 27IFF240</Title>
-    <Cena>3909.0</Cena>
+    <Cena>3769.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8596690011225</EAN>
     <PN>RPT-M27IFF240B</PN>
@@ -46116,7 +46116,7 @@
     <index>4192</index>
     <ID>AEY0755_openbox</ID>
     <Title>AlzaErgo PCM110 černý</Title>
-    <Cena>519.0</Cena>
+    <Cena>489.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691002157</EAN>
     <PN>APW-EGPCM110B</PN>
@@ -46369,7 +46369,7 @@
     <index>4215</index>
     <ID>AGDPCT503a_openbox</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Motorola Moto E15</Title>
-    <Cena>109.0</Cena>
+    <Cena>159.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8596690014240</EAN>
     <PN>AGD-PCT503Z</PN>
@@ -46457,7 +46457,7 @@
     <index>4223</index>
     <ID>AGDPCAM11_openbox</ID>
     <Title>AlzaGuard Ultra Slim Aramid Case Compatible with MagSafe pro iPhone 17 Pro Max</Title>
-    <Cena>1069.0</Cena>
+    <Cena>1039.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8596690005842</EAN>
     <PN>AGD-PCAM479B</PN>
@@ -46490,7 +46490,7 @@
     <index>4226</index>
     <ID>AGDTGF472_openbox</ID>
     <Title>AlzaGuard 2.5D Case Friendly Glass pro ASUS Zenfone 12 Ultra</Title>
-    <Cena>66.0</Cena>
+    <Cena>89.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8596690003886</EAN>
     <PN>AGD-TGF472P2</PN>
@@ -46512,7 +46512,7 @@
     <index>4228</index>
     <ID>APWCB818_openbox</ID>
     <Title>AlzaPower 90Core Audio 3.5mm Jack (M) to 3.5mm Jack 90° (M) 0.5m černý</Title>
-    <Cena>93.0</Cena>
+    <Cena>91.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691045383</EAN>
     <PN>APW-CBA3JM905B</PN>
@@ -46743,7 +46743,7 @@
     <index>4249</index>
     <ID>SPTcam032_openbox</ID>
     <Title>Campgo T12A</Title>
-    <Cena>959.0</Cena>
+    <Cena>949.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691075113</EAN>
     <PN>8595691075113</PN>
@@ -46787,7 +46787,7 @@
     <index>4253</index>
     <ID>APWCB713x3_openbox</ID>
     <Title>AlzaPower DisplayPort (M) to HDMI (F) FullHD 60Hz černý</Title>
-    <Cena>189.0</Cena>
+    <Cena>179.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691030471</EAN>
     <PN>APW-ADDPHD3B</PN>
@@ -46952,7 +46952,7 @@
     <index>4268</index>
     <ID>AGDACL016_openbox</ID>
     <Title>AlzaGuard Genuine Leather Case pro AirPods 3 (2021) černé</Title>
-    <Cena>359.0</Cena>
+    <Cena>369.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691081343</EAN>
     <PN>AGD-ACL7B</PN>
@@ -47051,7 +47051,7 @@
     <index>4277</index>
     <ID>AGDTGC497_newish</ID>
     <Title>AlzaGuard 2.5D Case Friendly Glass pro Samsung Galaxy S25 FE</Title>
-    <Cena>84.0</Cena>
+    <Cena>83.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8596690014981</EAN>
     <PN>AGD-TGC497</PN>
@@ -47084,7 +47084,7 @@
     <index>4280</index>
     <ID>SGR_IB_G350B_newish</ID>
     <Title>Siguro Rukávník Sleeve Master, černý</Title>
-    <Cena>349.0</Cena>
+    <Cena>339.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691044898</EAN>
     <PN>SGR-IB-G350B</PN>
@@ -47348,7 +47348,7 @@
     <index>4304</index>
     <ID>APWPB274</ID>
     <Title>AlzaPower WorkMate 20000mAh Power Delivery (100W) černo-šedá</Title>
-    <Cena>1290.0</Cena>
+    <Cena>1299.0</Cena>
     <Dostupnost>on way</Dostupnost>
     <EAN>8596690011089</EAN>
     <PN>APW-PBWM20PDB</PN>
@@ -47370,7 +47370,7 @@
     <index>4306</index>
     <ID>AET004250b_openbox</ID>
     <Title>Eternico Wired Office Mouse MDV350B silent</Title>
-    <Cena>289.0</Cena>
+    <Cena>269.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691061840</EAN>
     <PN>AET-MDV350B</PN>
@@ -47590,7 +47590,7 @@
     <index>4326</index>
     <ID>AGDPCT414a_openbox</ID>
     <Title>AlzaGuard Matte TPU Case pro iPhone 16 Pro Max černý</Title>
-    <Cena>93.0</Cena>
+    <Cena>92.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691083583</EAN>
     <PN>AGD-PCT414B</PN>
@@ -47623,7 +47623,7 @@
     <index>4329</index>
     <ID>AGDPCS426c_openbox</ID>
     <Title>AlzaGuard Premium Silicone Case pro Samsung Galaxy S24 FE žlutý</Title>
-    <Cena>209.0</Cena>
+    <Cena>219.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8596690001554</EAN>
     <PN>AGD-PCS426Y</PN>
@@ -47755,7 +47755,7 @@
     <index>4341</index>
     <ID>SPTstorm004a_closeout</ID>
     <Title>Stormred Část 1/3 - 427 cm - Classic</Title>
-    <Cena>489.0</Cena>
+    <Cena>439.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>SPTstorm004a</EAN>
     <PN>SPTstorm004a</PN>
@@ -47876,7 +47876,7 @@
     <index>4352</index>
     <ID>AGD_PCTM444Z_openbox</ID>
     <Title>AlzaGuard Crystal Clear TPU Case Compatible with Magsafe pro Xiaomi Redmi Note 14 5G</Title>
-    <Cena>139.0</Cena>
+    <Cena>129.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8596690015674</EAN>
     <PN>AGD-PCTM444Z</PN>
@@ -47953,7 +47953,7 @@
     <index>4359</index>
     <ID>APWBTE020_openbox</ID>
     <Title>AlzaPower Boost PRO ANC černá</Title>
-    <Cena>849.0</Cena>
+    <Cena>899.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691090215</EAN>
     <PN>APW-BTEB1B</PN>
@@ -47986,7 +47986,7 @@
     <index>4362</index>
     <ID>APWCB850_openbox</ID>
     <Title>AlzaPower 3.5mm Jack 4P-TRRS (M) to 2x 3.5mm Jack (F) 0.15m černý</Title>
-    <Cena>159.0</Cena>
+    <Cena>139.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691045437</EAN>
     <PN>APW-ADCBA4JM23JF0015B</PN>
@@ -48041,7 +48041,7 @@
     <index>4367</index>
     <ID>APWPH0630_openbox</ID>
     <Title>AlzaPower Holder ACC200 černý</Title>
-    <Cena>289.0</Cena>
+    <Cena>269.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8594177958995</EAN>
     <PN>APW-PHACCP09B</PN>
@@ -48272,8 +48272,8 @@
     <index>4388</index>
     <ID>APW_U22SP_14_openbox</ID>
     <Title>Eternico Sporty Universal Quick Release 22mm Solid Black and Bordo</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>129.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8595691048582</EAN>
     <PN>AET-U22SP-BlBo</PN>
     <URL>https://www.alza.cz/eternico-sporty-universal-quick-release-22mm-solid-black-and-bordo-levne-d7500226.htm</URL>
@@ -48383,7 +48383,7 @@
     <ID>SGR_AF_G350B</ID>
     <Title>Siguro AF-G350B Easy Fry Plus</Title>
     <Cena>1299.0</Cena>
-    <Dostupnost>on way</Dostupnost>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8595691090901</EAN>
     <PN>SGR-AF-G350B</PN>
     <URL>https://www.alza.cz/siguro-af-g350b-easy-fry-plus-d12723867.htm</URL>
@@ -48492,8 +48492,8 @@
     <index>4408</index>
     <ID>SGR_AD_E211DW_openbox</ID>
     <Title>Siguro Marsh Fritillary E211DW</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>379.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8595691060546</EAN>
     <PN>SGR-AD-E211DW</PN>
     <URL>https://www.alza.cz/siguro-marsh-fritillary-e211dw-levne-d8569009.htm</URL>
@@ -48624,7 +48624,7 @@
     <index>4420</index>
     <ID>AGDGLCM12c_openbox</ID>
     <Title>AlzaGuard Genuine Leather Case with Magsafe pro iPhone 16 Pro Max modrý</Title>
-    <Cena>439.0</Cena>
+    <Cena>429.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691092226</EAN>
     <PN>AGD-GLCM12L</PN>
@@ -48767,8 +48767,8 @@
     <index>4433</index>
     <ID>AGDAKL003c</ID>
     <Title>AlzaGuard Genuine Leather Keychain pro Airtag - modrá</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>249.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8595691092127</EAN>
     <PN>AGD-AKL003L</PN>
     <URL>https://www.alza.cz/alzaguard-genuine-leather-keychain-pro-airtag-modra-d12674810.htm</URL>
@@ -48888,7 +48888,7 @@
     <index>4444</index>
     <ID>AGDPCT0325_newish</ID>
     <Title>AlzaGuard Crystal Clear TPU case pro iPhone 15 Pro</Title>
-    <Cena>89.0</Cena>
+    <Cena>88.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691062649</EAN>
     <PN>AGD-PCT0325Z</PN>
@@ -48943,7 +48943,7 @@
     <index>4449</index>
     <ID>APWCB710x1_openbox</ID>
     <Title>AlzaPower Core Mini DisplayPort (M) to HDMI (F) 4K 30Hz černý</Title>
-    <Cena>249.0</Cena>
+    <Cena>219.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691030525</EAN>
     <PN>APW-ADMDPHD1B</PN>
@@ -49042,7 +49042,7 @@
     <index>4458</index>
     <ID>AEY0882_openbox</ID>
     <Title>AlzaErgo Arm SE15 Pylon</Title>
-    <Cena>849.0</Cena>
+    <Cena>819.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691064124</EAN>
     <PN>APW-EGARSP15B</PN>
@@ -49053,8 +49053,8 @@
     <index>4459</index>
     <ID>BUNAEY020402ba</ID>
     <Title>AlzaPower A110C Fast Charge 20W bílá + Core USB-C 2.0 60W 1m bílý</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>299.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN/>
     <PN>APW-CCA110-CBTC1010W</PN>
     <URL>https://www.alza.cz/alzapower-a110c-fast-charge-20w-bila-core-usb-c-2-0-60w-1m-bily-d12779524.htm</URL>
@@ -49097,8 +49097,8 @@
     <index>4463</index>
     <ID>AEY0951_openbox</ID>
     <Title>AlzaErgo M130B Nexus kloubový 13"-27"</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>309.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8594177956359</EAN>
     <PN>APW-EGTMM130B</PN>
     <URL>https://www.alza.cz/alzaergo-m130b-nexus-kloubovy-13-27-levne-d5748085.htm</URL>
@@ -49185,8 +49185,8 @@
     <index>4471</index>
     <ID>AETAW152</ID>
     <Title>Eternico Elegance Metal pro Universal Quick Release 22mm black</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>499.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8595691082531</EAN>
     <PN>AET-QR22MTL-bl</PN>
     <URL>https://www.alza.cz/eternico-elegance-metal-pro-universal-quick-release-22mm-black-d12275787.htm</URL>
@@ -49229,7 +49229,7 @@
     <index>4475</index>
     <ID>AGDPCS0008_openbox</ID>
     <Title>AlzaGuard Shockproof Case pro iPhone 5 / 5S / SE</Title>
-    <Cena>83.0</Cena>
+    <Cena>82.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691016383</EAN>
     <PN>AGD-PCTS0008Z</PN>
@@ -49372,7 +49372,7 @@
     <index>4488</index>
     <ID>AET2370a_openbox</ID>
     <Title>Eternico Wireless Keyboard KS2370 stříbrnočerná - CZ/SK</Title>
-    <Cena>439.0</Cena>
+    <Cena>399.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691090123</EAN>
     <PN>AET-KS2370CSSBN</PN>
@@ -49526,7 +49526,7 @@
     <index>4502</index>
     <ID>APWCB133_openbox</ID>
     <Title>AlzaPower AluCore DisplayPort 1.4 8K 3m černý</Title>
-    <Cena>339.0</Cena>
+    <Cena>349.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691045819</EAN>
     <PN>APW-CBDP203</PN>
@@ -49581,7 +49581,7 @@
     <index>4507</index>
     <ID>SGR_KM_F20XX01_openbox</ID>
     <Title>Siguro struhadlo pro kuchyňské roboty</Title>
-    <Cena>679.0</Cena>
+    <Cena>899.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691088007</EAN>
     <PN>SGR-KM-F20XX01</PN>
@@ -49988,7 +49988,7 @@
     <index>4544</index>
     <ID>AGDPCT76b_openbox</ID>
     <Title>AlzaGuard Matte Case Compatible with Magsafe pro iPhone 16 Pro Max tmavě fialový</Title>
-    <Cena>199.0</Cena>
+    <Cena>189.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691092080</EAN>
     <PN>AGD-PCMM76DU</PN>
@@ -50109,8 +50109,8 @@
     <index>4555</index>
     <ID>AEY0092_openbox</ID>
     <Title>AlzaPower USB Battery Charger AP450B</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>939.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8594177957967</EAN>
     <PN>APW-CHAPU450B</PN>
     <URL>https://www.alza.cz/alzapower-usb-battery-charger-ap450b-levne-d6276823.htm</URL>
@@ -50384,7 +50384,7 @@
     <index>4580</index>
     <ID>APWHC53_openbox</ID>
     <Title>AlzaPower Metal USB-C Dock Station 8v1 Dual Screen C8 vesmírně šedý</Title>
-    <Cena>1749.0</Cena>
+    <Cena>1609.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691023732</EAN>
     <PN>APW-HCA82SY</PN>
@@ -50406,8 +50406,8 @@
     <index>4582</index>
     <ID>APWLED-0210_openbox</ID>
     <Title>AlzaPower LML-120 Monitor Light Bar 5W, 51cm, černé</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>1259.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8595691082180</EAN>
     <PN>APW-LML-120B</PN>
     <URL>https://www.alza.cz/alzapower-lml-120-monitor-light-bar-5w-51cm-cerne-levne-d12569419.htm</URL>
@@ -50615,7 +50615,7 @@
     <index>4601</index>
     <ID>AGDPCT0444_openbox</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Xiaomi Redmi Note 14 5G</Title>
-    <Cena>70.0</Cena>
+    <Cena>71.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691096026</EAN>
     <PN>AGD-PCT444Z</PN>
@@ -50626,8 +50626,8 @@
     <index>4602</index>
     <ID>SGR_AF_R550DY_openbox</ID>
     <Title>Siguro AF-R550DY Air Fry Deluxe</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>2369.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8596690011652</EAN>
     <PN>SGR-AF-R550DY</PN>
     <URL>https://www.alza.cz/siguro-af-r550dy-air-fry-deluxe-levne-d13195483.htm</URL>
@@ -50769,7 +50769,7 @@
     <index>4615</index>
     <ID>AGDPCT486_openbox</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Google Pixel 10 5G</Title>
-    <Cena>94.0</Cena>
+    <Cena>95.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8596690007624</EAN>
     <PN>AGD-PCT486Z</PN>
@@ -50780,7 +50780,7 @@
     <index>4616</index>
     <ID>SGR_KM_F20XX03_newish</ID>
     <Title>Siguro mlýnek na maso pro kuchyňské roboty</Title>
-    <Cena>599.0</Cena>
+    <Cena>849.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691088021</EAN>
     <PN>SGR-KM-F20XX03</PN>
@@ -50912,8 +50912,8 @@
     <index>4628</index>
     <ID>BJ_MX_240W01</ID>
     <Title>Bery Jones Vánoční pralinky mléčná čokoláda s lískooříškovým krémem a cereáliemi v dóze 190g</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>299.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8596690013786</EAN>
     <PN>BJ-MX-240W01</PN>
     <URL>https://www.alza.cz/sport/bery-jones-vanocni-pralinky-mlecna-cokolada-s-liskooriskovym-kremem-a-cerealiemi-v-plechove-doze-190-d13038941.htm</URL>
@@ -50934,8 +50934,8 @@
     <index>4630</index>
     <ID>APWHC410_openbox</ID>
     <Title>AlzaPower Metal USB-C Dock Station 6v1 with 8K vesmírně šedý</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>1379.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8595691045789</EAN>
     <PN>APW-HCA68KY</PN>
     <URL>https://www.alza.cz/alzapower-metal-usb-c-dock-station-6v1-with-8k-vesmirne-sedy-levne-d7547968.htm</URL>
@@ -51077,8 +51077,8 @@
     <index>4643</index>
     <ID>AET4010a_openbox</ID>
     <Title>Eternico Essential Wireless set KS4010 černý - CZ/SK</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>369.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8595691047523</EAN>
     <PN>AET-KS4010CSBN</PN>
     <URL>https://www.alza.cz/eternico-essential-wireless-set-ks4010-cerny-cz-sk-levne-d7594664.htm</URL>
@@ -51352,7 +51352,7 @@
     <index>4668</index>
     <ID>AGDPCT362a_openbox</ID>
     <Title>AlzaGuard Matte TPU Case pro Samsung Galaxy A15 5G černý</Title>
-    <Cena>72.0</Cena>
+    <Cena>67.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691070149</EAN>
     <PN>AGD-PCT362B</PN>
@@ -51374,7 +51374,7 @@
     <index>4670</index>
     <ID>AEY0810b_openbox</ID>
     <Title>AlzaErgo Arm AR1.1 černý</Title>
-    <Cena>1269.0</Cena>
+    <Cena>1289.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691004212</EAN>
     <PN>APW-EGARS01B</PN>
@@ -51429,7 +51429,7 @@
     <index>4675</index>
     <ID>APWCB800_openbox</ID>
     <Title>AlzaPower Core Audio 3.5mm Jack (M) to 3.5mm Jack (M) 1m černý</Title>
-    <Cena>77.0</Cena>
+    <Cena>78.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691044508</EAN>
     <PN>APW-CBA3JM11B</PN>
@@ -51484,8 +51484,8 @@
     <index>4680</index>
     <ID>SPTprot36_openbox</ID>
     <Title>Campgo Pan 0,4 l Alu</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>189.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8595691073690</EAN>
     <PN>8595691073690</PN>
     <URL>https://www.alza.cz/sport/campgo-pan-0-4-l-alu-levne-d7742188.htm</URL>
@@ -51605,7 +51605,7 @@
     <index>4691</index>
     <ID>SGR_RC_X007_openbox</ID>
     <Title>Siguro RC-X007 Vnitřní kryt a těsnění pro rýžovar SGR-RC-R70x</Title>
-    <Cena>189.0</Cena>
+    <Cena>179.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691057775</EAN>
     <PN>SGR-RC-X007</PN>
@@ -51715,7 +51715,7 @@
     <index>4701</index>
     <ID>APWCBP5100_openbox</ID>
     <Title>AlzaPower Patch CAT5E UTP 0.25m šedý</Title>
-    <Cena>55.0</Cena>
+    <Cena>54.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691024104</EAN>
     <PN>APW-CBP5EU0002Y</PN>
@@ -51935,8 +51935,8 @@
     <index>4721</index>
     <ID>APWCB119n_openbox</ID>
     <Title>AlzaPower Core Charge USB-A to USB-C 2.0 2m černý</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>139.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8595691002706</EAN>
     <PN>APW-CBTC2220B</PN>
     <URL>https://www.alza.cz/alzapower-core-charge-usb-a-to-usb-c-2-0-2m-cerny-levne-d6228122.htm</URL>
@@ -52023,7 +52023,7 @@
     <index>4729</index>
     <ID>RPTGMK009a_openbox</ID>
     <Title>Rapture SIERRA Wireless, Kailh White Rain LP, černá - CZ/SK</Title>
-    <Cena>1759.0</Cena>
+    <Cena>1619.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8596690005538</EAN>
     <PN>RPT-GKW65KWRLP07B</PN>
@@ -52045,7 +52045,7 @@
     <index>4731</index>
     <ID>AGDPCMM27c_openbox</ID>
     <Title>AlzaGuard Matte Case Compatible with MagSafe pro iPhone 12 / 12 Pro tmavě modrý</Title>
-    <Cena>349.0</Cena>
+    <Cena>329.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691064513</EAN>
     <PN>AGD-PCMM27L</PN>
@@ -52122,7 +52122,7 @@
     <index>4738</index>
     <ID>AGDPCT485_openbox</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Xiaomi 15 Ultra 5G</Title>
-    <Cena>95.0</Cena>
+    <Cena>94.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8596690007617</EAN>
     <PN>AGD-PCT485Z</PN>
@@ -52155,7 +52155,7 @@
     <index>4741</index>
     <ID>AGDTCT73_newish</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Samsung Galaxy Tab S9+ / S10+</Title>
-    <Cena>83.0</Cena>
+    <Cena>79.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691093889</EAN>
     <PN>AGD-TCT82Z</PN>
@@ -52254,8 +52254,8 @@
     <index>4750</index>
     <ID>STR_PL_CS01_openbox</ID>
     <Title>Stormred Balanční polštářek černý</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>219.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8595691094664</EAN>
     <PN>STR-PL-CS01</PN>
     <URL>https://www.alza.cz/sport/stormred-balancni-polstarek-cerny-levne-d13168676.htm</URL>
@@ -52782,7 +52782,7 @@
     <index>4798</index>
     <ID>SGR_VT_K910B_closeout</ID>
     <Title>Siguro VT-K910B TURBOVac Star BLDC</Title>
-    <Cena>3909.0</Cena>
+    <Cena>3819.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691092905</EAN>
     <PN>SGR-VT-K910B</PN>
@@ -52980,7 +52980,7 @@
     <index>4816</index>
     <ID>AEY0954_openbox</ID>
     <Title>AlzaErgo M145B Keyhole kloubový 13"-27"</Title>
-    <Cena>469.0</Cena>
+    <Cena>449.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8594177956380</EAN>
     <PN>APW-EGTMM145B</PN>
@@ -53057,7 +53057,7 @@
     <index>4823</index>
     <ID>AET2360a_openbox</ID>
     <Title>Eternico Wired Keyboard KD2360 CZ/SK</Title>
-    <Cena>279.0</Cena>
+    <Cena>309.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691086393</EAN>
     <PN>AET-KD2360CSYN</PN>
@@ -53091,7 +53091,7 @@
     <ID>SGR_HB_I251B</ID>
     <Title>Siguro Induction Cooker Pro I251B</Title>
     <Cena>4299.0</Cena>
-    <Dostupnost>on way</Dostupnost>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8596690001943</EAN>
     <PN>SGR-HB-I251B</PN>
     <URL>https://www.alza.cz/siguro-hb-i251b-induction-cooker-pro-d12982558.htm</URL>
@@ -53310,7 +53310,7 @@
     <index>4846</index>
     <ID>SGR_VT_H311B_newish</ID>
     <Title>Siguro VT-H311B TURBOVac Light BLDC Compact</Title>
-    <Cena>3319.0</Cena>
+    <Cena>2959.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8596690000250</EAN>
     <PN>SGR-VT-H311B</PN>
@@ -53398,7 +53398,7 @@
     <index>4854</index>
     <ID>AGDPCT0216_openbox</ID>
     <Title>AlzaGuard Crystal Clear TPU case pro Samsung Galaxy A53 / A53 5G</Title>
-    <Cena>93.0</Cena>
+    <Cena>92.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691042108</EAN>
     <PN>AGD-PCT0216Z</PN>
@@ -53761,7 +53761,7 @@
     <index>4887</index>
     <ID>SGR_VT_H311B_closeout</ID>
     <Title>Siguro VT-H311B TURBOVac Light BLDC Compact</Title>
-    <Cena>3279.0</Cena>
+    <Cena>2919.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8596690000250</EAN>
     <PN>SGR-VT-H311B</PN>
@@ -53772,7 +53772,7 @@
     <index>4888</index>
     <ID>AGDGLCM17b_openbox</ID>
     <Title>AlzaGuard Genuine Leather Case with Magsafe pro Samsung Galaxy S25+ sedlově hnědý</Title>
-    <Cena>589.0</Cena>
+    <Cena>599.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691092332</EAN>
     <PN>AGD-GLCM17C</PN>
@@ -53783,7 +53783,7 @@
     <index>4889</index>
     <ID>SGR_AC_C140W_newish</ID>
     <Title>Siguro AC-C140W Cool 9</Title>
-    <Cena>2959.0</Cena>
+    <Cena>3119.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691055740</EAN>
     <PN>SGR-AC-C140W</PN>
@@ -53860,7 +53860,7 @@
     <index>4896</index>
     <ID>SGR_AF_R550B_openbox</ID>
     <Title>Siguro AF-R550 Air Fry Deluxe</Title>
-    <Cena>1839.0</Cena>
+    <Cena>1819.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691060959</EAN>
     <PN>SGR-AF-R550B</PN>
@@ -53871,8 +53871,8 @@
     <index>4897</index>
     <ID>APWPB281</ID>
     <Title>AlzaPower Vision 10000mAh Power Delivery (30W) stříbrná</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>799.0</Cena>
+    <Dostupnost>on way</Dostupnost>
     <EAN>8596690002018</EAN>
     <PN>APW-PBVI10MPDG</PN>
     <URL>https://www.alza.cz/alzapower-vision-10000mah-power-delivery-30w-stribrna-d12907572.htm</URL>
@@ -53904,7 +53904,7 @@
     <index>4900</index>
     <ID>SGR_DH_C300W_openbox</ID>
     <Title>Siguro Otter C300W 12l</Title>
-    <Cena>3919.0</Cena>
+    <Cena>3599.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691031645</EAN>
     <PN>SGR-DH-C300W</PN>
@@ -53970,7 +53970,7 @@
     <index>4906</index>
     <ID>SGR_AC_A160W_openbox</ID>
     <Title>Siguro AC-A160W Cool 7</Title>
-    <Cena>6299.0</Cena>
+    <Cena>6369.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691055733</EAN>
     <PN>SGR-AC-A160W</PN>
@@ -54025,8 +54025,8 @@
     <index>4911</index>
     <ID>AGDPCMM476c_openbox</ID>
     <Title>AlzaGuard Matte Case Compatible with Magsafe pro iPhone 17 levandulově růžový</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>389.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8596690006641</EAN>
     <PN>AGD-PCMM476LP</PN>
     <URL>https://www.alza.cz/alzaguard-matte-case-compatible-with-magsafe-pro-iphone-17-levandulove-ruzovy-levne-d13156910.htm</URL>
@@ -54245,7 +54245,7 @@
     <index>4931</index>
     <ID>APWHA22_openbox</ID>
     <Title>AlzaPower Metal USB hub USB-A (M) na 4× USB-A 3.0 (F) vesmírně šedý</Title>
-    <Cena>329.0</Cena>
+    <Cena>339.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691082807</EAN>
     <PN>APW-HAA4A1Yv2</PN>
@@ -54256,8 +54256,8 @@
     <index>4932</index>
     <ID>AGDPCT0323_openbox</ID>
     <Title>AlzaGuard Crystal Clear TPU case pro iPhone 15</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>139.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8595691062625</EAN>
     <PN>AGD-PCT0323Z</PN>
     <URL>https://www.alza.cz/alzaguard-crystal-clear-tpu-case-pro-iphone-15-levne-d7962611.htm</URL>
@@ -54520,7 +54520,7 @@
     <index>4956</index>
     <ID>SGR_EM_K420SS_closeout</ID>
     <Title>Siguro EM-K420SS Barista</Title>
-    <Cena>2879.0</Cena>
+    <Cena>3039.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691014860</EAN>
     <PN>SGR-EM-K420SU</PN>
@@ -54575,7 +54575,7 @@
     <index>4961</index>
     <ID>SGR_EB_M450D_openbox</ID>
     <Title>Siguro Cosy Warmth M450D</Title>
-    <Cena>1269.0</Cena>
+    <Cena>1179.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8596690006061</EAN>
     <PN>SGR-EB-M450D</PN>
@@ -54652,8 +54652,8 @@
     <index>4968</index>
     <ID>APWCBP5109</ID>
     <Title>AlzaPower Patch CAT5E UTP 20m šedý</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>229.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8595691024197</EAN>
     <PN>APW-CBP5EU0200Y</PN>
     <URL>https://www.alza.cz//alzapower-patch-cat5e-utp?dq=6592122</URL>
@@ -54894,7 +54894,7 @@
     <index>4990</index>
     <ID>APW_UN20AY_29_openbox</ID>
     <Title>Eternico Airy Universal Quick Release 20mm Elephant Gray and White edge</Title>
-    <Cena>229.0</Cena>
+    <Cena>239.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691049817</EAN>
     <PN>AET-UN20AY-ElGrW</PN>
@@ -54949,8 +54949,8 @@
     <index>4995</index>
     <ID>AGDPCT457_newish</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro HONOR Magic7 Pro</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>39.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8596690000601</EAN>
     <PN>AGD-PCT457Z</PN>
     <URL>https://www.alza.cz/alzaguard-crystal-clear-tpu-case-pro-honor-magic7-pro-sleva-d12922389.htm</URL>
@@ -55136,7 +55136,7 @@
     <index>5012</index>
     <ID>AGDPCT0442_openbox</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Samsung Galaxy S25+</Title>
-    <Cena>83.0</Cena>
+    <Cena>80.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691096002</EAN>
     <PN>AGD-PCT442Z</PN>
@@ -55169,7 +55169,7 @@
     <index>5015</index>
     <ID>ETK800Fa_openbox</ID>
     <Title>Eternico K800 Wireless šedá - CZ/SK</Title>
-    <Cena>1489.0</Cena>
+    <Cena>1439.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8596690010730</EAN>
     <PN>ET-K800FWRCSY</PN>
@@ -55191,8 +55191,8 @@
     <index>5017</index>
     <ID>AGDPCT73d_openbox</ID>
     <Title>AlzaGuard Matte Case Compatible with Magsafe pro iPhone 16 Pro růžový</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>309.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8595691092004</EAN>
     <PN>AGD-PCMM74P</PN>
     <URL>https://www.alza.cz/alzaguard-matte-case-compatible-with-magsafe-pro-iphone-16-pro-ruzovy-levne-d12770414.htm</URL>
@@ -55202,7 +55202,7 @@
     <index>5018</index>
     <ID>SGR_VT_H311B_openbox</ID>
     <Title>Siguro VT-H311B TURBOVac Light BLDC Compact</Title>
-    <Cena>3919.0</Cena>
+    <Cena>3959.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8596690000250</EAN>
     <PN>SGR-VT-H311B</PN>
@@ -55389,7 +55389,7 @@
     <index>5035</index>
     <ID>AEY0833_openbox</ID>
     <Title>AlzaErgo Arm S50B Heavy Duty</Title>
-    <Cena>2759.0</Cena>
+    <Cena>2819.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8594177957639</EAN>
     <PN>APW-EGARS50B</PN>
@@ -55433,7 +55433,7 @@
     <index>5039</index>
     <ID>AEY0973k_openbox</ID>
     <Title>AlzaErgo MXL620B Advanced XL kloubový 43"-100"</Title>
-    <Cena>3289.0</Cena>
+    <Cena>3249.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691030815</EAN>
     <PN>APW-EGTMMXL620B</PN>
@@ -55543,7 +55543,7 @@
     <index>5049</index>
     <ID>APW_QF26AL_1_openbox</ID>
     <Title>Eternico Alpine Loop for Garmin QuickFit 26mm Solid Black</Title>
-    <Cena>379.0</Cena>
+    <Cena>369.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691077766</EAN>
     <PN>AET-QF26AL-SoBl</PN>
@@ -55708,8 +55708,8 @@
     <index>5064</index>
     <ID>SGR_EB_H251D_openbox</ID>
     <Title>Siguro Cosy Hug H250D</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>1419.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8595691082890</EAN>
     <PN>SGR-EB-H251D</PN>
     <URL>https://www.alza.cz/siguro-cosy-hug-h250d-levne-d12681311.htm</URL>
@@ -55939,8 +55939,8 @@
     <index>5085</index>
     <ID>AGDPCMM37a_openbox</ID>
     <Title>AlzaGuard Matte Case Compatible with MagSafe pro iPhone 13 černý</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>299.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8595691064612</EAN>
     <PN>AGD-PCMM37B</PN>
     <URL>https://www.alza.cz/alzaguard-matte-case-compatible-with-magsafe-pro-iphone-13-cerny-levne-d7982521.htm</URL>
@@ -56016,7 +56016,7 @@
     <index>5092</index>
     <ID>AGDPCT471_openbox</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro HONOR X8c čirý</Title>
-    <Cena>76.0</Cena>
+    <Cena>89.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8596690002209</EAN>
     <PN>AGD-PCT471Z</PN>
@@ -56082,8 +56082,8 @@
     <index>5098</index>
     <ID>APWCB125a1a1_openbox</ID>
     <Title>AlzaPower Core USB-A (M) to USB-A (F) 2.0, 0.5m černý</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>93.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8595691035063</EAN>
     <PN>APW-CBAMAF205B</PN>
     <URL>https://www.alza.cz/alzapower-core-usb-a-m-to-usb-a-f-2-0-0-5m-cerny-levne-d7626895.htm</URL>
@@ -56434,8 +56434,8 @@
     <index>5130</index>
     <ID>AGDMWFC9</ID>
     <Title>AlzaGuard MagWallet 2in1 Case Compatible with Magsafe pro iPhone 16 černý</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>399.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8595691095876</EAN>
     <PN>AGD-MWFC9B</PN>
     <URL>https://www.alza.cz/alzaguard-magwallet-2in1-case-compatible-with-magsafe-pro-iphone-16-cerny-d12668363.htm</URL>
@@ -56445,7 +56445,7 @@
     <index>5131</index>
     <ID>AEY0965_openbox</ID>
     <Title>AlzaErgo M310B Convey kloubový 37"-70"</Title>
-    <Cena>1369.0</Cena>
+    <Cena>1389.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8594177956496</EAN>
     <PN>APW-EGTMM310B</PN>
@@ -56610,7 +56610,7 @@
     <index>5146</index>
     <ID>SGR_HD_T320B_newish</ID>
     <Title>Siguro Teleskopic Hood T320B</Title>
-    <Cena>2119.0</Cena>
+    <Cena>2099.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8596690002322</EAN>
     <PN>SGR-HD-T320B</PN>
@@ -56644,7 +56644,7 @@
     <ID>APWBTS060b</ID>
     <Title>AlzaPower Quest 10, černý</Title>
     <Cena>749.0</Cena>
-    <Dostupnost>on way</Dostupnost>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8595691099591</EAN>
     <PN>APW-BTSQS1B</PN>
     <URL>https://www.alza.cz/alzapower-quest-10-cerny-d12780991.htm</URL>
@@ -56742,7 +56742,7 @@
     <index>5158</index>
     <ID>SGR_RV_G570B_closeout</ID>
     <Title>Siguro RV-G57 Cleanbot CZ Black</Title>
-    <Cena>3599.0</Cena>
+    <Cena>3539.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691014594</EAN>
     <PN>SGR-RV-G570B</PN>
@@ -56753,7 +56753,7 @@
     <index>5159</index>
     <ID>AGDPCT0363_openbox</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Samsung Galaxy A25 5G</Title>
-    <Cena>83.0</Cena>
+    <Cena>89.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691069747</EAN>
     <PN>AGD-PCT363Z</PN>
@@ -57006,7 +57006,7 @@
     <index>5182</index>
     <ID>SGR_IM_F560SU_openbox</ID>
     <Title>Siguro IM-F560SU Ice King</Title>
-    <Cena>4349.0</Cena>
+    <Cena>4649.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691069129</EAN>
     <PN>SGR-IM-F560SU</PN>
@@ -57017,8 +57017,8 @@
     <index>5183</index>
     <ID>SGR_AD_V300W</ID>
     <Title>Siguro Volcano V300W</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>699.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8595691086577</EAN>
     <PN>SGR-AD-V300W</PN>
     <URL>https://www.alza.cz/siguro-ad-v300w-volcano-d12530685.htm</URL>
@@ -57072,7 +57072,7 @@
     <index>5188</index>
     <ID>AET004401a_openbox</ID>
     <Title>Eternico MV400 Vertical Wireless černá Dual-mode</Title>
-    <Cena>589.0</Cena>
+    <Cena>539.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691090147</EAN>
     <PN>AET-MVS400V2B</PN>
@@ -57127,8 +57127,8 @@
     <index>5193</index>
     <ID>STR_KB_10</ID>
     <Title>Stormred Kettlebell 10 kg</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>549.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8595691094480</EAN>
     <PN>STR-KB-10</PN>
     <URL>https://www.alza.cz/sport/stormred-kettlebell-10-kg-d12648377.htm</URL>
@@ -57182,8 +57182,8 @@
     <index>5198</index>
     <ID>AEY0741</ID>
     <Title>AlzaErgo Stand LD120 černý</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>899.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8595691020571</EAN>
     <PN>APW-EGLD120B</PN>
     <URL>https://www.alza.cz//alzaergo-stand-ld120-cerny-d6218692.htm</URL>
@@ -57402,7 +57402,7 @@
     <index>5218</index>
     <ID>ETM401b_openbox</ID>
     <Title>Eternico M401 Vertical Wireless černá Left-Handed</Title>
-    <Cena>379.0</Cena>
+    <Cena>369.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8596690013137</EAN>
     <PN>ET-M401VWLB</PN>
@@ -57413,7 +57413,7 @@
     <index>5219</index>
     <ID>SGR_AP_K500W_newish</ID>
     <Title>Siguro Air Master WiFi K500W</Title>
-    <Cena>3439.0</Cena>
+    <Cena>3399.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691031195</EAN>
     <PN>SGR-AP-K500W</PN>
@@ -57479,7 +57479,7 @@
     <index>5225</index>
     <ID>AET004850a_openbox</ID>
     <Title>Eternico MVS490 Wireless Vertical Mouse černá Right-Handed</Title>
-    <Cena>439.0</Cena>
+    <Cena>419.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691068870</EAN>
     <PN>AET-MVS490B</PN>
@@ -57545,7 +57545,7 @@
     <index>5231</index>
     <ID>APWCB731m_openbox</ID>
     <Title>AlzaPower FlexCore USB-C (M) to 3,5mm Jack (F) černý</Title>
-    <Cena>339.0</Cena>
+    <Cena>329.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691031119</EAN>
     <PN>APW-ADTC3J10B</PN>
@@ -57600,7 +57600,7 @@
     <index>5236</index>
     <ID>APWCB124b1_openbox</ID>
     <Title>AlzaPower AluCore USB-C to USB-C 3.2 Gen 2 100W 1m černý</Title>
-    <Cena>319.0</Cena>
+    <Cena>329.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691061116</EAN>
     <PN>APW-CBTC3210AB</PN>
@@ -57941,7 +57941,7 @@
     <index>5267</index>
     <ID>AGDPCT447c_openbox</ID>
     <Title>AlzaGuard Matte TPU Case pro Xiaomi 15 modrý</Title>
-    <Cena>97.0</Cena>
+    <Cena>98.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691096866</EAN>
     <PN>AGD-PCT447L</PN>
@@ -58128,8 +58128,8 @@
     <index>5284</index>
     <ID>APWPB162a1_openbox</ID>
     <Title>AlzaPower Onyx Gen2 5000mAh (12W) bílá</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>299.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8596690000083</EAN>
     <PN>APW-PBO05PDW</PN>
     <URL>https://www.alza.cz/alzapower-onyx-gen2-5000mah-12w-bila-levne-d13117720.htm</URL>
@@ -58524,7 +58524,7 @@
     <index>5320</index>
     <ID>SGR_MF_M620SS_newish</ID>
     <Title>Siguro MF-M620SS Coffee Time Max, ILAG®</Title>
-    <Cena>999.0</Cena>
+    <Cena>1019.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691017793</EAN>
     <PN>SGR-MF-M620SS</PN>
@@ -58590,7 +58590,7 @@
     <index>5326</index>
     <ID>APWSDCE105b_openbox</ID>
     <Title>AlzaPower External Sound Card X250 matná černá</Title>
-    <Cena>249.0</Cena>
+    <Cena>219.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8594177958865</EAN>
     <PN>APW-SDCE250A</PN>
@@ -58601,7 +58601,7 @@
     <index>5327</index>
     <ID>AGDTCT95_openbox</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro OnePlus Pad 2</Title>
-    <Cena>75.0</Cena>
+    <Cena>74.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8596690008997</EAN>
     <PN>AGD-TCT92Z</PN>
@@ -58667,7 +58667,7 @@
     <index>5333</index>
     <ID>SGR_FN_P400W_openbox</ID>
     <Title>Siguro Lumi P400W s lampou</Title>
-    <Cena>2339.0</Cena>
+    <Cena>2309.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691097344</EAN>
     <PN>SGR-FN-P400W</PN>
@@ -58700,7 +58700,7 @@
     <index>5336</index>
     <ID>AGDPCT480_openbox</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Samsung Galaxy S25 Edge</Title>
-    <Cena>92.0</Cena>
+    <Cena>89.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8596690007563</EAN>
     <PN>AGD-PCT480Z</PN>
@@ -58733,7 +58733,7 @@
     <index>5339</index>
     <ID>SGR_AC_I160W_newish</ID>
     <Title>Siguro AC-I160W Breeze 16</Title>
-    <Cena>6999.0</Cena>
+    <Cena>6859.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691055757</EAN>
     <PN>SGR-AC-I160W</PN>
@@ -58755,8 +58755,8 @@
     <index>5341</index>
     <ID>AGDTCT106</ID>
     <Title>AlzaGuard Crystal Clear TPU Case pro Lenovo Idea Tab 11"</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>299.0</Cena>
+    <Dostupnost>on way</Dostupnost>
     <EAN>8596690014776</EAN>
     <PN>AGD-TCT106Z</PN>
     <URL>https://www.alza.cz/alzaguard-crystal-clear-tpu-case-pro-lenovo-idea-tab-11-d13053331.htm</URL>
@@ -58876,7 +58876,7 @@
     <index>5352</index>
     <ID>SGR_FN_P450W_openbox</ID>
     <Title>Siguro AirSphere P450W</Title>
-    <Cena>1259.0</Cena>
+    <Cena>1319.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691097481</EAN>
     <PN>SGR-FN-P450W</PN>
@@ -59074,7 +59074,7 @@
     <index>5370</index>
     <ID>SGR_HR_S680Y_openbox</ID>
     <Title>Siguro Smooth Flow S680Y</Title>
-    <Cena>3719.0</Cena>
+    <Cena>3599.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8596690010655</EAN>
     <PN>SGR-HR-S680Y</PN>
@@ -59262,7 +59262,7 @@
     <ID>SGR_AD_F400LW</ID>
     <Title>Siguro Clouded Skipper F400LW</Title>
     <Cena>699.0</Cena>
-    <Dostupnost>on way</Dostupnost>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8595691086751</EAN>
     <PN>SGR-AD-F400LW</PN>
     <URL>https://www.alza.cz/siguro-ad-f400lw-clouded-skipper-d12530682.htm</URL>
@@ -59316,7 +59316,7 @@
     <index>5392</index>
     <ID>AET004510a_openbox</ID>
     <Title>Eternico Wireless Mouse MS510 černo-šedá</Title>
-    <Cena>689.0</Cena>
+    <Cena>629.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691068931</EAN>
     <PN>AET-MS510B</PN>
@@ -59492,8 +59492,8 @@
     <index>5408</index>
     <ID>AEY0973f_openbox</ID>
     <Title>AlzaErgo M610B Advanced kloubový 37"-80"</Title>
-    <Cena/>
-    <Dostupnost/>
+    <Cena>1459.0</Cena>
+    <Dostupnost>in stock</Dostupnost>
     <EAN>8595691020663</EAN>
     <PN>APW-EGTMM610B</PN>
     <URL>https://www.alza.cz/alzaergo-m610b-advanced-kloubovy-37-80-levne-d6339593.htm</URL>
@@ -59591,7 +59591,7 @@
     <index>5417</index>
     <ID>SGR_TT_D241W_closeout</ID>
     <Title>Siguro TT-D241W Essentials</Title>
-    <Cena>4399.0</Cena>
+    <Cena>4339.0</Cena>
     <Dostupnost>in stock</Dostupnost>
     <EAN>8595691091038</EAN>
     <PN>SGR-TT-D241W</PN>
